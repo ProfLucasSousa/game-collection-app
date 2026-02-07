@@ -68,7 +68,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Besiege + The Splintered Sea DLC",
+    "Name": "Besiege",
     "Description": "Um jogo de construção e física onde você cria máquinas de guerra medievais para completar objetivos e destruir estruturas. A DLC adiciona novos biomas e desafios náuticos.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -136,7 +136,10 @@
       "Puzzle",
       "Indie"
     ],
-    "Source": "Amazon",
+    "Source": [
+      "Amazon",
+      "Epic"
+    ],
     "Classification": "Indie"
   },
   {
@@ -411,18 +414,6 @@
     "Classification": "AA"
   },
   {
-    "Name": "HUE",
-    "Description": "Um jogo de puzzle plataforma onde você muda as cores do mundo de fundo para revelar ou esconder objetos. História emocional sobre uma mãe desaparecida.",
-    "ReleaseYear": 2016,
-    "Genres": [
-      "Puzzle",
-      "Platformer",
-      "Indie"
-    ],
-    "Source": "Amazon",
-    "Classification": "Indie"
-  },
-  {
     "Name": "Ironclad",
     "Description": "Um jogo de estratégia steampunk onde você comanda uma frota de navios de guerra blindados. Combate tático naval em tempo real.",
     "ReleaseYear": 2020,
@@ -591,7 +582,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Observer: July 11 - 17",
+    "Name": "Observer",
     "Description": "Estende o jogo horror cyberpunk Observer original com conteúdo adicional. Investigue mentes de pessoas como neural detective em futuro distópico.",
     "ReleaseYear": 2017,
     "Genres": [
@@ -1123,7 +1114,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Warhmmer 40,000: Dawn of War",
+    "Name": "Warhammer 40,000: Dawn of War",
     "Description": "RTS clássico do universo Warhammer 40K. Controle Space Marines e outras facções em batalhas estratégicas épicas pelo futuro sombrio.",
     "ReleaseYear": 2004,
     "Genres": [
@@ -1135,7 +1126,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Warhmmer 40,000: Dawn of War II",
+    "Name": "Warhammer 40,000: Dawn of War II",
     "Description": "Sequência focada em combate tático squad-based. Menos construção de base, mais ação RPG com heróis customizáveis.",
     "ReleaseYear": 2009,
     "Genres": [
@@ -1147,7 +1138,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Warhmmer 40,000: Space Marine",
+    "Name": "Warhammer 40,000: Space Marine",
     "Description": "Hack and slash em terceira pessoa como Space Marine Ultramarine. Massacre hordas de Orks em combate visceral melee e ranged.",
     "ReleaseYear": 2011,
     "Genres": [
@@ -1171,7 +1162,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "WRC 7 FIA World Rally Championship",
+    "Name": "WRC 7",
     "Description": "Simulador oficial de rally com todas as pistas e carros do campeonato 2017. Física de condução realista e condições climáticas dinâmicas.",
     "ReleaseYear": 2017,
     "Genres": [
@@ -1183,7 +1174,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "WRC 8 FIA World Rally Championship",
+    "Name": "WRC 8",
     "Description": "Simulador oficial de rally com física realista e todas as pistas e carros do campeonato 2019. Modo carreira profundo.",
     "ReleaseYear": 2019,
     "Genres": [
@@ -1261,19 +1252,6 @@
     "Genres": [
       "Adventure",
       "Shooter"
-    ],
-    "Source": "EA",
-    "Classification": "AAA"
-  },
-  {
-    "Name": "Dragon Age: Inquisition",
-    "Description": "RPG ambientado no continente de Thedas. Customize seu personagem escolhendo raça (anão, elfo, humano, Qunari) e classe (mago, rogue, guerreiro). Monte seu grupo, complete missões e cresça a Inquisition.",
-    "ReleaseYear": 2014,
-    "Genres": [
-      "Adventure",
-      "Role-playing (RPG)",
-      "Strategy",
-      "Tactical"
     ],
     "Source": "EA",
     "Classification": "AAA"
@@ -1378,7 +1356,10 @@
       "Shooter",
       "Simulator"
     ],
-    "Source": "EA",
+    "Source": [
+      "EA",
+      "Epic"
+    ],
     "Classification": "AAA"
   },
   {
@@ -1734,18 +1715,6 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Brothers - A Tale of Two Sons",
-    "Description": "Um jogo de aventura cooperativo single-player onde você controla dois irmãos simultaneamente com controles separados, resolvendo puzzles que exigem colaboração entre eles em uma jornada emocional.",
-    "ReleaseYear": 2013,
-    "Genres": [
-      "Adventure",
-      "Indie",
-      "Puzzle"
-    ],
-    "Source": "Epic",
-    "Classification": "Indie"
-  },
-  {
     "Name": "Bus Simulator 21 Next Stop",
     "Description": "Bus Simulator 2023 puts you in the driver’s seat and lets you become a real Bus Driver. Featuring detailed maps all over the world, modern buses with realistic interiors and a groundbreaking 1:1 physics engine.",
     "ReleaseYear": 2021,
@@ -1792,17 +1761,6 @@
     ],
     "Source": "Epic",
     "Classification": "Indie"
-  },
-  {
-    "Name": "Chivalry 2 - Public Testing",
-    "Description": "Chivalry 2 is a multiplayer first-person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era.",
-    "ReleaseYear": 2021,
-    "Genres": [
-      "Action",
-      "Fighting"
-    ],
-    "Source": "Epic",
-    "Classification": "AA"
   },
   {
     "Name": "Cities Skylines",
@@ -2189,7 +2147,10 @@
       "Role-playing (RPG)",
       "Action"
     ],
-    "Source": "Epic",
+    "Source": [
+      "Epic",
+      "EA"
+    ],
     "Classification": "AAA"
   },
   {
@@ -2361,7 +2322,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Fallout 2: A Post Nuclear Role Playing Game",
+    "Name": "Fallout 2",
     "Description": "A turn-based tactical Western RPG in which the Chosen One is tasked with exploring post-nuclear California to locate and retrieve the fabled Garden of Eden Creation Kit for their famine-stricken tribe, while coming into contact through branching dialogue trees with numerous tribes, factions and micro-civilizations, each with their own virtues, vices, socioeconomic situations and political agendas.",
     "ReleaseYear": 1998,
     "Genres": [
@@ -2482,7 +2443,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Galactic Civilizations III (Test branch)",
+    "Name": "Galactic Civilizations III",
     "Description": "Galactic Civilizations III is the largest strategy sandbox ever made. Start with a single world and expand across the galaxy through diplomacy, trade, cultural hegemony or military conquest in this single-player or multiplayer 4X strategy game.",
     "ReleaseYear": 2014,
     "Genres": [
@@ -2556,7 +2517,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Ghostwire Tokyo",
+    "Name": "Ghostwire: Tokyo",
     "Description": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before.",
     "ReleaseYear": 2022,
     "Genres": [
@@ -2680,7 +2641,10 @@
       "Shooter",
       "Tactical"
     ],
-    "Source": "Epic",
+    "Source": [
+      "Epic",
+      "Xbox PC"
+    ],
     "Classification": "AA"
   },
   {
@@ -2743,7 +2707,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Hue",
+    "Name": "HUE",
     "Description": "Hue is a stark puzzle platformer where you shift the hue of the world, creating rifts when colours collide. In this world, everyone sees in grayscale.",
     "ReleaseYear": 2016,
     "Genres": [
@@ -2754,7 +2718,8 @@
     ],
     "Source": [
       "Epic",
-      "Steam"
+      "Steam",
+      "Amazon"
     ],
     "Classification": "Indie"
   },
@@ -2894,17 +2859,6 @@
     "Description": "In Killing Floor 2 players descend into Europe where the Zed outbreak has quickly spread and gained unstoppable momentum. Just one month after the conclusion of the events in the original Killing Floor, the clones are everywhere and civilization is in disarray; governments have collapsed, and military forces are gone.",
     "ReleaseYear": 2016,
     "Genres": [
-      "Shooter"
-    ],
-    "Source": "Epic",
-    "Classification": "AA"
-  },
-  {
-    "Name": "KillingFloor2Beta",
-    "Description": "Killing Floor 2 is a first-person shooter video game that can be played alone or cooperatively with up to six players. The game is based on events from Killing Floor, in which bio-tech firm Horzine attempted to create military clones and was hijacked by an insane researcher.",
-    "ReleaseYear": 2016,
-    "Genres": [
-      "Action",
       "Shooter"
     ],
     "Source": "Epic",
@@ -3114,7 +3068,10 @@
       "Role-playing (RPG)",
       "Shooter"
     ],
-    "Source": "Epic",
+    "Source": [
+      "Epic",
+      "GOG"
+    ],
     "Classification": "AAA"
   },
   {
@@ -3305,7 +3262,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Off The Grid - Early Access",
+    "Name": "Off The Grid",
     "Description": "Off The Grid is a free-to-play, third-person shooter battle royale with cyberpunk vibes set 150 years in the future on a dystopian tropical island.",
     "ReleaseYear": 2024,
     "Genres": [
@@ -3460,7 +3417,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Predator: Hunting Grounds Standard Edition",
+    "Name": "Predator: Hunting Grounds",
     "Description": "Hunt or be hunted in this asymmetrical multiplayer shooter that pits man against Predator.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -3529,17 +3486,6 @@
       "Shooter",
       "Soulslike",
       "Co-op"
-    ],
-    "Source": "Epic",
-    "Classification": "AA"
-  },
-  {
-    "Name": "Rise of the Tomb Raider: 20 Year Celebration",
-    "Description": "Join Lara Croft on her first great tomb raiding expedition as she seeks to discover the secret of immortality. Featuring high-octane action set in the most beautiful and hostile environments on earth, Rise of the Tomb Raider delivers cinematic survival action-adventure.",
-    "ReleaseYear": 2015,
-    "Genres": [
-      "Adventure",
-      "Shooter"
     ],
     "Source": "Epic",
     "Classification": "AA"
@@ -3635,7 +3581,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Rustler - Grand Theft Horse",
+    "Name": "Rustler",
     "Description": "Rustler is an open-world, top-down action game paying tribute to the good old GTA 2 style and gameplay, fusing it with a historically inaccurate medieval setting.",
     "ReleaseYear": 2021,
     "Genres": [
@@ -3678,11 +3624,14 @@
       "Adventure",
       "Shooter"
     ],
-    "Source": "Epic",
+    "Source": [
+      "Epic",
+      "GOG"
+    ],
     "Classification": "AA"
   },
   {
-    "Name": "Saints Row The Third Remastered",
+    "Name": "Saints Row: The Third Remastered",
     "Description": "Saints Row: The Third Remastered gives you control of the Saints at the height of their power, and you live the life to show for it. This is your City.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -3690,7 +3639,10 @@
       "Racing",
       "Shooter"
     ],
-    "Source": "Epic",
+    "Source": [
+      "Epic",
+      "GOG"
+    ],
     "Classification": "AA"
   },
   {
@@ -3783,8 +3735,12 @@
       "Action",
       "Adventure"
     ],
-    "Source": "Epic",
-    "Classification": "Indie"
+    "Source": [
+      "Epic",
+      "Xbox Console",
+      "Xbox PC"
+    ],
+    "Classification": "AAA"
   },
   {
     "Name": "Shadow Tactics: Blades of the Shogun",
@@ -4016,17 +3972,6 @@
     "Genres": [
       "Adventure",
       "Shooter"
-    ],
-    "Source": "Epic",
-    "Classification": "AAA"
-  },
-  {
-    "Name": "Star Wars Squadrons",
-    "Description": "Master the art of starfighter combat in the authentic piloting experience STAR WARS: Squadrons. Buckle up, feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and learn what it means to be a pilot in a thrilling STAR WARS single-player campaign.",
-    "ReleaseYear": 2020,
-    "Genres": [
-      "Shooter",
-      "Simulator"
     ],
     "Source": "Epic",
     "Classification": "AAA"
@@ -4452,17 +4397,6 @@
     "Classification": "AA"
   },
   {
-    "Name": "Tomb Raider GAME OF THE YEAR EDITION",
-    "Description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
-    "ReleaseYear": 2013,
-    "Genres": [
-      "Action",
-      "Adventure"
-    ],
-    "Source": "Epic",
-    "Classification": "AA"
-  },
-  {
     "Name": "Torchlight II",
     "Description": "Action RPG hack and slash com geração procedural de dungeons. Successor espiritual de Diablo 2 com classes únicas e loot abundante.",
     "ReleaseYear": 2012,
@@ -4497,7 +4431,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Trackmania Starter Access",
+    "Name": "Trackmania",
     "Description": "TrackMania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -4660,7 +4594,7 @@
       "Ubisoft",
       "Xbox Console"
     ],
-    "Classification": "AA"
+    "Classification": "AAA"
   },
   {
     "Name": "We Were Here Together",
@@ -4845,7 +4779,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Zombie Army 4 Dead War",
+    "Name": "Zombie Army 4: Dead War",
     "Description": "Hitler's hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940's Europe, as you fight to save humankind from undead armageddon.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -4961,7 +4895,10 @@
       "Arcade",
       "Shooter"
     ],
-    "Source": "GOG",
+    "Source": [
+      "GOG",
+      "Steam"
+    ],
     "Classification": "AA"
   },
   {
@@ -5202,7 +5139,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Lacuna – A Sci-Fi Noir Adventure",
+    "Name": "Lacuna",
     "Description": "Another cigarette tumbles into the abyss. The sun is slowly coming up, glistening in the sea of buildings below.",
     "ReleaseYear": 2021,
     "Genres": [
@@ -5214,7 +5151,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Leap of Faith + Official Walkthrough",
+    "Name": "Leap of Faith",
     "Description": "Having spent 2 years wondering why your girlfriend left your seemingly perfect relationship out of the blue, you finally decide to move forward. And while you're opening your eyes to the world, it seems to be opening its eyes to you as well.",
     "ReleaseYear": 2022,
     "Genres": [
@@ -5324,18 +5261,6 @@
     ],
     "Source": "GOG",
     "Classification": "AA"
-  },
-  {
-    "Name": "Metro: Last Light Redux",
-    "Description": "Continuação de Metro 2033, expandindo o mundo subterrâneo de Moscou. Combina ação intensa com horror e atmosfera opressiva. Versão remasterizada.",
-    "ReleaseYear": 2014,
-    "Genres": [
-      "FPS",
-      "Horror",
-      "Survival"
-    ],
-    "Source": "GOG",
-    "Classification": "AAA"
   },
   {
     "Name": "Middle-earth: Shadow of Mordor Game of the Year Edition",
@@ -5461,34 +5386,11 @@
     "Classification": "AA"
   },
   {
-    "Name": "Saints Row IV: Re-Elected",
-    "Description": "The Boss of the Saints has been elected to the Presidency of the United States but the Saints are just getting started. After a catastrophic alien invasion of Earth, the Saints have been transported to a bizarro-Steelport simulation.",
-    "ReleaseYear": 2014,
-    "Genres": [
-      "Adventure",
-      "Shooter"
-    ],
-    "Source": "GOG",
-    "Classification": "AA"
-  },
-  {
     "Name": "Saints Row: Gat out of Hell",
     "Description": "After the space faring antics of Saints Row IV, many fans asked what we could do next… the answer? Shoot The Devil in the face. Play as either Johnny Gat or Kinzie Kensington as you tear apart Hell in a quest to save the leader of the Saints’ soul. Historical icons, old friends, older enemies, a talking gun, a full length musical number, and a whole lot of other shenanigans all await you in the open world standalone expansion playground that is <b>Saints Row: Gat Out Of Hell</b>.",
     "ReleaseYear": 2015,
     "Genres": [
       "Adventure",
-      "Shooter"
-    ],
-    "Source": "GOG",
-    "Classification": "AA"
-  },
-  {
-    "Name": "Saints Row: The Third Remastered",
-    "Description": "Saints Row®: The Third™ - Remastered gives you control of the Saints at the height of their power, and you live the life to show for it. This is your City.",
-    "ReleaseYear": 2020,
-    "Genres": [
-      "Adventure",
-      "Racing",
       "Shooter"
     ],
     "Source": "GOG",
@@ -5668,7 +5570,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "The Witcher: Enhanced Edition",
+    "Name": "The Witcher",
     "Description": "The Witcher is a role-playing game set in a dark fantasy world where moral ambiguity reigns. Shattering the line between good and evil, the game emphasizes story and character development, while incorporating a tactically-deep, real-time combat system.",
     "ReleaseYear": 2008,
     "Genres": [
@@ -5726,7 +5628,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "Name": "Tomb Raider I-II-III Remastered Starring Lara Croft",
     "Description": "Discover Lara Croft’s Original Adventures, Lovingly Restored Play the Original Three Tomb Raider Adventures: For the first time ever, play the complete experience with all expansions and secret levels on modern platforms in this definitive collection.Included Game TitlesTomb Raider I + The Unfinished Business Expansion Tomb Raider II + The Gold Mask Expansion Tomb Raider III + The Lost Artifact Expansion Key Features Solve Ancient Mysteries: Uncover treasures of the ancient world by solving puzzles and unraveling mysteries lost to the ravages of time. Globe-trotting Adventure: Follow Lara Croft around the world and face off against deadly foes and dangerous myths.",
     "ReleaseYear": 2024,
     "Genres": [
@@ -5985,18 +5887,6 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Call of Juarez Gunslinger",
-    "Description": "VOCÊ SE JULGA CAPAZ DE ENFRENTAR OS PISTOLEIROS MAIS IMPLACÁVEIS DA HISTÓRIA. Desde a poeira das minas de ouro até a sujeira dos salões, Call of Juarez® Gunslinger é uma verdadeira homenagem às histórias de Velho Oeste.",
-    "ReleaseYear": 2013,
-    "Genres": [
-      "Adventure",
-      "Arcade",
-      "Shooter"
-    ],
-    "Source": "Steam",
-    "Classification": "AA"
-  },
-  {
     "Name": "Capcom Arcade Stadium",
     "Description": "Reviva clássicos da Capcom. 1943 -The Battle of Midway- Logo Wallpaper vem como download grátis.",
     "ReleaseYear": 2021,
@@ -6135,7 +6025,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Fear the Timeloop - Prologue",
+    "Name": "Fear the Timeloop",
     "Description": "Fear the Timeloop - Prologue é um jogo de survival-horror em terceira pessoa, ambientado em um loop temporal.Jogue a primeira hora do jogo neste prólogo da história principal. Você assume o papel do xerife James Cooper, que acorda em um local desconhecido com um forte sangramento.",
     "ReleaseYear": 2024,
     "Genres": [
@@ -6359,7 +6249,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Oxygen: First Breath",
+    "Name": "Oxygen",
     "Description": "HISTÓRIAUm desastre natural nos atingiu e levou a humanidade à beira da extinção. Apenas alguns sobreviveram às “Grandes Províncias Ígneas” - vulcões que não explodem, mas que abrem grandes rachaduras na crosta terrestre nas quais a lava começa a borbulhar, escorrendo pela paisagem e liberando toneladas de gases tóxicos.",
     "ReleaseYear": 2024,
     "Genres": [
@@ -6427,18 +6317,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "SMITE - Public Test",
-    "Description": "SMITE is a free-to-play, third-person multiplayer online battle arena (MOBA) video game developed and published by Hi-Rez Studios for Microsoft Windows, PlayStation 4, and Xbox One.",
-    "ReleaseYear": 2014,
-    "Genres": [
-      "MOBA",
-      "Action"
-    ],
-    "Source": "Steam",
-    "Classification": "AA"
-  },
-  {
-    "Name": "Soccer Manager 2020",
+    "Name": "Soccer Manager",
     "Description": "Be a top football manager in Soccer Manager 2020 - free Football Management Game. Take a football team to the top and test your management skills against the best, or help a struggling team fight for glory.",
     "ReleaseYear": 2019,
     "Genres": [
@@ -6633,7 +6512,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Zula Global",
+    "Name": "Zula",
     "Description": "Zula é um jogo de tiro em primeira pessoa gratuito onde você descobrirá diferentes cenários do mundo real, como Paris, Batalha de Gallipoli (Primeira Guerra Mundial), Norte do Iraque, entre outros, com uma grande variedade de mapas para desfrutar, cada um com estilo de jogo diferente. Como jogador, podes apoiar dois lados diferentes: se escolheres ficar ao lado da ZULA, estarás a apoiar a vingança de Demir através da máfia, pelo contrário, se escolheres ser um Gladio, serás a favor do mercenário forças que se infiltraram em quase todos os serviços militares do mundo.",
     "ReleaseYear": 2016,
     "Genres": [
@@ -6698,7 +6577,7 @@
     "Classification": "AAA"
   },
   {
-    "Name": "Assassin's Creed III - Remastered",
+    "Name": "Assassin's Creed III Remastered",
     "Description": "Relive the American Revolution or experience it for the first time in Assassin's Creed III Remastered, with enhanced graphics and improved gameplay mechanics. Also includes all the original solo DLC, including The Tyranny of King Washington.",
     "ReleaseYear": 2019,
     "Genres": [
@@ -6954,7 +6833,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Heroes of Might & Magic II Gold Edition",
+    "Name": "Heroes of Might and Magic II",
     "Description": "Heroes of Might and Magic II is the sequel to the original Heroes of Might and Magic. Build your army, conquer castles, and become the greatest warlord of all time!",
     "ReleaseYear": 1996,
     "Genres": [
@@ -6965,7 +6844,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Heroes of Might & Magic III Complete Edition",
+    "Name": "Heroes of Might and Magic III",
     "Description": "Heroes of Might and Magic III: Complete Edition is a turn-based strategy game, originally released in February 1999. Included in the Complete Edition are Heroes of Might and Magic III: The Restoration of Erathia, Heroes III: Armageddon's Blade, and Heroes III: The Shadow of Death.",
     "ReleaseYear": 1999,
     "Genres": [
@@ -6996,7 +6875,7 @@
       "Role-playing (RPG)"
     ],
     "Source": "Ubisoft",
-    "Classification": "Indie"
+    "Classification": "AAA"
   },
   {
     "Name": "MONOPOLY",
@@ -7044,7 +6923,7 @@
       "Platform"
     ],
     "Source": "Ubisoft",
-    "Classification": "Indie"
+    "Classification": "AAA"
   },
   {
     "Name": "Rabbids Coding!",
@@ -7124,7 +7003,7 @@
       "Role-playing (RPG)"
     ],
     "Source": "Ubisoft",
-    "Classification": "Indie"
+    "Classification": "AAA"
   },
   {
     "Name": "South Park - The Stick of Truth",
@@ -7187,7 +7066,7 @@
       "Sport"
     ],
     "Source": "Ubisoft",
-    "Classification": "Indie"
+    "Classification": "AA"
   },
   {
     "Name": "The Crew 2",
@@ -7400,7 +7279,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Valiant Hearts",
+    "Name": "Valiant Hearts: The Great War",
     "Description": "Valiant Hearts: The Great War is the story of 4 crossed destinies and a broken love in a world torn apart. Dive into a 2D animated comic book adventure, mixing exploration, action and puzzles. In Valiant Hearts, the lives of all these characters are inextricably drawn together over the course of the game. Friendship, love, sacrifice and tragedy befall each one as they help each other to retain their humanity against the horrors of war.",
     "ReleaseYear": 2014,
     "Genres": [
@@ -7435,7 +7314,7 @@
       "Ubisoft",
       "Xbox Console"
     ],
-    "Classification": "AA"
+    "Classification": "AAA"
   },
   {
     "Name": "ZOMBI",
@@ -7503,7 +7382,7 @@
       "Role-playing (RPG)"
     ],
     "Source": "Xbox Console",
-    "Classification": "Indie"
+    "Classification": "AA"
   },
   {
     "Name": "Call of Duty: Modern Warfare II",
@@ -7639,22 +7518,11 @@
       "Action",
       "Adventure"
     ],
-    "Source": "Xbox Console",
-    "Classification": "Indie"
-  },
-  {
-    "Name": "Shadow of the Tomb Raider",
-    "Description": "Experience Lara Croft's defining moment as she becomes the Tomb Raider. In Shadow of the Tomb Raider, Lara must master a deadly jungle, overcome terrifying tombs, and persevere through her darkest hour.",
-    "ReleaseYear": 2018,
-    "Genres": [
-      "Action",
-      "Adventure"
-    ],
     "Source": [
-      "Xbox Console",
-      "Xbox PC"
+      "Epic",
+      "Xbox Console"
     ],
-    "Classification": "Indie"
+    "Classification": "AAA"
   },
   {
     "Name": "Splitgate: Arena Reloaded",
@@ -7681,7 +7549,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "The First Descedant",
+    "Name": "The First Descendant",
     "Description": "The First Descendant is a third-person cooperative action RPG looter shooter powered by Unreal Engine 5.",
     "ReleaseYear": 2024,
     "Genres": [
@@ -7695,7 +7563,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "Tomb Raider: Definitive Edition",
+    "Name": "Tomb Raider Definitive Edition",
     "Description": "Tomb Raider: Definitive Edition is a re-release of Tomb Raider, developed by Crystal Dynamics and published by Square-Enix for the Playstation 4 and the Xbox One. The game is optimized for next-gen consoles, with the help of outside developers including United Front Games and Nixxes Software.",
     "ReleaseYear": 2014,
     "Genres": [
@@ -7705,10 +7573,11 @@
       "Shooter"
     ],
     "Source": [
+      "Epic",
       "Xbox Console",
       "Xbox PC"
     ],
-    "Classification": "AA"
+    "Classification": "AAA"
   },
   {
     "Name": "Trials Rising Gold Edition",
@@ -7762,7 +7631,7 @@
     "Classification": "Indie"
   },
   {
-    "Name": "Asphalt 8: Airbone",
+    "Name": "Asphalt 8: Airborne",
     "Description": "Asphalt 8: Airborne is a 2013 racing video game, developed by Gameloft Barcelona and published by Gameloft as part of the Asphalt series.",
     "ReleaseYear": 2013,
     "Genres": [
@@ -7773,7 +7642,7 @@
     "Classification": "AA"
   },
   {
-    "Name": "DOOM Eternal (BATTLEMODE)",
+    "Name": "DOOM Eternal",
     "Description": "BATTLEMODE is DOOM Eternal's asymmetric multiplayer experience built from the ground up. A combat-sport where a 2v1 showdown pits two player-controlled demons against one fully-loaded Slayer.",
     "ReleaseYear": 2020,
     "Genres": [
@@ -7792,17 +7661,6 @@
     ],
     "Source": "Xbox PC",
     "Classification": "AAA"
-  },
-  {
-    "Name": "Hitman 3",
-    "Description": "HITMAN 3 is the dramatic conclusion to the World of Assassination trilogy and takes players around the world on a globetrotting adventure.",
-    "ReleaseYear": 2021,
-    "Genres": [
-      "Shooter",
-      "Stealth"
-    ],
-    "Source": "Xbox PC",
-    "Classification": "AA"
   },
   {
     "Name": "Modern Combat 5: Blackout",
