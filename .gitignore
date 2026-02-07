@@ -10,7 +10,3 @@ node_modules/
 .next/
 .env*.local
 .DS_Store
-
-# Downloaded game covers
-public/covers/*.jpg
-!public/covers/.gitkeep
