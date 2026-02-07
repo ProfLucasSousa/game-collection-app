@@ -3,7 +3,7 @@
 import { useEffect, useCallback } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import type { Game } from "@/lib/types"
-import { platformIconMap, platformColorMap } from "./platform-icons"
+import { platformIconMap } from "./platform-icons"
 
 interface GameModalProps {
   game: Game
@@ -11,7 +11,7 @@ interface GameModalProps {
 }
 
 export function GameModal({ game, onClose }: GameModalProps) {
-  const coverUrl = `/api/game-cover?name=${encodeURIComponent(game.name)}`
+  const coverUrl = `/covers/${game.id}.jpg`
 
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
@@ -119,12 +119,11 @@ export function GameModal({ game, onClose }: GameModalProps) {
               <div className="flex flex-wrap gap-2">
                 {game.sources.map((source) => {
                   const Icon = platformIconMap[source]
-                  const color = platformColorMap[source]
                   if (!Icon) return null
                   return (
                     <span
                       key={source}
-                      className={`inline-flex items-center gap-1.5 rounded-lg border border-border bg-secondary px-3 py-1.5 text-xs font-medium ${color}`}
+                      className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-secondary px-3 py-1.5 text-xs font-medium"
                     >
                       <Icon size={14} />
                       {source}

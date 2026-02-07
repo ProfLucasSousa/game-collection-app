@@ -124,24 +124,28 @@ export function GameLibrary({ games }: GameLibraryProps) {
   return (
     <div className="min-h-screen bg-background">
       <Header totalGames={games.length} />
-      <FilterBar
-        search={search}
-        onSearchChange={setSearch}
-        genres={allGenres}
-        selectedGenres={selectedGenres}
-        onGenreToggle={handleGenreToggle}
-        sources={allSources}
-        selectedSources={selectedSources}
-        onSourceToggle={handleSourceToggle}
-        classifications={allClassifications}
-        selectedClassifications={selectedClassifications}
-        onClassificationToggle={handleClassificationToggle}
-        totalFiltered={filteredGames.length}
-        totalGames={games.length}
-        onClearFilters={handleClearFilters}
-      />
+      
+      <div className="flex">
+        {/* Left sidebar for filters */}
+        <FilterBar
+          search={search}
+          onSearchChange={setSearch}
+          genres={allGenres}
+          selectedGenres={selectedGenres}
+          onGenreToggle={handleGenreToggle}
+          sources={allSources}
+          selectedSources={selectedSources}
+          onSourceToggle={handleSourceToggle}
+          classifications={allClassifications}
+          selectedClassifications={selectedClassifications}
+          onClassificationToggle={handleClassificationToggle}
+          totalFiltered={filteredGames.length}
+          totalGames={games.length}
+          onClearFilters={handleClearFilters}
+        />
 
-      <main className="mx-auto max-w-[1600px] px-4 py-6 lg:px-6">
+        {/* Main content area */}
+        <main className="flex-1 px-4 py-6 lg:px-6 lg:pl-4">
         <AnimatePresence mode="wait">
           {filteredGames.length === 0 ? (
             <motion.div
@@ -189,7 +193,7 @@ export function GameLibrary({ games }: GameLibraryProps) {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
             >
-              <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+              <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
                 {visibleGames.map((game, index) => (
                   <GameCard key={game.id} game={game} index={index} />
                 ))}
@@ -230,7 +234,8 @@ export function GameLibrary({ games }: GameLibraryProps) {
             </motion.div>
           )}
         </AnimatePresence>
-      </main>
+        </main>
+      </div>
     </div>
   )
 }

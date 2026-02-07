@@ -9,10 +9,25 @@ function slugify(name: string): string {
 }
 
 export function parseGames(): Game[] {
-  return (gamesData as GameRaw[]).map((raw) => {
+  const usedIds = new Set<string>()
+  
+  return (gamesData as GameRaw[]).map((raw, index) => {
     const sources = Array.isArray(raw.Source) ? raw.Source : [raw.Source]
+    let id = slugify(raw.Name)
+    
+    // Se o ID já existe, adiciona um sufixo numérico
+    if (usedIds.has(id)) {
+      let counter = 2
+      while (usedIds.has(`${id}-${counter}`)) {
+        counter++
+      }
+      id = `${id}-${counter}`
+    }
+    
+    usedIds.add(id)
+    
     return {
-      id: slugify(raw.Name),
+      id,
       name: raw.Name,
       description: raw.Description,
       releaseYear: raw.ReleaseYear,
@@ -60,22 +75,24 @@ export function filterGames(
   sources: string[],
   classifications: string[]
 ): Game[] {
-  return games.filter((game) => {
-    const matchSearch =
-      !search ||
-      game.name.toLowerCase().includes(search.toLowerCase()) ||
-      game.description.toLowerCase().includes(search.toLowerCase())
+  return games
+    .filter((game) => {
+      const matchSearch =
+        !search ||
+        game.name.toLowerCase().includes(search.toLowerCase()) ||
+        game.description.toLowerCase().includes(search.toLowerCase())
 
-    const matchGenre =
-      genres.length === 0 || game.genres.some((g) => genres.includes(g))
+      const matchGenre =
+        genres.length === 0 || game.genres.some((g) => genres.includes(g))
 
-    const matchSource =
-      sources.length === 0 || game.sources.some((s) => sources.includes(s))
+      const matchSource =
+        sources.length === 0 || game.sources.some((s) => sources.includes(s))
 
-    const matchClassification =
-      classifications.length === 0 ||
-      classifications.includes(game.classification)
+      const matchClassification =
+        classifications.length === 0 ||
+        classifications.includes(game.classification)
 
-    return matchSearch && matchGenre && matchSource && matchClassification
-  })
+      return matchSearch && matchGenre && matchSource && matchClassification
+    })
+    .sort((a, b) => a.name.localeCompare(b.name, 'pt-BR', { sensitivity: 'base' }))
 }

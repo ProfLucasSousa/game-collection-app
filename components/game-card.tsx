@@ -1,9 +1,9 @@
 "use client"
 
-import { useState, useCallback } from "react"
+import { useState, useCallback, useRef, useEffect } from "react"
 import { motion } from "framer-motion"
 import type { Game } from "@/lib/types"
-import { platformIconMap, platformColorMap } from "./platform-icons"
+import { platformIconMap } from "./platform-icons"
 import { GameModal } from "./game-modal"
 
 interface GameCardProps {
@@ -15,10 +15,16 @@ export function GameCard({ game, index }: GameCardProps) {
   const [imageLoaded, setImageLoaded] = useState(false)
   const [imageError, setImageError] = useState(false)
   const [showModal, setShowModal] = useState(false)
+  const imageRef = useRef<HTMLImageElement>(null)
 
-  const coverUrl = `https://steamcdn-a.akamaihd.net/steam/apps/${encodeURIComponent(game.name)}/header.jpg`
+  const coverUrl = `/covers/${game.id}.jpg`
 
-  const rawgSearchUrl = `/api/game-cover?name=${encodeURIComponent(game.name)}`
+  // Verificar se a imagem já está carregada (para eager loading)
+  useEffect(() => {
+    if (imageRef.current?.complete && imageRef.current.naturalHeight > 0) {
+      setImageLoaded(true)
+    }
+  }, [])
 
   const classificationColor =
     game.classification === "AAA"
@@ -52,14 +58,15 @@ export function GameCard({ game, index }: GameCardProps) {
         <div className="relative aspect-[3/4] w-full overflow-hidden bg-muted">
           {!imageError ? (
             <img
-              src={rawgSearchUrl || "/placeholder.svg"}
+              ref={imageRef}
+              src={coverUrl}
               alt={`${game.name} cover art`}
               className={`h-full w-full object-cover transition-all duration-500 group-hover:scale-105 ${
                 imageLoaded ? "opacity-100" : "opacity-0"
               }`}
               onLoad={handleImageLoad}
               onError={handleImageError}
-              loading="lazy"
+              loading={index < 24 ? "eager" : "lazy"}
             />
           ) : null}
 
@@ -140,12 +147,11 @@ export function GameCard({ game, index }: GameCardProps) {
           <div className="mt-auto flex items-center gap-1.5 pt-1">
             {game.sources.map((source) => {
               const Icon = platformIconMap[source]
-              const color = platformColorMap[source]
               if (!Icon) return null
               return (
                 <span
                   key={source}
-                  className={`${color} opacity-70 transition-opacity group-hover:opacity-100`}
+                  className="opacity-70 transition-opacity group-hover:opacity-100"
                   title={source}
                 >
                   <Icon size={14} />
