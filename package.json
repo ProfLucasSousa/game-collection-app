@@ -6,7 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "download-covers": "node scripts/download-covers.js",
+    "check-covers": "node scripts/check-missing-covers.js",
+    "create-placeholders": "node scripts/create-placeholder-covers.js",
+    "convert-covers": "node scripts/convert-covers.js",
+    "rename-covers": "node scripts/rename-covers.js",
+    "convert-png": "node scripts/convert-png-covers.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
