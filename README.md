@@ -19,6 +19,8 @@ Uma aplicação moderna e elegante para gerenciar e visualizar sua coleção de 
 - 🖼️ **Capas Locais**: 699 capas em alta qualidade baixadas via API IGDB
 - 🎬 **Links de Trailers**: Acesso direto aos trailers no YouTube
 - 🛒 **Links de Lojas**: Redirecionamento para Steam, Epic, GOG, Xbox e outras plataformas
+- 🎮 **Favicon Personalizado**: Ícone de gamepad no estilo do cabeçalho
+- 📲 **Preview Social**: Imagem rica ao compartilhar links (Open Graph + Twitter Cards)
 - ⚡ **Performance**: Otimizado com lazy loading, SSR e caching inteligente
 - 🎭 **Animações Suaves**: Transições elegantes com Framer Motion
 - 🌐 **639 Jogos**: Coleção completa com metadados e capas em alta qualidade
@@ -118,8 +120,10 @@ pnpm convert-png        # Converte imagens PNG para JPG
 game-collection-app/
 ├── app/                      # App Router do Next.js
 │   ├── globals.css          # Estilos globais
-│   ├── layout.tsx           # Layout principal
-│   └── page.tsx             # Página inicial
+│   ├── layout.tsx           # Layout principal com meta tags SEO
+│   ├── page.tsx             # Página inicial
+│   ├── icon.svg             # Ícone do app (favicon SVG)
+│   └── opengraph-image.tsx  # Imagem de preview social (Open Graph)
 ├── components/               # Componentes React
 │   ├── ui/                  # Componentes UI (Radix)
 │   │   ├── accordion.tsx   # Accordion (filtros recolhíveis)
@@ -144,7 +148,8 @@ game-collection-app/
 │   └── utils.ts            # Utilitários gerais (cn, etc.)
 ├── public/
 │   ├── covers/             # Capas dos jogos (699 imagens JPG, 68MB)
-│   └── logos/              # Logos das plataformas (8 imagens)
+│   ├── logos/              # Logos das plataformas (8 imagens)
+│   └── favicon.svg         # Favicon principal (ícone de gamepad)
 ├── scripts/                # Scripts de automação Node.js
 │   ├── check-missing-covers.js      # Verifica jogos sem capa
 │   ├── convert-covers.js            # WEBP/AVIF → JPG
@@ -256,7 +261,37 @@ Action, Adventure, RPG, Strategy, Simulation, Sports, Racing, Fighting, Platform
 - Descrição completa do jogo
 - **Link para trailer no YouTube** com ícone animado
 - **Links para comprar nas lojas** (Steam, Epic, GOG, Xbox, etc.) com ícones das plataformas
-- Botão de fechar no cant,
+- Botão de fechar no canto superior direito
+- Animações suaves de entrada/saída
+- Scroll vertical para conteúdo longo
+
+### 🔍 SEO e Meta Tags
+- **Favicon**: Ícone de gamepad SVG no estilo do logo do cabeçalho
+- **Open Graph**: Preview rico para Facebook, LinkedIn, WhatsApp, Discord
+- **Twitter Cards**: Preview especial para Twitter/X com imagens grandes
+- **Meta Tags**: Keywords, descriptions, canonical URLs, robots
+- **Imagem de Preview Social**: Gerada dinamicamente (1200x630px) com:
+  - Logo do GameVault com fundo roxo
+  - Título com gradiente purple/blue
+  - Descrição da coleção (600+ jogos)
+  - Badges das 7 plataformas disponíveis
+  - Fundo dark com gradiente elegante
+- Preview funciona em todas as plataformas sociais ao compartilhar links
+
+## 🔧 Configuração Avançada
+
+### Adicionar Novos Jogos
+
+1. Edite `data/games.json` e adicione os campos necessários:
+
+```json
+{
+  "Name": "Nome do Jogo",
+  "Description": "Descrição completa do jogo...",
+  "ReleaseYear": 2024,
+  "Genres": ["Action", "Adventure", "RPG"],
+  "Source": "Steam",
+  "Classification": "AAA",
   "TrailerYoutube": "https://www.youtube.com/watch?v=...",
   "StoreLinks": {
     "Steam": "https://store.steampowered.com/app/...",
@@ -271,7 +306,11 @@ Action, Adventure, RPG, Strategy, Simulation, Sports, Racing, Fighting, Platform
    - Exemplo: "The Witcher 3" → `the-witcher-3.jpg`
    - Formato: JPG, 264x352px (ou maior mantendo proporção)
 
-3. Ou use o script de download automático da IGDBante scroll infinito
+3. Ou use o script de download automático da IGDB:
+
+```bash
+pnpm download-covers
+```
 
 ## 🎨 Temas e Cores
 
