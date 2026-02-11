@@ -11,7 +11,7 @@ function slugify(name: string): string {
 export function parseGames(): Game[] {
   const usedIds = new Set<string>()
   
-  return (gamesData as GameRaw[]).map((raw, index) => {
+  return (gamesData as unknown as GameRaw[]).map((raw, index) => {
     const sources = Array.isArray(raw.Source) ? raw.Source : [raw.Source]
     let id = slugify(raw.Name)
     
@@ -36,6 +36,8 @@ export function parseGames(): Game[] {
       classification: raw.Classification,
       coverUrl: null,
       screenshotUrl: null,
+      trailerYoutube: raw.TrailerYoutube,
+      storeLinks: raw.StoreLinks,
     }
   })
 }
@@ -68,12 +70,21 @@ export function getAllClassifications(games: Game[]): Map<string, number> {
   return new Map([...classMap.entries()].sort((a, b) => b[1] - a[1]))
 }
 
+export function getAllYears(games: Game[]): Map<number, number> {
+  const yearMap = new Map<number, number>()
+  games.forEach((game) => {
+    yearMap.set(game.releaseYear, (yearMap.get(game.releaseYear) || 0) + 1)
+  })
+  return new Map([...yearMap.entries()].sort((a, b) => b[0] - a[0])) // Ordem decrescente por ano
+}
+
 export function filterGames(
   games: Game[],
   search: string,
   genres: string[],
   sources: string[],
-  classifications: string[]
+  classifications: string[],
+  years: number[]
 ): Game[] {
   return games
     .filter((game) => {
@@ -92,7 +103,10 @@ export function filterGames(
         classifications.length === 0 ||
         classifications.includes(game.classification)
 
-      return matchSearch && matchGenre && matchSource && matchClassification
+      const matchYear =
+        years.length === 0 || years.includes(game.releaseYear)
+
+      return matchSearch && matchGenre && matchSource && matchClassification && matchYear
     })
     .sort((a, b) => a.name.localeCompare(b.name, 'pt-BR', { sensitivity: 'base' }))
 }
