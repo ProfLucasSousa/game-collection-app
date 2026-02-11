@@ -5,6 +5,8 @@ export interface GameRaw {
   Genres: string[]
   Source: string | string[]
   Classification: string
+  TrailerYoutube?: string
+  StoreLinks?: Record<string, string>
 }
 
 export interface Game {
@@ -17,6 +19,8 @@ export interface Game {
   classification: string
   coverUrl: string | null
   screenshotUrl: string | null
+  trailerYoutube?: string
+  storeLinks?: Record<string, string>
 }
 
 export type PlatformSource =
