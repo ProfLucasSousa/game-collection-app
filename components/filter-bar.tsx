@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, memo, useEffect } from "react"
 import { motion } from "framer-motion"
 import { platformIconMap } from "./platform-icons"
 import {
@@ -29,12 +29,37 @@ interface FilterBarProps {
   classifications: Map<string, number>
   selectedClassifications: string[]
   onClassificationToggle: (classification: string) => void
+  years: Map<number, number>
+  selectedYears: number[]
+  onYearToggle: (year: number) => void
   totalFiltered: number
   totalGames: number
   onClearFilters: () => void
 }
 
-export function FilterBar({
+interface FiltersContentProps {
+  search: string
+  onSearchChange: (value: string) => void
+  genres: string[]
+  selectedGenres: string[]
+  onGenreToggle: (genre: string) => void
+  sources: Map<string, number>
+  selectedSources: string[]
+  onSourceToggle: (source: string) => void
+  classifications: Map<string, number>
+  selectedClassifications: string[]
+  onClassificationToggle: (classification: string) => void
+  years: Map<number, number>
+  selectedYears: number[]
+  onYearToggle: (year: number) => void
+  totalFiltered: number
+  totalGames: number
+  hasFilters: boolean
+  onClearFilters: () => void
+}
+
+// Filters content component - moved outside to prevent recreation on re-renders
+const FiltersContent = memo(function FiltersContent({
   search,
   onSearchChange,
   genres,
@@ -46,20 +71,15 @@ export function FilterBar({
   classifications,
   selectedClassifications,
   onClassificationToggle,
+  years,
+  selectedYears,
+  onYearToggle,
   totalFiltered,
   totalGames,
+  hasFilters,
   onClearFilters,
-}: FilterBarProps) {
-  const [sheetOpen, setSheetOpen] = useState(false)
-  
-  const hasFilters =
-    selectedGenres.length > 0 ||
-    selectedSources.length > 0 ||
-    selectedClassifications.length > 0 ||
-    search.length > 0
-
-  // Filters content component
-  const FiltersContent = () => (
+}: FiltersContentProps) {
+  return (
     <div className="space-y-4">
       {/* Search */}
       <div>
@@ -237,6 +257,44 @@ export function FilterBar({
             </div>
           </AccordionContent>
         </AccordionItem>
+
+        <AccordionItem value="years" className="border-b-0">
+          <AccordionTrigger className="text-xs font-semibold uppercase tracking-wider text-muted-foreground py-3">
+            Ano de Lançamento
+          </AccordionTrigger>
+          <AccordionContent className="pb-3">
+            <div className="flex flex-wrap gap-1.5 max-h-32 overflow-y-auto">
+              {Array.from(years.entries()).map(([year, count]) => {
+                const isActive = selectedYears.includes(year)
+                return (
+                  <motion.button
+                    key={year}
+                    whileTap={{ scale: 0.95 }}
+                    onClick={() => onYearToggle(year)}
+                    className={`inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1 text-[11px] font-medium transition-all ${
+                      isActive
+                        ? "border-primary/50 bg-primary/10 text-primary"
+                        : "border-border bg-card text-muted-foreground hover:bg-secondary hover:text-foreground"
+                    }`}
+                    aria-pressed={isActive}
+                    aria-label={`Filter by year: ${year}`}
+                  >
+                    {year}
+                    <span
+                      className={`rounded-full px-1.5 py-0.5 text-[10px] font-bold ${
+                        isActive
+                          ? "bg-primary/20 text-primary"
+                          : "bg-secondary text-muted-foreground"
+                      }`}
+                    >
+                      {count}
+                    </span>
+                  </motion.button>
+                )
+              })}
+            </div>
+          </AccordionContent>
+        </AccordionItem>
       </Accordion>
 
       {/* Results count */}
@@ -262,6 +320,55 @@ export function FilterBar({
       )}
     </div>
   )
+})
+
+export function FilterBar({
+  search,
+  onSearchChange,
+  genres,
+  selectedGenres,
+  onGenreToggle,
+  sources,
+  selectedSources,
+  onSourceToggle,
+  classifications,
+  selectedClassifications,
+  onClassificationToggle,
+  years,
+  selectedYears,
+  onYearToggle,
+  totalFiltered,
+  totalGames,
+  onClearFilters,
+}: FilterBarProps) {
+  const [sheetOpen, setSheetOpen] = useState(false)
+  const [mounted, setMounted] = useState(false)
+  
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+  
+  const hasFilters =
+    selectedGenres.length > 0 ||
+    selectedSources.length > 0 ||
+    selectedClassifications.length > 0 ||
+    selectedYears.length > 0 ||
+    search.length > 0
+
+  if (!mounted) {
+    return (
+      <aside className="hidden lg:block w-80 xl:w-96 border-r border-border bg-card/30 backdrop-blur-sm sticky top-0 h-screen overflow-y-auto">
+        <div className="p-6">
+          <div className="mb-6">
+            <h2 className="text-lg font-bold text-foreground">Filtros</h2>
+            <p className="text-xs text-muted-foreground mt-1">
+              Refine sua busca
+            </p>
+          </div>
+        </div>
+      </aside>
+    )
+  }
 
   return (
     <>
@@ -293,7 +400,26 @@ export function FilterBar({
             <SheetTitle>Filtros</SheetTitle>
           </SheetHeader>
           <div className="mt-6">
-            <FiltersContent />
+            <FiltersContent
+              search={search}
+              onSearchChange={onSearchChange}
+              genres={genres}
+              selectedGenres={selectedGenres}
+              onGenreToggle={onGenreToggle}
+              sources={sources}
+              selectedSources={selectedSources}
+              onSourceToggle={onSourceToggle}
+              classifications={classifications}
+              selectedClassifications={selectedClassifications}
+              onClassificationToggle={onClassificationToggle}
+              years={years}
+              selectedYears={selectedYears}
+              onYearToggle={onYearToggle}
+              totalFiltered={totalFiltered}
+              totalGames={totalGames}
+              hasFilters={hasFilters}
+              onClearFilters={onClearFilters}
+            />
           </div>
         </SheetContent>
       </Sheet>
@@ -307,7 +433,26 @@ export function FilterBar({
               Refine sua busca
             </p>
           </div>
-          <FiltersContent />
+          <FiltersContent
+            search={search}
+            onSearchChange={onSearchChange}
+            genres={genres}
+            selectedGenres={selectedGenres}
+            onGenreToggle={onGenreToggle}
+            sources={sources}
+            selectedSources={selectedSources}
+            onSourceToggle={onSourceToggle}
+            classifications={classifications}
+            selectedClassifications={selectedClassifications}
+            onClassificationToggle={onClassificationToggle}
+            years={years}
+            selectedYears={selectedYears}
+            onYearToggle={onYearToggle}
+            totalFiltered={totalFiltered}
+            totalGames={totalGames}
+            hasFilters={hasFilters}
+            onClearFilters={onClearFilters}
+          />
         </div>
       </aside>
     </>

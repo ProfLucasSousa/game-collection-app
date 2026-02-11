@@ -8,6 +8,7 @@ import {
   getAllGenres,
   getAllSources,
   getAllClassifications,
+  getAllYears,
 } from "@/lib/games"
 import { Header } from "./header"
 import { FilterBar } from "./filter-bar"
@@ -26,6 +27,7 @@ export function GameLibrary({ games }: GameLibraryProps) {
   const [selectedClassifications, setSelectedClassifications] = useState<
     string[]
   >([])
+  const [selectedYears, setSelectedYears] = useState<number[]>([])
   const [visibleCount, setVisibleCount] = useState(GAMES_PER_PAGE)
   const [isLoadingMore, setIsLoadingMore] = useState(false)
   const loadMoreRef = useRef<HTMLDivElement>(null)
@@ -40,6 +42,7 @@ export function GameLibrary({ games }: GameLibraryProps) {
     () => getAllClassifications(games),
     [games]
   )
+  const allYears = useMemo(() => getAllYears(games), [games])
 
   const filteredGames = useMemo(() => {
     return filterGames(
@@ -47,9 +50,10 @@ export function GameLibrary({ games }: GameLibraryProps) {
       search,
       selectedGenres,
       selectedSources,
-      selectedClassifications
+      selectedClassifications,
+      selectedYears
     )
-  }, [games, search, selectedGenres, selectedSources, selectedClassifications])
+  }, [games, search, selectedGenres, selectedSources, selectedClassifications, selectedYears])
 
   const visibleGames = useMemo(
     () => filteredGames.slice(0, visibleCount),
@@ -61,7 +65,7 @@ export function GameLibrary({ games }: GameLibraryProps) {
   // Reset visible count when filters change
   useEffect(() => {
     setVisibleCount(GAMES_PER_PAGE)
-  }, [search, selectedGenres, selectedSources, selectedClassifications])
+  }, [search, selectedGenres, selectedSources, selectedClassifications, selectedYears])
 
   // Infinite scroll observer
   useEffect(() => {
@@ -114,11 +118,18 @@ export function GameLibrary({ games }: GameLibraryProps) {
     []
   )
 
+  const handleYearToggle = useCallback((year: number) => {
+    setSelectedYears((prev) =>
+      prev.includes(year) ? prev.filter((y) => y !== year) : [...prev, year]
+    )
+  }, [])
+
   const handleClearFilters = useCallback(() => {
     setSearch("")
     setSelectedGenres([])
     setSelectedSources([])
     setSelectedClassifications([])
+    setSelectedYears([])
   }, [])
 
   return (
@@ -139,6 +150,9 @@ export function GameLibrary({ games }: GameLibraryProps) {
           classifications={allClassifications}
           selectedClassifications={selectedClassifications}
           onClassificationToggle={handleClassificationToggle}
+          years={allYears}
+          selectedYears={selectedYears}
+          onYearToggle={handleYearToggle}
           totalFiltered={filteredGames.length}
           totalGames={games.length}
           onClearFilters={handleClearFilters}
