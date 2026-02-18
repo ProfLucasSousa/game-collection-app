@@ -12,7 +12,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YpGpp8Xi5PQ",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=A%20Knight's%20Quest+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=A%20Knight's%20Quest"
     }
   },
   {
@@ -27,7 +28,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Aces%20of%20the%20Luftwaffe%20-%20Squadron+pc+game",
       "Steam": "https://store.steampowered.com/app/859350/"
     }
   },
@@ -59,7 +60,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wVxP3TT8RCI",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Art%20of%20Fighting%202+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Art%20of%20Fighting%202"
     }
   },
   {
@@ -75,7 +77,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tlPdBoaUBfw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Aurion%3A%20Legacy%20of%20the%20Kori-Odan+pc+game",
       "Steam": "https://store.steampowered.com/app/368080/"
     }
   },
@@ -91,7 +93,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5SL7W80fxRw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Bang%20Bang%20Racing+pc+game",
       "Steam": "https://store.steampowered.com/app/207020/"
     }
   },
@@ -106,9 +108,9 @@
     ],
     "Source": "Amazon",
     "Classification": "Indie",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=27OvwrsOLL8",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Besiege+pc+game",
       "Steam": "https://store.steampowered.com/app/346010/"
     }
   },
@@ -125,7 +127,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WzR7ldgPDro",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Blazing%20Chrome+pc+game",
       "Steam": "https://store.steampowered.com/app/609110/"
     }
   },
@@ -142,7 +144,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=JynmMyhlasQ",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Blazing%20Star+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Blazing%20Star"
     }
   },
   {
@@ -158,7 +161,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=e0dNAq3f5pU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Breathedge+pc+game",
       "Steam": "https://store.steampowered.com/app/738520/"
     }
   },
@@ -175,7 +178,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=RjfrhOSnU6Y",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Bridge%20Constructor%3A%20Medieval+pc+game",
       "Steam": "https://store.steampowered.com/app/319850/"
     }
   },
@@ -195,8 +198,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DHohBVfhGDU",
     "StoreLinks": {
-      "Amazon": "",
-      "Epic": "",
+      "Amazon": "https://www.amazon.com/s?k=Brothers%3A%20A%20Tale%20of%20Two%20Sons+pc+game",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Brothers%3A%20A%20Tale%20of%20Two%20Sons",
       "Steam": "https://store.steampowered.com/app/225080/"
     }
   },
@@ -213,7 +216,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tTNWvQ8qqdM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Dark%20Devotion+pc+game",
       "Steam": "https://store.steampowered.com/app/718590/"
     }
   },
@@ -230,7 +233,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wSs8Skdj1Cs",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Dead%20Age+pc+game",
       "Steam": "https://store.steampowered.com/app/363930/"
     }
   },
@@ -247,7 +250,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=k7_3B3-G694",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Dead%20In%20Vinland+pc+game",
       "Steam": "https://store.steampowered.com/app/573120/"
     }
   },
@@ -264,7 +267,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ookZOddCXwU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Deadlight%3A%20Director's%20Cut+pc+game",
       "Steam": "https://store.steampowered.com/app/423950/"
     }
   },
@@ -281,7 +284,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=alIq_wG9FNk",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Disney%E2%80%A2Pixar%20WALL-E+pc+game",
       "Steam": "https://store.steampowered.com/app/331750/"
     }
   },
@@ -298,7 +301,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MSqnAkcDcoo",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=DreadOut%202+pc+game",
       "Steam": "https://store.steampowered.com/app/945710/"
     }
   },
@@ -315,7 +318,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V7U1VcS0ymw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Dungeon%20Rushers+pc+game",
       "Steam": "https://store.steampowered.com/app/429620/"
     }
   },
@@ -332,7 +335,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "",
+      "Steam": "https://store.steampowered.com/search/?term=ENDLESS%20Legend%20Definitive%20Edition"
     }
   },
   {
@@ -348,7 +352,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kiM2_XB_HZE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Endling%3A%20Extinction%20is%20Forever+pc+game",
       "Steam": "https://store.steampowered.com/app/898890/"
     }
   },
@@ -365,7 +369,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=yqgM4GEYlds",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Extreme%20Exorcism+pc+game",
       "Steam": "https://store.steampowered.com/app/334100/"
     }
   },
@@ -382,7 +386,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7bLfB21XdgU",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Fatal%20Fury%20Special+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Fatal%20Fury%20Special"
     }
   },
   {
@@ -402,8 +407,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kO02kz_L1Qc",
     "StoreLinks": {
-      "Amazon": "",
-      "Epic": "",
+      "Amazon": "https://www.amazon.com/s?k=Figment%202%3A%20Creed%20Valley+pc+game",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Figment%202%3A%20Creed%20Valley",
       "Steam": "https://store.steampowered.com/app/1085220/"
     }
   },
@@ -420,7 +425,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OfDSXz1HTYU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Forsaken%20Remastered+pc+game",
       "Steam": "https://store.steampowered.com/app/668980/"
     }
   },
@@ -437,7 +442,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Geaxb7Rhj-s",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Gargoyles%20Remastered+pc+game",
       "Steam": "https://store.steampowered.com/app/1928020/"
     }
   },
@@ -454,7 +459,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-Zoe9IXH_-s",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Garou+pc+game",
       "Steam": "https://store.steampowered.com/app/366240/"
     }
   },
@@ -471,7 +476,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V7U1VcS0ymw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Genesis%20Alpha%20One%20Deluxe%20Edition+pc+game",
       "Steam": "https://store.steampowered.com/app/712190/"
     }
   },
@@ -488,7 +493,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=EAV0xr8AkhM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Giana%20Sisters%3A%20Twisted%20Dreams+pc+game",
       "Steam": "https://store.steampowered.com/app/223220/"
     }
   },
@@ -505,7 +510,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YNeHKMGnZks",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Golazo!%20Soccer%20League+pc+game",
       "Steam": "https://store.steampowered.com/app/1431040/"
     }
   },
@@ -522,7 +527,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ssl0CLhk5I0",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Gone%20Viral+pc+game",
       "Steam": "https://store.steampowered.com/app/680030/"
     }
   },
@@ -539,7 +544,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=yF2-zEBFiVM",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "",
+      "Steam": "https://store.steampowered.com/search/?term=Grime%3A%20Definitive%20Edition"
     }
   },
   {
@@ -558,8 +564,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=nEFl74x-q-s",
     "StoreLinks": {
-      "Amazon": "",
-      "GOG": "",
+      "Amazon": "https://www.amazon.com/s?k=GRIP+pc+game",
+      "GOG": "https://www.gog.com/en/games?query=GRIP",
       "Steam": "https://store.steampowered.com/app/396900/"
     }
   },
@@ -576,7 +582,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vnnY1GW_hog",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=GYLT+pc+game",
       "Steam": "https://store.steampowered.com/app/2206210/"
     }
   },
@@ -593,7 +599,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OextcsiiBFY",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Ironclad+pc+game",
       "Steam": "https://store.steampowered.com/app/3545560/"
     }
   },
@@ -610,7 +616,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MgGQ-qmEDrY",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Jay%20and%20Silent%20Bob%3A%20Mall%20Brawl+pc+game",
       "Steam": "https://store.steampowered.com/app/1087440/"
     }
   },
@@ -627,7 +633,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wVDtmouV9kM",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=King%20of%20the%20Monsters+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=King%20of%20the%20Monsters"
     }
   },
   {
@@ -643,7 +650,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CyDs5UJfvks",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Layers%20of%20Fear+pc+game",
       "Steam": "https://store.steampowered.com/app/1946700/"
     }
   },
@@ -660,7 +667,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Qix-A8GNPfA",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=LEGO%20Indiana%20Jones%3A%20The%20Original%20Adventures+pc+game",
       "Steam": "https://store.steampowered.com/app/32330/"
     }
   },
@@ -677,7 +684,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kO81mGeNEPE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Lethis%20-%20Path%20of%20Progress+pc+game",
       "Steam": "https://store.steampowered.com/app/359230/"
     }
   },
@@ -694,7 +701,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Dv8kYp-SEPw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Max%3A%20The%20Curse%20of%20Brotherhood+pc+game",
       "Steam": "https://store.steampowered.com/app/255390/"
     }
   },
@@ -711,7 +718,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=VO8Z6SNM8qo",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Slug+pc+game",
       "Steam": "https://store.steampowered.com/app/366250/"
     }
   },
@@ -728,7 +735,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=i8Zy5BUiQf8",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Slug%202+pc+game",
       "Steam": "https://store.steampowered.com/app/366260/"
     }
   },
@@ -745,7 +752,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=iMW7-SVZ8GA",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Slug%203+pc+game",
       "Steam": "https://store.steampowered.com/app/250180/"
     }
   },
@@ -762,7 +769,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Y5w1uDq9-98",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Slug%204+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Metal%20Slug%204"
     }
   },
   {
@@ -778,7 +786,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=aPGMOwyD7mU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Slug%20X+pc+game",
       "Steam": "https://store.steampowered.com/app/312610/"
     }
   },
@@ -795,7 +803,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=8_CQ2sMfbks",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Metal%20Unit+pc+game",
       "Steam": "https://store.steampowered.com/app/1173200/"
     }
   },
@@ -812,7 +820,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=BNLCNGS4OFM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Nanotale%20-%20Typing%20Chronicles+pc+game",
       "Steam": "https://store.steampowered.com/app/944920/"
     }
   },
@@ -829,7 +837,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=c3xSyjKA4iQ",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Observer+pc+game",
       "Steam": "https://store.steampowered.com/app/1386900/"
     }
   },
@@ -850,8 +858,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=UZVos29wFjg",
     "StoreLinks": {
-      "Amazon": "",
-      "Epic": "",
+      "Amazon": "https://www.amazon.com/s?k=Out%20of%20Line+pc+game",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Out%20of%20Line",
       "Steam": "https://store.steampowered.com/app/1419290/"
     }
   },
@@ -868,7 +876,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ob6VIECzAFk",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Overcooked!+pc+game",
       "Steam": "https://store.steampowered.com/app/728880/"
     }
   },
@@ -885,7 +893,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=t0p8Eg9ShRc",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Peaky%20Blinders%3A%20Mastermind+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Peaky%20Blinders%3A%20Mastermind"
     }
   },
   {
@@ -901,7 +910,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Jf77Zql2ZVM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Project%20Warlock+pc+game",
       "Steam": "https://store.steampowered.com/app/893680/"
     }
   },
@@ -918,7 +927,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FiurP2EdgWU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Pulstar+pc+game",
       "Steam": "https://store.steampowered.com/app/1188000/"
     }
   },
@@ -935,7 +944,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PpaEymVC9-I",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Q.U.B.E.%202+pc+game",
       "Steam": "https://store.steampowered.com/app/359100/"
     }
   },
@@ -952,7 +961,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1IDoc63olf4",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Real%20Bout%20Fatal%20Fury%202%3A%20The%20Newcomers+pc+game",
       "Steam": "https://store.steampowered.com/app/3359900/"
     }
   },
@@ -969,7 +978,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=lhs05IU0LnI",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Samurai%20Bringer+pc+game",
       "Steam": "https://store.steampowered.com/app/1851280/"
     }
   },
@@ -986,7 +995,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=80OAvCdC9pM",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Samurai%20Shodown%20II+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Samurai%20Shodown%20II"
     }
   },
   {
@@ -1002,7 +1012,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kvRhuSkQAkY",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Samurai%20Shodown%20V%20Special+pc+game",
       "Steam": "https://store.steampowered.com/app/1076550/"
     }
   },
@@ -1019,7 +1029,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CpzN1-moCkI",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Sengoku%203+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Sengoku%203"
     }
   },
   {
@@ -1035,7 +1046,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=x55CaDILgcU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Shaq%20Fu%3A%20A%20Legend%20Reborn+pc+game",
       "Steam": "https://store.steampowered.com/app/496040/"
     }
   },
@@ -1052,7 +1063,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ex7Ddlg6Y4w",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Shattered%20-%20Tale%20of%20the%20Forgotten%20King+pc+game",
       "Steam": "https://store.steampowered.com/app/1045180/"
     }
   },
@@ -1069,7 +1080,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=mSA4LDeLTAo",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Shock%20Troopers+pc+game",
       "Steam": "https://store.steampowered.com/app/366270/"
     }
   },
@@ -1086,7 +1097,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=X2FzVY3gegI",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Shock%20Troopers%3A%202nd%20Squad+pc+game",
       "Steam": "https://store.steampowered.com/app/465870/"
     }
   },
@@ -1103,7 +1114,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=n_rHDulnQp8",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Silver%20Chains+pc+game",
       "Steam": "https://store.steampowered.com/app/975470/"
     }
   },
@@ -1120,7 +1131,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KYxlEcmezKA",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Simulakros+pc+game",
       "Steam": "https://store.steampowered.com/app/2067160/"
     }
   },
@@ -1137,7 +1148,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TdxtGTcUBeE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Sine%20Mora%20EX+pc+game",
       "Steam": "https://store.steampowered.com/app/606730/"
     }
   },
@@ -1154,7 +1165,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XvMB2u43eeI",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Smoke%20and%20Sacrifice+pc+game",
       "Steam": "https://store.steampowered.com/app/695100/"
     }
   },
@@ -1171,7 +1182,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=T_8_tlYW4BM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=SNK%2040th%20Anniversary%20Collection+pc+game",
       "Steam": "https://store.steampowered.com/app/865940/"
     }
   },
@@ -1188,7 +1199,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wHitLipHd44",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Spirit%20Mancer+pc+game",
       "Steam": "https://store.steampowered.com/app/2172580/"
     }
   },
@@ -1205,7 +1216,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HpFV9aBAg4E",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=STAR%20WARS%20Jedi%20Knight%20-%20Jedi%20Academy+pc+game",
       "Steam": "https://store.steampowered.com/app/6020/"
     }
   },
@@ -1222,7 +1233,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rsH8LAb-5qQ",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=STAR%20WARS%20Republic%20Commando+pc+game",
       "Steam": "https://store.steampowered.com/app/6000/"
     }
   },
@@ -1239,7 +1250,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tHIIz26jXYM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords+pc+game",
       "Steam": "https://store.steampowered.com/app/208580/"
     }
   },
@@ -1256,7 +1267,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9Gclxgy2A_M",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20The%20Force%20Unleashed+pc+game",
       "Steam": "https://store.steampowered.com/app/32500/"
     }
   },
@@ -1273,7 +1284,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YBU5KI1rrXI",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Steel%20Rats+pc+game",
       "Steam": "https://store.steampowered.com/app/619700/"
     }
   },
@@ -1290,7 +1301,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=EWO6-bYA_To",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Stick%20it%20to%20the%20Man+pc+game",
       "Steam": "https://store.steampowered.com/app/251830/"
     }
   },
@@ -1307,7 +1318,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gw563faSI54",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20Crow's%20Eye+pc+game",
       "Steam": "https://store.steampowered.com/app/449510/"
     }
   },
@@ -1324,7 +1335,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KUjLQaTQkpE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20Escapists+pc+game",
       "Steam": "https://store.steampowered.com/app/641990/"
     }
   },
@@ -1341,7 +1352,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=infHW013PH0",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%20'97%20Global%20Match+pc+game",
       "Steam": "https://store.steampowered.com/app/702120/"
     }
   },
@@ -1358,7 +1369,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=IkzrUD56DPk",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%20'98%20Ultimate%20Match+pc+game",
       "Steam": "https://store.steampowered.com/app/222420/"
     }
   },
@@ -1375,7 +1386,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=iL5r3vUj_2k",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%202000+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=The%20King%20of%20Fighters%202000"
     }
   },
   {
@@ -1391,7 +1403,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5o2hSFkYYe8",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%202002+pc+game",
       "Steam": "https://store.steampowered.com/app/222440/"
     }
   },
@@ -1408,7 +1420,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5o2hSFkYYe8",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%202002%20Ultimate%20Match+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=The%20King%20of%20Fighters%202002%20Ultimate%20Match"
     }
   },
   {
@@ -1424,7 +1437,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=iDgXMMsjYlo",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=The%20King%20of%20Fighters%202003+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=The%20King%20of%20Fighters%202003"
     }
   },
   {
@@ -1440,7 +1454,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=B4UeJHGsJKg",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20Last%20Blade%202+pc+game",
       "Steam": "https://store.steampowered.com/app/702110/"
     }
   },
@@ -1457,7 +1471,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=i4JYaR2pWKM",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=The%20Occupation+pc+game",
       "Steam": "https://store.steampowered.com/app/765880/"
     }
   },
@@ -1474,7 +1488,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jfWbtT5fYMU",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Tiny%20Troopers%20Joint%20Ops+pc+game",
       "Steam": "https://store.steampowered.com/app/2225750/"
     }
   },
@@ -1491,7 +1505,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ghqHcGbujPE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Trinity%20Fusion+pc+game",
       "Steam": "https://store.steampowered.com/app/1911360/"
     }
   },
@@ -1508,7 +1522,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=AM_x2dTxLfo",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Turok%202+pc+game",
       "Steam": "https://store.steampowered.com/app/405830/"
     }
   },
@@ -1525,7 +1539,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=BIxOnkJSrDE",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Vane+pc+game",
       "Steam": "https://store.steampowered.com/app/1738980/"
     }
   },
@@ -1542,7 +1556,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w7SNO0S6bUQ",
     "StoreLinks": {
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=Victor%20Vran%20Overkill%20Edition+pc+game",
+      "Steam": "https://store.steampowered.com/search/?term=Victor%20Vran%20Overkill%20Edition"
     }
   },
   {
@@ -1558,7 +1573,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=oRGAHmx04Y8",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Wall%20World+pc+game",
       "Steam": "https://store.steampowered.com/app/3467710/"
     }
   },
@@ -1592,7 +1607,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=dImNLF_4_78",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Warhammer%2040%2C000%3A%20Dawn%20of%20War%20II+pc+game",
       "Steam": "https://store.steampowered.com/app/15620/"
     }
   },
@@ -1609,7 +1624,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V7U1VcS0ymw",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Warhammer%2040%2C000%3A%20Space%20Marine+pc+game",
       "Steam": "https://store.steampowered.com/app/2183900/"
     }
   },
@@ -1626,7 +1641,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ak0ib2_GZBg",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=Warsaw+pc+game",
       "Steam": "https://store.steampowered.com/app/3583200/"
     }
   },
@@ -1643,7 +1658,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YS6DaBL3kPI",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=WRC%207+pc+game",
       "Steam": "https://store.steampowered.com/app/621830/"
     }
   },
@@ -1660,7 +1675,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rM9p8tqt25c",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=WRC%208+pc+game",
       "Steam": "https://store.steampowered.com/app/1004750/"
     }
   },
@@ -1677,7 +1692,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_aHxlD2icMY",
     "StoreLinks": {
-      "Amazon": "",
+      "Amazon": "https://www.amazon.com/s?k=WRC%209+pc+game",
       "Steam": "https://store.steampowered.com/app/1267540/"
     }
   },
@@ -1698,10 +1713,10 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=innmNewjkuk",
     "StoreLinks": {
-      "EA": "",
-      "Epic": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Apex%20Legends",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Apex%20Legends",
       "Steam": "https://store.steampowered.com/app/1172470/",
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Apex%20Legends"
     }
   },
   {
@@ -1715,7 +1730,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=P-UciWUiIXY",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Battlefield%201",
       "Steam": "https://store.steampowered.com/app/1238840/"
     }
   },
@@ -1732,7 +1747,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=P9fK77eE7fs",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Battlefield%204",
       "Steam": "https://store.steampowered.com/app/1238860/"
     }
   },
@@ -1747,7 +1762,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DJ1LfQGl0IU",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Battlefield%20V",
       "Steam": "https://store.steampowered.com/app/1238810/"
     }
   },
@@ -1763,7 +1778,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=EtEEa4PU7ok",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Dead%20Space%202",
       "Steam": "https://store.steampowered.com/app/47780/"
     }
   },
@@ -1780,7 +1795,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1Vgj1I3YG8g",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=GRID%20Legends",
       "Steam": "https://store.steampowered.com/app/1307710/"
     }
   },
@@ -1797,7 +1812,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=htZxwfGARGk",
     "StoreLinks": {
-      "EA": ""
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Madden%20NFL%2022",
+      "Steam": "https://store.steampowered.com/search/?term=Madden%20NFL%2022"
     }
   },
   {
@@ -1814,7 +1830,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=n8i53TtQ6IQ",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Mass%20Effect%20Legendary%20Edition",
       "Steam": "https://store.steampowered.com/app/1328670/"
     }
   },
@@ -1831,7 +1847,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9ewiJJe_nYI",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Need%20for%20Speed%20Heat",
       "Steam": "https://store.steampowered.com/app/1222680/"
     }
   },
@@ -1846,7 +1862,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HLiY6wwfGX4",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Need%20for%20Speed%20Hot%20Pursuit%20Remastered",
       "Steam": "https://store.steampowered.com/app/1328660/"
     }
   },
@@ -1863,7 +1879,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=RwYjx4VPzx0",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Plants%20vs.%20Zombies%3A%20Battle%20for%20Neighborville",
       "Steam": "https://store.steampowered.com/app/1262240/"
     }
   },
@@ -1879,7 +1895,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=lxaJXyF4qbg",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=SimCity%204",
       "Steam": "https://store.steampowered.com/app/24780/"
     }
   },
@@ -1894,7 +1910,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=0GLbwkfhYZk",
     "StoreLinks": {
-      "EA": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=STAR%20WARS%20Jedi%3A%20Fallen%20Order",
       "Steam": "https://store.steampowered.com/app/1172380/"
     }
   },
@@ -1913,8 +1929,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w0eRkhR1z6A",
     "StoreLinks": {
-      "EA": "",
-      "Epic": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=STAR%20WARS%3A%20Squadrons",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=STAR%20WARS%3A%20Squadrons",
       "Steam": "https://store.steampowered.com/app/1222730/"
     }
   },
@@ -1934,9 +1950,9 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=SEbJFR0jz8Y",
     "StoreLinks": {
-      "EA": "",
-      "Epic": "",
-      "Xbox Console": "",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=The%20Sims%204",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Sims%204",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=The%20Sims%204",
       "Steam": "https://store.steampowered.com/app/1222670/"
     }
   },
@@ -1951,21 +1967,26 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=p8RaUzvgF8I",
     "StoreLinks": {
-      "EA": ""
+      "EA": "https://www.ea.com/pt-br/games/the-sims/the-sims-medieval",
+      "Steam": "https://store.steampowered.com/search/?term=The%20Sims%20Medieval"
     }
   },
   {
-    "Name": "Titanfall 2 Deluxe Edition",
+    "Name": "Titanfall 2",
     "Description": "Edição Deluxe de Titanfall 2 com upgrades Prime para mechs Ion e Scorch, customizações exclusivas de pintura Excalibur Chrome, arte Thunderbird, e camos Splinter e Quantum Ocean para Titans, Pilots e...",
     "ReleaseYear": 2016,
     "Genres": [
       "Shooter"
     ],
-    "Source": "EA",
+    "Source": [
+      "EA",
+      "Xbox Console"
+    ],
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Q8mIJhqC8Hg",
     "StoreLinks": {
-      "EA": ""
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Titanfall%202",
+      "Steam": "https://store.steampowered.com/app/1237970/"
     }
   },
   {
@@ -1981,7 +2002,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tL7FSvzwylo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=20XX",
       "Steam": "https://store.steampowered.com/app/322110/"
     }
   },
@@ -1998,7 +2019,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=J9pASqOR6Ag",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=%5BREDACTED%5D",
       "Steam": "https://store.steampowered.com/app/3586530/"
     }
   },
@@ -2016,8 +2037,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=H4FOb16Nenk",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=A%20Plague%20Tale%3A%20Innocence",
+      "GOG": "https://www.gog.com/en/games?query=A%20Plague%20Tale%3A%20Innocence",
       "Steam": "https://store.steampowered.com/app/752590/"
     }
   },
@@ -2035,7 +2056,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OaSkIVpp_mI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=A%20Total%20War%20Saga%3A%20TROY",
       "Steam": "https://store.steampowered.com/app/1099410/"
     }
   },
@@ -2054,7 +2075,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mbqk5k_7Og4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Absolute%20Drift",
       "Steam": "https://store.steampowered.com/app/320140/"
     }
   },
@@ -2071,7 +2092,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ldJr6nUDqAs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=AER%20Memories%20of%20Old",
       "Steam": "https://store.steampowered.com/app/331870/"
     }
   },
@@ -2088,7 +2109,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ub4yCGzFE70",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Against%20All%20Odds",
       "Steam": "https://store.steampowered.com/app/1465560/"
     }
   },
@@ -2103,7 +2124,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Alien%3A%20Isolation",
       "Steam": "https://store.steampowered.com/app/214490/"
     }
   },
@@ -2120,7 +2141,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=u1nY_5-UrY4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Amnesia%3A%20%20The%20Dark%20Descent",
       "Steam": "https://store.steampowered.com/app/57300/"
     }
   },
@@ -2137,7 +2158,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GqzH7k75t2M",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Amnesia%3A%20Rebirth",
       "Steam": "https://store.steampowered.com/app/999220/"
     }
   },
@@ -2152,7 +2173,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Among%20Us",
       "Steam": "https://store.steampowered.com/app/945360/"
     }
   },
@@ -2174,7 +2195,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5fIAPcVdZO8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=ARK%3A%20Survival%20Evolved",
       "Steam": "https://store.steampowered.com/app/346110/"
     }
   },
@@ -2193,7 +2214,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rQDq59aNRyU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Art%20of%20Rally",
       "Steam": "https://store.steampowered.com/app/550320/"
     }
   },
@@ -2210,7 +2231,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Auto%20Chess",
       "Steam": "https://store.steampowered.com/app/1530300/"
     }
   },
@@ -2227,7 +2248,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6Rcf245KM50",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Beyond%20Blue",
       "Steam": "https://store.steampowered.com/app/883360/"
     }
   },
@@ -2246,8 +2267,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=txlkG3SyhZQ",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=BioShock%202%20Remastered",
+      "GOG": "https://www.gog.com/en/games?query=BioShock%202%20Remastered"
     }
   },
   {
@@ -2265,8 +2286,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WYRePGtK074",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": ""
+      "Epic": "https://store.epicgames.com/pt-BR/p/bioshock-infinite-complete-edition",
+      "GOG": "https://www.gog.com/game/bioshock_infinite"
     }
   },
   {
@@ -2285,8 +2306,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_KVfPMSK8hA",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=BioShock%20Remastered",
+      "GOG": "https://www.gog.com/en/games?query=BioShock%20Remastered"
     }
   },
   {
@@ -2301,7 +2322,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MBZ-POVsrlI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Blair%20Witch",
       "Steam": "https://store.steampowered.com/app/1092660/"
     }
   },
@@ -2317,7 +2338,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=AqftD3X3HmI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Blood%20West",
       "Steam": "https://store.steampowered.com/app/1587130/"
     }
   },
@@ -2334,7 +2355,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=d79KArgmgcc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Bloodstained%3A%20Ritual%20of%20the%20Night",
       "Steam": "https://store.steampowered.com/app/692850/"
     }
   },
@@ -2353,7 +2374,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kKVf5feSMEg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Borderlands%202",
       "Steam": "https://store.steampowered.com/app/49520/"
     }
   },
@@ -2373,8 +2394,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gjLQ2Uj4OPw",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox Console": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Borderlands%203",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Borderlands%203",
       "Steam": "https://store.steampowered.com/app/397540/"
     }
   },
@@ -2390,7 +2411,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KWHyM_HlLoo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Borderlands%3A%20The%20Pre-Sequel",
       "Steam": "https://store.steampowered.com/app/261640/"
     }
   },
@@ -2408,7 +2429,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=dFJeRtAueR0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Bramble%20The%20Mountain%20King",
       "Steam": "https://store.steampowered.com/app/1623940/"
     }
   },
@@ -2426,7 +2447,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1LwVXmhEhnI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Bus%20Simulator%2021%20Next%20Stop",
       "Steam": "https://store.steampowered.com/app/976590/"
     }
   },
@@ -2443,7 +2464,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-QnxwKppyGo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Call%20of%20the%20Wild%3A%20The%20Angler",
       "Steam": "https://store.steampowered.com/app/1408610/"
     }
   },
@@ -2458,7 +2479,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rQW0fE6Fuf8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Century%3A%20Age%20of%20Ashes",
       "Steam": "https://store.steampowered.com/app/918570/"
     }
   },
@@ -2476,7 +2497,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WkIos9c1pnQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Chivalry%202",
       "Steam": "https://store.steampowered.com/app/1824220/"
     }
   },
@@ -2492,7 +2513,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CpWe03NhXKs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Cities%20Skylines",
       "Steam": "https://store.steampowered.com/app/255710/"
     }
   },
@@ -2510,7 +2531,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E_VAZjwqE6c",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=City%20of%20Gangsters",
       "Steam": "https://store.steampowered.com/app/1386780/"
     }
   },
@@ -2526,7 +2547,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=e1_eZyFM5-4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Control",
       "Steam": "https://store.steampowered.com/app/4165870/"
     }
   },
@@ -2541,7 +2562,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LVkocdkcmAc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Core",
       "Steam": "https://store.steampowered.com/app/1888160/"
     }
   },
@@ -2562,7 +2583,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-T9OGHwJIzQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Creature%20in%20the%20Well",
       "Steam": "https://store.steampowered.com/app/852300/"
     }
   },
@@ -2577,7 +2598,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9o1AYBmoX-0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Crime%20Boss%3A%20Rockay%20City",
       "Steam": "https://store.steampowered.com/app/2933080/"
     }
   },
@@ -2592,7 +2613,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=CRSED%3A%20Cuisine%20Royale",
       "Steam": "https://store.steampowered.com/app/884660/"
     }
   },
@@ -2612,7 +2633,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jjF3RKkJA2M",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Cursed%20to%20Golf",
       "Steam": "https://store.steampowered.com/app/1726120/"
     }
   },
@@ -2629,7 +2650,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=2TiI6SUrxtw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=CYGNI%20-%20All%20Guns%20Blazing",
       "Steam": "https://store.steampowered.com/app/1248080/"
     }
   },
@@ -2647,7 +2668,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ar7xWaoEqpI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dakar%20Desert%20Rally",
       "Steam": "https://store.steampowered.com/app/1839940/"
     }
   },
@@ -2664,7 +2685,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=AJtCtDkWp3g",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dandara%3A%20Trials%20of%20Fear%20Edition",
       "Steam": "https://store.steampowered.com/app/612390/"
     }
   },
@@ -2680,7 +2701,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TXnA81Bsd1I",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=DARQ",
       "Steam": "https://store.steampowered.com/app/433550/"
     }
   },
@@ -2696,7 +2717,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1SaLVf2gz-s",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dauntless",
       "Steam": "https://store.steampowered.com/app/2923180/"
     }
   },
@@ -2711,7 +2732,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=JGhIXLO3ul8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dead%20by%20Daylight",
       "Steam": "https://store.steampowered.com/app/381210/"
     }
   },
@@ -2729,7 +2750,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=u6Qypoo0a8w",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dead%20Island%202",
       "Steam": "https://store.steampowered.com/app/934700/"
     }
   },
@@ -2747,7 +2768,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=yWnfWUvN3lc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Death%20Coming",
       "Steam": "https://store.steampowered.com/app/705120/"
     }
   },
@@ -2764,7 +2785,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mpn-MC2B6Zc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Death%20Stranding",
       "Steam": "https://store.steampowered.com/app/1850570/"
     }
   },
@@ -2782,7 +2803,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NjnEg3ucXpc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Death's%20Door",
       "Steam": "https://store.steampowered.com/app/894020/"
     }
   },
@@ -2799,7 +2820,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6uPbBu1Dg98",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Death's%20Gambit%20-%20Afterlife",
       "Steam": "https://store.steampowered.com/app/356650/"
     }
   },
@@ -2815,7 +2836,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DgiMSSl2rZ0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=DEATHLOOP",
       "Steam": "https://store.steampowered.com/app/1252330/"
     }
   },
@@ -2831,7 +2852,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=AEYxO24xNq4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Deceive%20Inc",
       "Steam": "https://store.steampowered.com/app/820520/"
     }
   },
@@ -2849,7 +2870,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Tz4decBxbso",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Deliver%20At%20All%20Costs",
       "Steam": "https://store.steampowered.com/app/1880610/"
     }
   },
@@ -2866,7 +2887,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FluFhDfDztw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Deliver%20Us%20Mars",
       "Steam": "https://store.steampowered.com/app/1345890/"
     }
   },
@@ -2884,7 +2905,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=T_f_TaRAUzo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Delores%3A%20A%20Thimbleweed%20Park%20mini-adventure",
       "Steam": "https://store.steampowered.com/app/1305720/"
     }
   },
@@ -2905,9 +2926,9 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hdWkpbPTpmE",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Destiny%202",
       "Steam": "https://store.steampowered.com/app/1085660/",
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Destiny%202"
     }
   },
   {
@@ -2924,7 +2945,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CfV01sTqB68",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Deus%20Ex%20-%20Mankind%20Divided",
       "Steam": "https://store.steampowered.com/app/337000/"
     }
   },
@@ -2940,7 +2961,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GSGFvPkCmng",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Diabotical",
       "Steam": "https://store.steampowered.com/app/2805060/"
     }
   },
@@ -2957,7 +2978,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=nk_K5DM0UTk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Disco%20Elysium%20-%20The%20Final%20Cut",
       "Steam": "https://store.steampowered.com/app/632470/"
     }
   },
@@ -2976,8 +2997,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hbZI08Wxd-k",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dishonored%20-%20Definitive%20Edition",
+      "GOG": "https://www.gog.com/en/games?query=Dishonored%20-%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/31292/"
     }
   },
@@ -2994,7 +3015,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NVJ-d1AIqVo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dishonored%3A%20Death%20of%20the%20Outsider",
       "Steam": "https://store.steampowered.com/app/614570/"
     }
   },
@@ -3010,7 +3031,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gf0ZlqM1yfQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=DNF%20Duel",
       "Steam": "https://store.steampowered.com/app/1216060/"
     }
   },
@@ -3029,8 +3050,9 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wv7eEx0GujM",
     "StoreLinks": {
-      "Epic": "",
-      "EA": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dragon%20Age%3A%20Inquisition%20%E2%80%93%20Game%20of%20the%20Year%20Edition",
+      "EA": "https://www.ea.com/pt-br/games/library/pc-download?searchString=Dragon%20Age%3A%20Inquisition%20%E2%80%93%20Game%20of%20the%20Year%20Edition",
+      "Steam": "https://store.steampowered.com/search/?term=Dragon%20Age%3A%20Inquisition%20%E2%80%93%20Game%20of%20the%20Year%20Edition"
     }
   },
   {
@@ -3046,7 +3068,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CWX6DbAMTR4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Dying%20Light",
       "Steam": "https://store.steampowered.com/app/239140/"
     }
   },
@@ -3064,7 +3086,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=j1rB5pKSxfk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=EARTHLOCK",
       "Steam": "https://store.steampowered.com/app/1550730/"
     }
   },
@@ -3084,7 +3106,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bew9shKtoM4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Eastern%20Exorcist",
       "Steam": "https://store.steampowered.com/app/1120810/"
     }
   },
@@ -3102,7 +3124,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FZFFAMkYw_M",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=El%20Hijo",
       "Steam": "https://store.steampowered.com/app/853050/"
     }
   },
@@ -3121,7 +3143,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YESNObZJTgQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Elite%20Dangerous",
       "Steam": "https://store.steampowered.com/app/359320/"
     }
   },
@@ -3140,7 +3162,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ou6MElt_sig",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Encased",
       "Steam": "https://store.steampowered.com/app/921800/"
     }
   },
@@ -3158,7 +3180,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=i2O6YbhDVsQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=ENDER%20LILIES%3A%20Quietus%20of%20the%20Knights",
       "Steam": "https://store.steampowered.com/app/1369630/"
     }
   },
@@ -3175,7 +3197,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hv7I6gJYfnA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Eternal%20Threads",
       "Steam": "https://store.steampowered.com/app/1046790/"
     }
   },
@@ -3193,7 +3215,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=8tzA0I_5X1E",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Eternights",
       "Steam": "https://store.steampowered.com/app/1402110/"
     }
   },
@@ -3208,7 +3230,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37j_Lu_9iNs",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Evil%20Dead%20The%20Game"
     }
   },
   {
@@ -3225,7 +3247,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=zXEN0yTqGug",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Eximius%3A%20Seize%20the%20Frontline",
       "Steam": "https://store.steampowered.com/app/505740/"
     }
   },
@@ -3244,7 +3266,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gv40ey28Z2k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=F.I.S.T.%3A%20Forged%20In%20Shadow%20Torch",
       "Steam": "https://store.steampowered.com/app/1330470/"
     }
   },
@@ -3261,7 +3283,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=j7jPnwVGdZ8",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fall%20Guys"
     }
   },
   {
@@ -3276,7 +3298,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ECI3eCAxRGw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fallout%202",
       "Steam": "https://store.steampowered.com/app/38410/"
     }
   },
@@ -3296,8 +3318,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=KP3HIdf6hiI",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fallout%203%3A%20Game%20of%20the%20Year%20Edition",
+      "GOG": "https://www.gog.com/en/games?query=Fallout%203%3A%20Game%20of%20the%20Year%20Edition",
       "Steam": "https://store.steampowered.com/app/22370/"
     }
   },
@@ -3315,7 +3337,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=K5JA1mlEXVY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fallout%20Tactics%3A%20Brotherhood%20of%20Steel",
       "Steam": "https://store.steampowered.com/app/38420/"
     }
   },
@@ -3330,7 +3352,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=60vqfUQHqc0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fallout%3A%20A%20Post%20Nuclear%20Role%20Playing%20Game",
       "Steam": "https://store.steampowered.com/app/38400/"
     }
   },
@@ -3346,7 +3368,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=l-x-1fm2cq8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Fallout%3A%20New%20Vegas",
       "Steam": "https://store.steampowered.com/app/22380/"
     }
   },
@@ -3362,7 +3384,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Farming%20Simulator%2019",
       "Steam": "https://store.steampowered.com/app/787860/"
     }
   },
@@ -3377,7 +3399,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qg9VPiUtaic",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Farming%20Simulator%2022",
       "Steam": "https://store.steampowered.com/app/1248130/"
     }
   },
@@ -3395,7 +3417,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=L6CLzqvB_eE",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Felix%20The%20Reaper",
       "Steam": "https://store.steampowered.com/app/919410/"
     }
   },
@@ -3414,7 +3436,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=4yIIbH0SEmw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Figment",
       "Steam": "https://store.steampowered.com/app/1085220/"
     }
   },
@@ -3432,7 +3454,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Zs_qG1vPY_s",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Galactic%20Civilizations%20III",
       "Steam": "https://store.steampowered.com/app/226860/"
     }
   },
@@ -3450,7 +3472,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Zs_qG1vPY_s",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Galactic%20Civilizations%20III",
       "Steam": "https://store.steampowered.com/app/226860/"
     }
   },
@@ -3466,7 +3488,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1XuU3JfwnVk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Game%20of%20Thrones%3A%20Kingsroad",
       "Steam": "https://store.steampowered.com/app/3183280/"
     }
   },
@@ -3482,7 +3504,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=xZzC11Tdcng",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Ghostbusters%20Remastered"
     }
   },
   {
@@ -3497,7 +3519,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=imK4c8dLTj4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Ghostbusters%3A%20Spirits%20Unleashed%20Ecto%20Edition",
       "Steam": "https://store.steampowered.com/app/2383990/"
     }
   },
@@ -3517,8 +3539,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=SS6YC7L3L-k",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Ghostrunner",
+      "GOG": "https://www.gog.com/en/games?query=Ghostrunner",
       "Steam": "https://store.steampowered.com/app/2144740/"
     }
   },
@@ -3536,7 +3558,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ahtQsw53Ets",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Ghostrunner%202",
       "Steam": "https://store.steampowered.com/app/2144740/"
     }
   },
@@ -3551,7 +3573,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XWpsAKYa7NQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Ghostwire%3A%20Tokyo",
       "Steam": "https://store.steampowered.com/app/1475810/"
     }
   },
@@ -3567,7 +3589,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NMih7uzmvw8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Gigantic%3A%20Rampage%20Edition",
       "Steam": "https://store.steampowered.com/app/1924490/"
     }
   },
@@ -3585,7 +3607,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5I8Ys4-wTk4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=God's%20Trigger",
       "Steam": "https://store.steampowered.com/app/488730/"
     }
   },
@@ -3602,7 +3624,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=uc9XbX4Foco",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Gods%20Will%20Fall",
       "Steam": "https://store.steampowered.com/app/1243690/"
     }
   },
@@ -3619,7 +3641,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hvoD7ehZPcM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Grand%20Theft%20Auto%20V",
       "Steam": "https://store.steampowered.com/app/3240220/"
     }
   },
@@ -3636,7 +3658,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NXTlh31ZWZ4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Grand%20Theft%20Auto%20V%20Enhanced",
       "Steam": "https://store.steampowered.com/app/3240220/"
     }
   },
@@ -3652,7 +3674,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MM1eigtCs9k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Hardspace%3A%20Shipbreaker",
       "Steam": "https://store.steampowered.com/app/1161580/"
     }
   },
@@ -3670,7 +3692,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=S3hLu58KXg8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Hell%20Let%20Loose",
       "Steam": "https://store.steampowered.com/app/686810/"
     }
   },
@@ -3685,7 +3707,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wv7eEx0GujM",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Heroes%20%26%20Generals%20WWII"
     }
   },
   {
@@ -3701,7 +3723,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LVqxMCZ3u6k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=HITMAN",
       "Steam": "https://store.steampowered.com/app/1659040/"
     }
   },
@@ -3721,8 +3743,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Z29ORu6_p34",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox PC": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=HITMAN%203",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=HITMAN%203",
       "Steam": "https://store.steampowered.com/app/3711140/"
     }
   },
@@ -3738,7 +3760,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1O6Qstncpnc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Hogwarts%20Legacy",
       "Steam": "https://store.steampowered.com/app/990080/"
     }
   },
@@ -3754,7 +3776,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=n1yrFE9FfrA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Homeworld%3A%20Deserts%20of%20Kharak",
       "Steam": "https://store.steampowered.com/app/281610/"
     }
   },
@@ -3772,7 +3794,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1SaLVf2gz-s",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Hood%20Outlaws%20and%20Legends"
     }
   },
   {
@@ -3789,7 +3811,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=4VomFVNGgnA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Horizon%20Chase%20Turbo",
       "Steam": "https://store.steampowered.com/app/389140/"
     }
   },
@@ -3805,7 +3827,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PlpvJfhac6I",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=HOT%20WHEELS%20UNLEASHED",
       "Steam": "https://store.steampowered.com/app/1271700/"
     }
   },
@@ -3827,9 +3849,9 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ieYcTKzGZjQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=HUE",
       "Steam": "https://store.steampowered.com/app/240500/",
-      "Amazon": ""
+      "Amazon": "https://www.amazon.com/s?k=HUE+pc+game"
     }
   },
   {
@@ -3845,7 +3867,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=nGi00HqpmS0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=HUMANKIND",
       "Steam": "https://store.steampowered.com/app/536270/"
     }
   },
@@ -3863,7 +3885,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5B791N0cKeo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=INDUSTRIA",
       "Steam": "https://store.steampowered.com/app/2679990/"
     }
   },
@@ -3881,7 +3903,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DjODCllZj4w",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=INSIDE",
       "Steam": "https://store.steampowered.com/app/3299110/"
     }
   },
@@ -3899,7 +3921,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CHXMchM7coQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Jorel%E2%80%99s%20Brother%20and%20The%20Most%20Important%20Game%20of%20the%20Galaxy",
       "Steam": "https://store.steampowered.com/app/1398910/"
     }
   },
@@ -3915,7 +3937,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sruev9Xl_1M",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Jotun%20Valhalla%20Edition",
       "Steam": "https://store.steampowered.com/app/323580/"
     }
   },
@@ -3931,7 +3953,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w5yvWSlonQk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Jotunnslayer%3A%20Hordes%20of%20Hel",
       "Steam": "https://store.steampowered.com/app/2820820/"
     }
   },
@@ -3947,7 +3969,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-V-0L1HeeAA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Jurassic%20World%20Evolution",
       "Steam": "https://store.steampowered.com/app/2958130/"
     }
   },
@@ -3963,7 +3985,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=g76Zx7zydXQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Jurassic%20World%20Evolution%202",
       "Steam": "https://store.steampowered.com/app/1244460/"
     }
   },
@@ -3980,7 +4002,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ld9FVoL_5XI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Kao%20the%20Kangaroo",
       "Steam": "https://store.steampowered.com/app/1370140/"
     }
   },
@@ -3997,7 +4019,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=54q_S-x8CCY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=KeyWe",
       "Steam": "https://store.steampowered.com/app/1242980/"
     }
   },
@@ -4014,7 +4036,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=98SI0HUZfrs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=KILL%20KNIGHT",
       "Steam": "https://store.steampowered.com/app/2694420/"
     }
   },
@@ -4029,7 +4051,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PpH8oghfsT8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Killing%20Floor%202",
       "Steam": "https://store.steampowered.com/app/232090/"
     }
   },
@@ -4045,7 +4067,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=t4SI06Gl9gA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Kingdom%20Come%20Deliverance",
       "Steam": "https://store.steampowered.com/app/1771300/"
     }
   },
@@ -4061,7 +4083,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Pf8MJkuE3N0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Knockout%20City",
       "Steam": "https://store.steampowered.com/app/2915930/"
     }
   },
@@ -4078,7 +4100,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V7xDWE8nWJ4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Layers%20of%20Fear%202",
       "Steam": "https://store.steampowered.com/app/1029890/"
     }
   },
@@ -4095,7 +4117,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HLuK8_AmAx4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=LEGO%202K%20Drive",
       "Steam": "https://store.steampowered.com/app/1451810/"
     }
   },
@@ -4111,7 +4133,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=n49TsZAwFEs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=LEGO%20Star%20Wars%3A%20The%20Skywalker%20Saga",
       "Steam": "https://store.steampowered.com/app/920210/"
     }
   },
@@ -4129,7 +4151,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LI9rPja_nHM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Lifeless%20Planet%3A%20Premier%20Edition",
       "Steam": "https://store.steampowered.com/app/261530/"
     }
   },
@@ -4144,7 +4166,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-UgQxOmBNSM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Limbo",
       "Steam": "https://store.steampowered.com/app/48000/"
     }
   },
@@ -4164,7 +4186,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V95RL_SR3nw",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=LISA%3A%20The%20Joyful%20-%20Definitive%20Edition"
     }
   },
   {
@@ -4183,7 +4205,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Bru5BPVJJRI",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=LISA%3A%20The%20Painful%20-%20Definitive%20Edition"
     }
   },
   {
@@ -4201,7 +4223,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7P58L0AVIEM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Loop%20Hero",
       "Steam": "https://store.steampowered.com/app/1282730/"
     }
   },
@@ -4219,7 +4241,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jRB6jZHc1Wk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Lysfanga%3A%20The%20Time%20Shift%20Warrior",
       "Steam": "https://store.steampowered.com/app/2161620/"
     }
   },
@@ -4235,7 +4257,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6bsPf994Nt0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Mages%20of%20Mystralia",
       "Steam": "https://store.steampowered.com/app/529660/"
     }
   },
@@ -4251,7 +4273,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HCRmiOqUgYQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Maneater",
       "Steam": "https://store.steampowered.com/app/629820/"
     }
   },
@@ -4268,7 +4290,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=QBn8ST8rELc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Marvel's%20Guardians%20of%20the%20Galaxy",
       "Steam": "https://store.steampowered.com/app/1088850/"
     }
   },
@@ -4285,7 +4307,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Ripgh8W2PMg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Marvel's%20Midnight%20Suns",
       "Steam": "https://store.steampowered.com/app/368260/"
     }
   },
@@ -4302,7 +4324,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rUOCBCTRNl0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Metro%202033%20Redux",
       "Steam": "https://store.steampowered.com/app/286690/"
     }
   },
@@ -4322,8 +4344,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=zZrgoPvBxjE",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Metro%20Last%20Light%20Redux",
+      "GOG": "https://www.gog.com/en/games?query=Metro%20Last%20Light%20Redux",
       "Steam": "https://store.steampowered.com/app/287390/"
     }
   },
@@ -4338,7 +4360,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=3ztQKudjLiA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Midnight%20Ghost%20Hunt",
       "Steam": "https://store.steampowered.com/app/915810/"
     }
   },
@@ -4355,7 +4377,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GZEIsMT5lqA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Mighty%20Fight%20Federation",
       "Steam": "https://store.steampowered.com/app/1096690/"
     }
   },
@@ -4372,7 +4394,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=nFpoDlH6Sxs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=MORDHAU",
       "Steam": "https://store.steampowered.com/app/629760/"
     }
   },
@@ -4389,7 +4411,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=r16Dc_jMWzA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Mortal%20Shell",
       "Steam": "https://store.steampowered.com/app/1110910/"
     }
   },
@@ -4406,7 +4428,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XIUIfAv5OLI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Moving%20Out",
       "Steam": "https://store.steampowered.com/app/1641700/"
     }
   },
@@ -4423,7 +4445,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=IDFTTEoLp1I",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=MudRunner",
       "Steam": "https://store.steampowered.com/app/2477340/"
     }
   },
@@ -4438,7 +4460,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qX5AUVIAg_o",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=MultiVersus"
     }
   },
   {
@@ -4456,7 +4478,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=dHcfwONzO7I",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Mutant%20Year%20Zero%20Road%20to%20Eden",
       "Steam": "https://store.steampowered.com/app/760060/"
     }
   },
@@ -4472,7 +4494,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kp4WrQp6pUg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=NARAKA%3A%20BLADEPOINT",
       "Steam": "https://store.steampowered.com/app/1203220/"
     }
   },
@@ -4488,7 +4510,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=RJ_bxl5DwkM",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=NBA%202K21"
     }
   },
   {
@@ -4504,7 +4526,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NtqVLk1vC-I",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Necromunda%3A%20Hired%20Gun",
       "Steam": "https://store.steampowered.com/app/1222370/"
     }
   },
@@ -4523,7 +4545,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NT9bv_wIEF0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Neon%20Abyss",
       "Steam": "https://store.steampowered.com/app/2235200/"
     }
   },
@@ -4538,7 +4560,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ujh7O-UGxDY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=New%20Tales%20from%20the%20Borderlands",
       "Steam": "https://store.steampowered.com/app/1454970/"
     }
   },
@@ -4555,7 +4577,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=eceUNbW708c",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Next%20Up%20Hero",
       "Steam": "https://store.steampowered.com/app/667810/"
     }
   },
@@ -4571,7 +4593,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_9PIVYW8u20",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Nioh%3A%20The%20Complete%20Edition",
       "Steam": "https://store.steampowered.com/app/1325200/"
     }
   },
@@ -4588,7 +4610,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gZknADLA8lQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Oddworld%3A%20New%20'n'%20Tasty",
       "Steam": "https://store.steampowered.com/app/314660/"
     }
   },
@@ -4604,7 +4626,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=c3WkhVLqKaI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Off%20The%20Grid",
       "Steam": "https://store.steampowered.com/app/3659280/"
     }
   },
@@ -4625,7 +4647,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=e95bOl2TTi4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Once%20Human",
       "Steam": "https://store.steampowered.com/app/2139460/"
     }
   },
@@ -4644,7 +4666,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wKTlevApx8Y",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Orcs%20Must%20Die!%203",
       "Steam": "https://store.steampowered.com/app/1522820/"
     }
   },
@@ -4661,7 +4683,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=92c9kTAOZLM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Outliver%3A%20Tribulation",
       "Steam": "https://store.steampowered.com/app/1236930/"
     }
   },
@@ -4683,8 +4705,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=lcVISRmANIo",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Overcooked!%202",
+      "GOG": "https://www.gog.com/en/games?query=Overcooked!%202",
       "Steam": "https://store.steampowered.com/app/728880/"
     }
   },
@@ -4703,7 +4725,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=g4WHiMVq1-8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Paladins",
       "Steam": "https://store.steampowered.com/app/444090/"
     }
   },
@@ -4719,7 +4741,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wesvzmNEMpU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Pathway",
       "Steam": "https://store.steampowered.com/app/2888890/"
     }
   },
@@ -4736,7 +4758,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Z2tmHMIA1sU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=PAYDAY%202",
       "Steam": "https://store.steampowered.com/app/218620/"
     }
   },
@@ -4753,7 +4775,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sn2pD6un7rw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=PC%20Building%20Simulator",
       "Steam": "https://store.steampowered.com/app/621060/"
     }
   },
@@ -4770,7 +4792,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ernhkQFPaXI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Phantasy%20Star%20Online%202",
       "Steam": "https://store.steampowered.com/app/1056640/"
     }
   },
@@ -4787,7 +4809,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=8eZCTc_LDHY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Pinball%20FX",
       "Steam": "https://store.steampowered.com/app/2328760/"
     }
   },
@@ -4804,7 +4826,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=txlkG3SyhZQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Poppy%20Playtime",
       "Steam": "https://store.steampowered.com/app/1721470/"
     }
   },
@@ -4820,7 +4842,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=W6OJhuH7PD0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Predator%3A%20Hunting%20Grounds",
       "Steam": "https://store.steampowered.com/app/1556200/"
     }
   },
@@ -4838,7 +4860,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wZ7LytagKlc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=PREY",
       "Steam": "https://store.steampowered.com/app/480490/"
     }
   },
@@ -4856,7 +4878,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wRfo2dDtoMI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=PUBG%3A%20BATTLEGROUNDS",
       "Steam": "https://store.steampowered.com/app/578080/"
     }
   },
@@ -4874,7 +4896,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=fgPRE5pak6k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=RAGE%202",
       "Steam": "https://store.steampowered.com/app/548570/"
     }
   },
@@ -4891,7 +4913,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vN16vXBjgo4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Redout%3A%20Enhanced%20Edition",
       "Steam": "https://store.steampowered.com/app/517710/"
     }
   },
@@ -4908,7 +4930,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=uVFHxZy4HQ4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Remnant%3A%20From%20the%20Ashes",
       "Steam": "https://store.steampowered.com/app/617290/"
     }
   },
@@ -4926,7 +4948,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TczZAFcHnrw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rising%20Hell",
       "Steam": "https://store.steampowered.com/app/657000/"
     }
   },
@@ -4944,7 +4966,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YqyeNcNKxXs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rising%20Storm%202%3A%20Vietnam",
       "Steam": "https://store.steampowered.com/app/418460/"
     }
   },
@@ -4961,7 +4983,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=j-ZYwbJtQ9g",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Road%20Redemption",
       "Steam": "https://store.steampowered.com/app/300380/"
     }
   },
@@ -4978,7 +5000,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=SgSX3gOrj60",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rocket%20League"
     }
   },
   {
@@ -4994,7 +5016,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=uqu8jtrNR_0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rogue%20Company",
       "Steam": "https://store.steampowered.com/app/872200/"
     }
   },
@@ -5014,8 +5036,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=eCGgrA0ov9k",
     "StoreLinks": {
-      "Epic": "",
-      "Ubisoft": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Roller%20Champions",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Roller%20Champions",
       "Steam": "https://store.steampowered.com/app/2211280/"
     }
   },
@@ -5033,7 +5055,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=yOmyZPtWvoY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rugrats%3A%20Adventures%20in%20Gameland",
       "Steam": "https://store.steampowered.com/app/2633950/"
     }
   },
@@ -5049,7 +5071,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=O8oG_uAtOpM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rustler",
       "Steam": "https://store.steampowered.com/app/844260/"
     }
   },
@@ -5068,7 +5090,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=a0evJUp7-aw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sable",
       "Steam": "https://store.steampowered.com/app/757310/"
     }
   },
@@ -5084,7 +5106,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YgjzDJA1o1E",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Saints%20Row",
       "Steam": "https://store.steampowered.com/app/742420/"
     }
   },
@@ -5103,8 +5125,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E6I2q8q5M20",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Saints%20Row%20IV%20Re-Elected",
+      "GOG": "https://www.gog.com/en/games?query=Saints%20Row%20IV%20Re-Elected",
       "Steam": "https://store.steampowered.com/app/206420/"
     }
   },
@@ -5124,8 +5146,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_j5FAX8nEy8",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Saints%20Row%3A%20The%20Third%20Remastered",
+      "GOG": "https://www.gog.com/en/games?query=Saints%20Row%3A%20The%20Third%20Remastered",
       "Steam": "https://store.steampowered.com/app/978300/"
     }
   },
@@ -5143,7 +5165,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=u_054dUJzCE",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Salt%20and%20Sanctuary",
       "Steam": "https://store.steampowered.com/app/283640/"
     }
   },
@@ -5161,7 +5183,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=d-b-wpPM7yA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Samorost%203",
       "Steam": "https://store.steampowered.com/app/421120/"
     }
   },
@@ -5176,7 +5198,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ZkCTI4OdyVw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=SAMURAI%20SHODOWN%20NEOGEO%20COLLECTION",
       "Steam": "https://store.steampowered.com/app/999660/"
     }
   },
@@ -5193,7 +5215,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ejRJfPkx-AU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sands%20of%20Aura",
       "Steam": "https://store.steampowered.com/app/1119840/"
     }
   },
@@ -5209,7 +5231,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NWQH8cMpWTU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Scavengers",
       "Steam": "https://store.steampowered.com/app/779590/"
     }
   },
@@ -5224,7 +5246,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=br9L5C66GTU",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Second%20Extinction"
     }
   },
   {
@@ -5241,7 +5263,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qBMqPMPzGUY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Session%3A%20Skate%20Sim",
       "Steam": "https://store.steampowered.com/app/861650/"
     }
   },
@@ -5261,9 +5283,9 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=b1FvYc3c64w",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Shadow%20of%20the%20Tomb%20Raider%3A%20Definitive%20Edition",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Shadow%20of%20the%20Tomb%20Raider%3A%20Definitive%20Edition",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Shadow%20of%20the%20Tomb%20Raider%3A%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/750920/"
     }
   },
@@ -5282,7 +5304,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=aIeIlUBJ07M",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Shadow%20Tactics%3A%20Blades%20of%20the%20Shogun",
       "Steam": "https://store.steampowered.com/app/418240/"
     }
   },
@@ -5302,7 +5324,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=nJG7jLLbVD4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Shadowrun%20Hong%20Kong",
       "Steam": "https://store.steampowered.com/app/346940/"
     }
   },
@@ -5321,7 +5343,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DPBW_MFqeRs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Shadowrun%20Returns",
       "Steam": "https://store.steampowered.com/app/234650/"
     }
   },
@@ -5340,7 +5362,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GEV8-amvm2A",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Shadowrun%3A%20Dragonfall%20-%20Director%E2%80%99s%20Cut",
       "Steam": "https://store.steampowered.com/app/300550/"
     }
   },
@@ -5358,7 +5380,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=whOG1iwBGnM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sheltered",
       "Steam": "https://store.steampowered.com/app/1289380/"
     }
   },
@@ -5375,7 +5397,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5KdE0p2joJw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sid%20Meier's%20Civilization%20VI",
       "Steam": "https://store.steampowered.com/app/289070/"
     }
   },
@@ -5391,7 +5413,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sifu",
       "Steam": "https://store.steampowered.com/app/2138710/"
     }
   },
@@ -5408,7 +5430,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XdYJJU8J8iw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=SkyDrift%20Infinity",
       "Steam": "https://store.steampowered.com/app/827330/"
     }
   },
@@ -5427,7 +5449,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NvmdRTk3B9A",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Slain%3A%20Back%20From%20Hell",
       "Steam": "https://store.steampowered.com/app/369070/"
     }
   },
@@ -5448,7 +5470,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=khsjzariacQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=SMITE",
       "Steam": "https://store.steampowered.com/app/2437170/"
     }
   },
@@ -5463,7 +5485,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rwbrjeaEO8w",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Sniper%20Ghost%20Warrior%20Contracts",
       "Steam": "https://store.steampowered.com/app/1338770/"
     }
   },
@@ -5480,7 +5502,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ovXIExDPhBk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Soulstice",
       "Steam": "https://store.steampowered.com/app/1602080/"
     }
   },
@@ -5496,7 +5518,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=3a6yQj7KrHc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Space%20Punks",
       "Steam": "https://store.steampowered.com/app/2286280/"
     }
   },
@@ -5518,7 +5540,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Y4nzVxqdNgc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Speed%20Brawl",
       "Steam": "https://store.steampowered.com/app/468670/"
     }
   },
@@ -5535,7 +5557,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gVgaivQgU48",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Spellbreak"
     }
   },
   {
@@ -5551,7 +5573,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=o92pyx2WTuk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Spirit%20of%20the%20North",
       "Steam": "https://store.steampowered.com/app/1778840/"
     }
   },
@@ -5570,7 +5592,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CCb8q_m2J6U",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Star%20Stuff",
       "Steam": "https://store.steampowered.com/app/1955110/"
     }
   },
@@ -5586,7 +5608,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qbVsjbBllKQ",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=STAR%20WARS%20Battlefront%20II%3A%20Celebration%20Edition"
     }
   },
   {
@@ -5602,7 +5624,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LMdi0VlPJ0o",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Stranger%20Things%203%3A%20The%20Game"
     }
   },
   {
@@ -5617,7 +5639,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=VqeYmP-z-mI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Submerged%20Hidden%20Depths",
       "Steam": "https://store.steampowered.com/app/1614270/"
     }
   },
@@ -5633,7 +5655,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=3QHZxzTPsco",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League",
       "Steam": "https://store.steampowered.com/app/315210/"
     }
   },
@@ -5651,7 +5673,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=l_iJplBcamI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=SUPER%20CRAZY%20RHYTHM%20CASTLE",
       "Steam": "https://store.steampowered.com/app/1812560/"
     }
   },
@@ -5668,7 +5690,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=eILvkKnMxWY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Super%20Meat%20Boy%20Forever",
       "Steam": "https://store.steampowered.com/app/581660/"
     }
   },
@@ -5685,7 +5707,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Zs-00EAln2A",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Super%20Squad",
       "Steam": "https://store.steampowered.com/app/1124940/"
     }
   },
@@ -5701,7 +5723,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HpNIK_e5qy0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Surviving%20the%20Aftermath",
       "Steam": "https://store.steampowered.com/app/684450/"
     }
   },
@@ -5717,7 +5739,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MVZsAsqgS0g",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=SYNCED",
       "Steam": "https://store.steampowered.com/app/764390/"
     }
   },
@@ -5734,7 +5756,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jpQRFLUF0bY",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tacoma",
       "Steam": "https://store.steampowered.com/app/1949472/"
     }
   },
@@ -5751,7 +5773,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bHrMny4Fxf4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tales%20from%20the%20Borderlands",
       "Steam": "https://store.steampowered.com/app/330830/"
     }
   },
@@ -5771,7 +5793,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OieOvVawbgw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tales%20of%20the%20Neon%20Sea",
       "Steam": "https://store.steampowered.com/app/828740/"
     }
   },
@@ -5789,7 +5811,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7EhWn2kKIiE",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tandem%20A%20Tale%20of%20Shadows",
       "Steam": "https://store.steampowered.com/app/1436920/"
     }
   },
@@ -5807,7 +5829,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9RW4pfqNyeg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tannenberg",
       "Steam": "https://store.steampowered.com/app/633460/"
     }
   },
@@ -5824,7 +5846,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gHMYwrC7oAo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Teenage%20Mutant%20Ninja%20Turtles%3A%20Shredder's%20Revenge",
       "Steam": "https://store.steampowered.com/app/1361510/"
     }
   },
@@ -5841,7 +5863,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=66h_AbngvBw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Terminull%20Brigade",
       "Steam": "https://store.steampowered.com/app/3104410/"
     }
   },
@@ -5858,7 +5880,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YIjjokFLWgg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Alto%20Collection",
       "Steam": "https://store.steampowered.com/app/2837600/"
     }
   },
@@ -5873,7 +5895,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=y9Nln23PaOc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Bridge",
       "Steam": "https://store.steampowered.com/app/204240/"
     }
   },
@@ -5889,7 +5911,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=U9rSAmdywD4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Callisto%20Protocol",
       "Steam": "https://store.steampowered.com/app/1544020/"
     }
   },
@@ -5905,7 +5927,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w5yvWSlonQk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Elder%20Scrolls%20Online",
       "Steam": "https://store.steampowered.com/app/306130/"
     }
   },
@@ -5926,7 +5948,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-EeZZO8haZE",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Escapists%202",
       "Steam": "https://store.steampowered.com/app/641990/"
     }
   },
@@ -5941,7 +5963,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=O5y-Timrvls",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Eternal%20Cylinder",
       "Steam": "https://store.steampowered.com/app/865680/"
     }
   },
@@ -5958,7 +5980,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gVbmRBt1Ctc",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Evil%20Within",
       "Steam": "https://store.steampowered.com/app/268050/"
     }
   },
@@ -5978,8 +6000,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=amHj6-GnEy0",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Evil%20Within%202",
+      "GOG": "https://www.gog.com/en/games?query=The%20Evil%20Within%202",
       "Steam": "https://store.steampowered.com/app/601430/"
     }
   },
@@ -6001,8 +6023,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GHPUMpBnUdk",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Falconeer",
+      "GOG": "https://www.gog.com/en/games?query=The%20Falconeer",
       "Steam": "https://store.steampowered.com/app/1135260/"
     }
   },
@@ -6020,7 +6042,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=VZtQH_cwTOw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Fall",
       "Steam": "https://store.steampowered.com/app/1466060/"
     }
   },
@@ -6037,7 +6059,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WzlmZB7Xl9k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Last%20Stand%3A%20Aftermath",
       "Steam": "https://store.steampowered.com/app/1266840/"
     }
   },
@@ -6056,7 +6078,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WJ-1O_w2KTg",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Long%20Dark",
       "Steam": "https://store.steampowered.com/app/305620/"
     }
   },
@@ -6072,7 +6094,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mo63-qJzAV4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Lord%20of%20The%20Rings%3A%20Return%20to%20Moria",
       "Steam": "https://store.steampowered.com/app/2933130/"
     }
   },
@@ -6089,7 +6111,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E2dnCAurJcQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Outer%20Worlds%3A%20Spacer's%20Choice%20Edition",
       "Steam": "https://store.steampowered.com/app/1920490/"
     }
   },
@@ -6107,7 +6129,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=H5jpnShiiLs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=The%20Spirit%20and%20the%20Mouse",
       "Steam": "https://store.steampowered.com/app/1679210/"
     }
   },
@@ -6126,7 +6148,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=q7MQrILNQc4",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=theHunter%3A%20Call%20of%20the%20Wild"
     }
   },
   {
@@ -6141,7 +6163,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PQdgQs7ozdw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Thief",
       "Steam": "https://store.steampowered.com/app/1332720/"
     }
   },
@@ -6158,7 +6180,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TxKrp81yXL8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tiny%20Tina's%20Assault%20on%20Dragon%20Keep%3A%20A%20Wonderlands%20One-shot%20Adventure",
       "Steam": "https://store.steampowered.com/app/1712840/"
     }
   },
@@ -6175,7 +6197,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LOKY4_wZjh8",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tiny%20Tina's%20Wonderlands",
       "Steam": "https://store.steampowered.com/app/1286680/"
     }
   },
@@ -6192,7 +6214,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HH_sGQRSpzo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Torchlight%20II",
       "Steam": "https://store.steampowered.com/app/200710/"
     }
   },
@@ -6208,7 +6230,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w5yvWSlonQk",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Total%20War%3A%20WARHAMMER%20II",
       "Steam": "https://store.steampowered.com/app/594570/"
     }
   },
@@ -6224,7 +6246,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mv4sOuRWIT0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Total%20War%3A%20WARHAMMER%20III",
       "Steam": "https://store.steampowered.com/app/1142710/"
     }
   },
@@ -6239,7 +6261,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=0-p3GeyksAs",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trackmania",
       "Steam": "https://store.steampowered.com/app/2225070/"
     }
   },
@@ -6256,7 +6278,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qlnfKb7nPSU",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trek%20to%20Yomi",
       "Steam": "https://store.steampowered.com/app/1370050/"
     }
   },
@@ -6272,7 +6294,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-6lYPZ27C4c",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trine%202%3A%20Complete%20Story",
       "Steam": "https://store.steampowered.com/app/35720/"
     }
   },
@@ -6290,7 +6312,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=uEnsYhBJ4Xo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trine%203%3A%20The%20Artifacts%20of%20Power",
       "Steam": "https://store.steampowered.com/app/319910/"
     }
   },
@@ -6306,7 +6328,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=X3f2rv5_6jw",
     "StoreLinks": {
-      "Epic": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trine%204%3A%20Definitive%20Edition"
     }
   },
   {
@@ -6324,7 +6346,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TlU3r83WEGA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Trine%20Enchanted%20Edition",
       "Steam": "https://store.steampowered.com/app/35700/"
     }
   },
@@ -6344,9 +6366,9 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=AnGdzz-XWcE",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox Console": "",
-      "Xbox PC": ""
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=VALORANT",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=VALORANT",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=VALORANT"
     }
   },
   {
@@ -6361,7 +6383,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=QfB_4A-jL_k",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Vampyr",
       "Steam": "https://store.steampowered.com/app/427290/"
     }
   },
@@ -6379,7 +6401,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kWp-7XH3080",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Verdun",
       "Steam": "https://store.steampowered.com/app/242860/"
     }
   },
@@ -6396,7 +6418,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vt2txF1DvHo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Void%20Bastards",
       "Steam": "https://store.steampowered.com/app/857980/"
     }
   },
@@ -6414,7 +6436,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6xFv0Z4nRPM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Warface%3A%20Clutch",
       "Steam": "https://store.steampowered.com/app/291480/"
     }
   },
@@ -6435,9 +6457,9 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MsbL8lFHrZI",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Warframe",
       "Steam": "https://store.steampowered.com/app/230410/",
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Warframe"
     }
   },
   {
@@ -6456,9 +6478,9 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hh9x4NqW0Dw",
     "StoreLinks": {
-      "Epic": "",
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=WATCH_DOGS%202",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=WATCH_DOGS%202",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=WATCH_DOGS%202",
       "Steam": "https://store.steampowered.com/app/447040/"
     }
   },
@@ -6475,7 +6497,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XhE5mPCHdY4",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=We%20Were%20Here%20Together",
       "Steam": "https://store.steampowered.com/app/865360/"
     }
   },
@@ -6493,7 +6515,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1f4kcEnHIxw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Weird%20West%3A%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/1097350/"
     }
   },
@@ -6512,7 +6534,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=cpY_JFJRA9Q",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Where%20Winds%20Meet",
       "Steam": "https://store.steampowered.com/app/3564740/"
     }
   },
@@ -6529,7 +6551,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=m3S14_RzoII",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=while%20True%3A%20learn()",
       "Steam": "https://store.steampowered.com/app/619150/"
     }
   },
@@ -6547,7 +6569,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qO3Zzna0DX0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Wildcat%20Gun%20Machine",
       "Steam": "https://store.steampowered.com/app/1288610/"
     }
   },
@@ -6563,7 +6585,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=d94QO1ZpmMo",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Witch%20It",
       "Steam": "https://store.steampowered.com/app/559650/"
     }
   },
@@ -6579,7 +6601,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E6opaIl8h8U",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Wolfenstein%3A%20The%20New%20Order",
       "Steam": "https://store.steampowered.com/app/201810/"
     }
   },
@@ -6596,7 +6618,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=YYmEsguGPQw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Wonder%20Boy%20The%20Dragons%20Trap",
       "Steam": "https://store.steampowered.com/app/543260/"
     }
   },
@@ -6617,7 +6639,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wv7eEx0GujM",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=World%20of%20Warships",
       "Steam": "https://store.steampowered.com/app/552990/"
     }
   },
@@ -6633,7 +6655,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Md6Dvxdr0AQ",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=World%20War%20Z",
       "Steam": "https://store.steampowered.com/app/699130/"
     }
   },
@@ -6655,8 +6677,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ZlF4_o3qALo",
     "StoreLinks": {
-      "Epic": "",
-      "GOG": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=XCOM%202",
+      "GOG": "https://www.gog.com/en/games?query=XCOM%202",
       "Steam": "https://store.steampowered.com/app/268500/"
     }
   },
@@ -6676,7 +6698,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-myLEJwAydw",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Yoku's%20Island%20Express",
       "Steam": "https://store.steampowered.com/app/334940/"
     }
   },
@@ -6693,7 +6715,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=C0iiArxI9Ss",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Yooka-Laylee",
       "Steam": "https://store.steampowered.com/app/360830/"
     }
   },
@@ -6711,7 +6733,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Zx4sP467LM0",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Zero%20Hour",
       "Steam": "https://store.steampowered.com/app/1359090/"
     }
   },
@@ -6727,7 +6749,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XO-DZlXVSPA",
     "StoreLinks": {
-      "Epic": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Zombie%20Army%204%3A%20Dead%20War",
       "Steam": "https://store.steampowered.com/app/694280/"
     }
   },
@@ -6744,7 +6766,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wMpj7-vMov0",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Agony",
       "Steam": "https://store.steampowered.com/app/879420/"
     }
   },
@@ -6760,7 +6782,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vYTXXVqT-AU",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Agony%20UNRATED",
       "Steam": "https://store.steampowered.com/app/879420/"
     }
   },
@@ -6779,7 +6801,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1hGTlHHLeh8",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Beat%20Cop",
       "Steam": "https://store.steampowered.com/app/461950/"
     }
   },
@@ -6797,7 +6819,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=EaYTJaCKRa4",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Being%20a%20DIK%20-%20Season%201",
       "Steam": "https://store.steampowered.com/app/1126320/"
     }
   },
@@ -6815,7 +6837,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rrqfPG4ZcAA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=BioShock",
       "Steam": "https://store.steampowered.com/app/8870/"
     }
   },
@@ -6833,7 +6855,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tzWTcDydlpM",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=BioShock%202",
       "Steam": "https://store.steampowered.com/app/8850/"
     }
   },
@@ -6848,7 +6870,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=23slmHR1P5M",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Call%20of%20Juarez",
       "Steam": "https://store.steampowered.com/app/3020/"
     }
   },
@@ -6864,7 +6886,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=0Pk22uzyT9M",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Call%20of%20Juarez%3A%20Bound%20in%20Blood",
       "Steam": "https://store.steampowered.com/app/21980/"
     }
   },
@@ -6884,7 +6906,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=V7ajsveie1Y",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Call%20of%20Juarez%3A%20Gunslinger",
       "Steam": "https://store.steampowered.com/app/204450/"
     }
   },
@@ -6900,7 +6922,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XFb10rIAObs",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Close%20To%20The%20Sun",
       "Steam": "https://store.steampowered.com/app/968870/"
     }
   },
@@ -6916,7 +6938,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=w6bE11FrSFM",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Control%20Ultimate%20Edition",
       "Steam": "https://store.steampowered.com/app/870780/"
     }
   },
@@ -6932,7 +6954,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GX5ZNh0sxvc",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Daymare%3A%201998",
       "Steam": "https://store.steampowered.com/app/842100/"
     }
   },
@@ -6950,7 +6972,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jsJM8nwwyew",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Deus%20Ex%3A%20Human%20Revolution%20-%20Director%E2%80%99s%20Cut",
       "Steam": "https://store.steampowered.com/app/238010/"
     }
   },
@@ -6968,7 +6990,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=CfV01sTqB68",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Deus%20Ex%3A%20Mankind%20Divided",
       "Steam": "https://store.steampowered.com/app/337000/"
     }
   },
@@ -6985,7 +7007,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=32LDc_66r5U",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Dishonored%202",
       "Steam": "https://store.steampowered.com/app/403640/"
     }
   },
@@ -7002,7 +7024,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ZtTfROTgYKA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=DREDGE",
       "Steam": "https://store.steampowered.com/app/1562430/"
     }
   },
@@ -7018,7 +7040,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=cIzOttk6Dv4",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Fallout%3A%20New%20Vegas%20Ultimate%20Edition"
     }
   },
   {
@@ -7034,7 +7056,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=zRrBxC8HyHU",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Fetish%20Locator%20Week%20One",
       "Steam": "https://store.steampowered.com/app/1360980/"
     }
   },
@@ -7050,7 +7072,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=iJ798YVfl1Q",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Fort%20Solis",
       "Steam": "https://store.steampowered.com/app/1931730/"
     }
   },
@@ -7068,7 +7090,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9rfuK3u7_oc",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Ghost%20of%20a%20Tale",
       "Steam": "https://store.steampowered.com/app/417290/"
     }
   },
@@ -7086,7 +7108,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sa-yiOpeZKA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Ghost%20Song",
       "Steam": "https://store.steampowered.com/app/347800/"
     }
   },
@@ -7103,7 +7125,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=kO9Q1djwCkk",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=GreedFall",
       "Steam": "https://store.steampowered.com/app/606880/"
     }
   },
@@ -7121,7 +7143,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=s7CShH7w5TM",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Hard%20West%202",
       "Steam": "https://store.steampowered.com/app/1282410/"
     }
   },
@@ -7137,7 +7159,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=TzBefJufvd8",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Helping%20the%20Hotties",
       "Steam": "https://store.steampowered.com/app/1590730/"
     }
   },
@@ -7154,7 +7176,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=VO_xuS4FDHs",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=House%20Party",
       "Steam": "https://store.steampowered.com/app/611790/"
     }
   },
@@ -7171,7 +7193,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=R-3DUVfRFYw",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=HuniePop",
       "Steam": "https://store.steampowered.com/app/930210/"
     }
   },
@@ -7188,7 +7210,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=oAOFjTzEdQU",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Immortal%20Redneck",
       "Steam": "https://store.steampowered.com/app/595140/"
     }
   },
@@ -7204,7 +7226,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=b0aHf3gp-9I",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Journey%20to%20the%20Savage%20Planet",
       "Steam": "https://store.steampowered.com/app/973810/"
     }
   },
@@ -7220,7 +7242,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=aAa9Ao26gtM",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Kerbal%20Space%20Program",
       "Steam": "https://store.steampowered.com/app/220200/"
     }
   },
@@ -7237,7 +7259,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Qy0lL2UmaNM",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Lacuna",
       "Steam": "https://store.steampowered.com/app/1364100/"
     }
   },
@@ -7253,7 +7275,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jEfG5_3Z19E",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Leap%20of%20Faith",
       "Steam": "https://store.steampowered.com/app/1768640/"
     }
   },
@@ -7269,7 +7291,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=p3-P3cUYAuI",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Leap%20of%20Love",
       "Steam": "https://store.steampowered.com/app/1469300/"
     }
   },
@@ -7285,7 +7307,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bKbyKtFhDzE",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=LEGO%20Star%20Wars%20-%20The%20Complete%20Saga",
       "Steam": "https://store.steampowered.com/app/32440/"
     }
   },
@@ -7302,7 +7324,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=e71EpfhKRvg",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=LEGO%20The%20Hobbit",
       "Steam": "https://store.steampowered.com/app/285160/"
     }
   },
@@ -7317,7 +7339,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=VUe9vzHK78E",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=LEGO%20The%20Lord%20of%20the%20Rings",
       "Steam": "https://store.steampowered.com/app/214510/"
     }
   },
@@ -7335,7 +7357,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wQ1NcZfc1TA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Lust%20Theory%20-%20Season%201",
       "Steam": "https://store.steampowered.com/app/1607130/"
     }
   },
@@ -7351,7 +7373,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1bZvVJmUBxU",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Mafia%20II%20(Classic)",
       "Steam": "https://store.steampowered.com/app/50130/"
     }
   },
@@ -7367,7 +7389,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wHoqwphzhzc",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Mafia%20II%3A%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/1030830/"
     }
   },
@@ -7383,7 +7405,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tM5XkXUXaZo",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Mafia%20III%3A%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/360430/"
     }
   },
@@ -7399,7 +7421,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=s2lGEhSlOTY",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Mafia%3A%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/1030840/"
     }
   },
@@ -7415,7 +7437,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Middle-earth%3A%20Shadow%20of%20Mordor%20Game%20of%20the%20Year%20Edition"
     }
   },
   {
@@ -7430,7 +7452,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bhSfjt8jQyk",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Middle-earth%3A%20Shadow%20of%20War",
       "Steam": "https://store.steampowered.com/app/356190/"
     }
   },
@@ -7449,7 +7471,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OwxdmBoSTxY",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Midnight%20Fight%20Express",
       "Steam": "https://store.steampowered.com/app/1390410/"
     }
   },
@@ -7467,7 +7489,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=eSYal5lmPyA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Moonscars",
       "Steam": "https://store.steampowered.com/app/1374970/"
     }
   },
@@ -7486,7 +7508,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=py7rpUz0eIw",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Mordheim%3A%20City%20of%20the%20Damned",
       "Steam": "https://store.steampowered.com/app/276810/"
     }
   },
@@ -7502,7 +7524,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=aIciA9i4KYU",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Overcooked%3A%20Gourmet%20Edition"
     }
   },
   {
@@ -7519,7 +7541,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=64wBNm_rIgQ",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Planet%20of%20Lana",
       "Steam": "https://store.steampowered.com/app/1608230/"
     }
   },
@@ -7536,7 +7558,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=C6rqiv4U5mg",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=POSTAL%202",
       "Steam": "https://store.steampowered.com/app/223470/"
     }
   },
@@ -7553,7 +7575,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bZ-bqqDVOU8",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Pumpkin%20Jack",
       "Steam": "https://store.steampowered.com/app/1186640/"
     }
   },
@@ -7570,7 +7592,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NJ2KFjNMwIg",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Saints%20Row%202",
       "Steam": "https://store.steampowered.com/app/9480/"
     }
   },
@@ -7586,7 +7608,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WOgeMmCJqCY",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Saints%20Row%3A%20Gat%20out%20of%20Hell",
       "Steam": "https://store.steampowered.com/app/301910/"
     }
   },
@@ -7603,7 +7625,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rE44jEd2uSA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Sapphire%20Safari",
       "Steam": "https://store.steampowered.com/app/1526900/"
     }
   },
@@ -7622,7 +7644,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=32jR-2c0fhc",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Shogun%20Showdown",
       "Steam": "https://store.steampowered.com/app/2084000/"
     }
   },
@@ -7639,7 +7661,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=i4gPJhiXuBQ",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Showgunners",
       "Steam": "https://store.steampowered.com/app/1155330/"
     }
   },
@@ -7658,7 +7680,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=00cSbAuklB4",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Sir%20Whoopass%3A%20Immortal%20Death",
       "Steam": "https://store.steampowered.com/app/1240590/"
     }
   },
@@ -7674,7 +7696,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rwbrjeaEO8w",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Space%20Hulk%3A%20Deathwing%20-%20Enhanced%20Edition",
       "Steam": "https://store.steampowered.com/app/816090/"
     }
   },
@@ -7690,7 +7712,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XHZQQPWrxjw",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=STAR%20WARS%20Galactic%20Battlegrounds%20Saga",
       "Steam": "https://store.steampowered.com/app/356500/"
     }
   },
@@ -7707,7 +7729,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=q8zh1HUcqBk",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=STAR%20WARS%3A%20Bounty%20Hunter",
       "Steam": "https://store.steampowered.com/app/2419090/"
     }
   },
@@ -7724,7 +7746,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HpVuf0VZ-fs",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Styx%3A%20Master%20of%20Shadows",
       "Steam": "https://store.steampowered.com/app/242640/"
     }
   },
@@ -7740,7 +7762,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7J0MWEECYOY",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Styx%3A%20Shards%20of%20Darkness",
       "Steam": "https://store.steampowered.com/app/355790/"
     }
   },
@@ -7760,7 +7782,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=At_TknOd6sA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Summer's%20Gone%20-%20Season%201",
       "Steam": "https://store.steampowered.com/app/2240150/"
     }
   },
@@ -7777,7 +7799,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=L4CIrBygieg",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Syberia%3A%20The%20World%20Before",
       "Steam": "https://store.steampowered.com/app/1410640/"
     }
   },
@@ -7794,7 +7816,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=yj7Fg0LU8D8",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=The%20Outer%20Worlds",
       "Steam": "https://store.steampowered.com/app/1449110/"
     }
   },
@@ -7812,7 +7834,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5ow7y6Y9IUc",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=The%20Smurfs%202%20-%20The%20Prisoner%20of%20the%20Green%20Stone",
       "Steam": "https://store.steampowered.com/app/2397500/"
     }
   },
@@ -7829,7 +7851,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tn53BibNM7Y",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=The%20Talos%20Principle%3A%20Gold%20Edition"
     }
   },
   {
@@ -7844,7 +7866,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tjujvMkqWe4",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=The%20Witcher",
       "Steam": "https://store.steampowered.com/app/292030/"
     }
   },
@@ -7859,7 +7881,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E-cbbmP5NEo",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=THIEF%3A%20Definitive%20Edition"
     }
   },
   {
@@ -7877,7 +7899,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XgqxMM7IFMA",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Tin%20Hearts",
       "Steam": "https://store.steampowered.com/app/1831700/"
     }
   },
@@ -7894,7 +7916,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=dnUZUvQ4s7I",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%20-%20The%20Last%20Revelation"
     }
   },
   {
@@ -7909,7 +7931,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=H4KERp589W4",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%20Chronicles"
     }
   },
   {
@@ -7926,7 +7948,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Q_vH_0gpVlk",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%20I-II-III%20Remastered%20Starring%20Lara%20Croft"
     }
   },
   {
@@ -7944,7 +7966,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Iu44SKM2C7g",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%3A%20Anniversary",
       "Steam": "https://store.steampowered.com/app/8000/"
     }
   },
@@ -7961,7 +7983,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_AwqMbH4iJQ",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%3A%20Legend",
       "Steam": "https://store.steampowered.com/app/7000/"
     }
   },
@@ -7977,7 +7999,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vBP-AVVGryw",
     "StoreLinks": {
-      "GOG": ""
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%3A%20The%20Angel%20of%20Darkness"
     }
   },
   {
@@ -7993,7 +8015,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=GbVs11L60e4",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Tomb%20Raider%3A%20Underworld",
       "Steam": "https://store.steampowered.com/app/8140/"
     }
   },
@@ -8010,7 +8032,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-C1I3gM8Nv8",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=Treasure%20of%20Nadia",
       "Steam": "https://store.steampowered.com/app/1737100/"
     }
   },
@@ -8028,7 +8050,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-qvLzz3CxrE",
     "StoreLinks": {
-      "GOG": "",
+      "GOG": "https://www.gog.com/en/games?query=VirtuaVerse",
       "Steam": "https://store.steampowered.com/app/1019310/"
     }
   },
@@ -8045,7 +8067,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bpOv_v9dRBw",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=A.R.D.%20Alien%20Removal%20Division"
     }
   },
   {
@@ -8240,7 +8262,7 @@
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mx25Q3LKQ9Q",
     "StoreLinks": {
       "Steam": "https://store.steampowered.com/app/291550/",
-      "Ubisoft": ""
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Brawlhalla"
     }
   },
   {
@@ -8259,8 +8281,8 @@
     "TrailerYoutube": "https://www.youtube.com/watch?v=0E44DClsX5Q",
     "StoreLinks": {
       "Steam": "https://store.steampowered.com/app/1938090/",
-      "Xbox Console": "",
-      "Xbox PC": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty"
     }
   },
   {
@@ -8275,7 +8297,7 @@
     ],
     "Source": "Steam",
     "Classification": "AA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=tKg6qK3BDhw",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=-7qiuHVVmjA",
     "StoreLinks": {
       "Steam": "https://store.steampowered.com/app/1515950/"
     }
@@ -8384,7 +8406,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=s1vb-h0C-gM",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Defiance%202050"
     }
   },
   {
@@ -8414,7 +8436,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HzW_kD8gE0g",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=eFootball%20PES%202020"
     }
   },
   {
@@ -8523,7 +8545,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=D4PX7AkuFEs",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Heroes%20%26%20Generals"
     }
   },
   {
@@ -8675,8 +8697,8 @@
     "TrailerYoutube": "https://www.youtube.com/watch?v=eG-vgLazpZk",
     "StoreLinks": {
       "Steam": "https://store.steampowered.com/app/2452280/",
-      "Xbox Console": "",
-      "Xbox PC": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Mecha%20BREAK",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Mecha%20BREAK"
     }
   },
   {
@@ -8707,7 +8729,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=st7eMfykiVE",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Modern%20Combat%205"
     }
   },
   {
@@ -8723,7 +8745,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LqXNMjzSV88",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Modern%20Combat%20Versus"
     }
   },
   {
@@ -8783,7 +8805,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=woCfBIx5Uw8",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Paragon%3A%20The%20Overprime"
     }
   },
   {
@@ -8830,7 +8852,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XmjFwLhykiQ",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=RaceRoom%20Racing%20Experience%20"
     }
   },
   {
@@ -8844,7 +8866,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rwbrjeaEO8w",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Ring%20of%20Elysium"
     }
   },
   {
@@ -8919,8 +8941,8 @@
     "TrailerYoutube": "https://www.youtube.com/watch?v=DRN2VgTB-J8",
     "StoreLinks": {
       "Steam": "https://store.steampowered.com/app/1180660/",
-      "Xbox Console": "",
-      "Xbox PC": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Tell%20Me%20Why",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Tell%20Me%20Why"
     }
   },
   {
@@ -9014,7 +9036,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Mfa64yMnw90",
     "StoreLinks": {
-      "Steam": ""
+      "Steam": "https://store.steampowered.com/search/?term=Warlander"
     }
   },
   {
@@ -9139,7 +9161,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7ZwaZMuc1TQ",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Anno%201800",
       "Steam": "https://store.steampowered.com/app/916440/"
     }
   },
@@ -9154,7 +9176,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=RVNfLKS_iiw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Brotherhood",
       "Steam": "https://store.steampowered.com/app/48190/"
     }
   },
@@ -9171,7 +9193,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=fFC2jw-lv38",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Chronicles%20China",
       "Steam": "https://store.steampowered.com/app/354380/"
     }
   },
@@ -9186,7 +9208,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FLayHHZ0hLQ",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Freedom%20Cry",
       "Steam": "https://store.steampowered.com/app/277590/"
     }
   },
@@ -9202,7 +9224,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=mb7Xzl2-lr0",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20II",
       "Steam": "https://store.steampowered.com/app/33230/"
     }
   },
@@ -9218,7 +9240,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=4Wgs3CxcEfU",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20III%20Remastered",
       "Steam": "https://store.steampowered.com/app/911400/"
     }
   },
@@ -9233,7 +9255,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=x55lAlFtXmw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Mirage",
       "Steam": "https://store.steampowered.com/app/3035570/"
     }
   },
@@ -9252,8 +9274,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=EIFHVyPdlBw",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Odyssey",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Assassin's%20Creed%20Odyssey",
       "Steam": "https://store.steampowered.com/app/812140/"
     }
   },
@@ -9272,8 +9294,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=cK4iAjzAoas",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Origins",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Assassin's%20Creed%20Origins",
       "Steam": "https://store.steampowered.com/app/582160/"
     }
   },
@@ -9288,7 +9310,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=HMsbMK9Odoc",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Revelations",
       "Steam": "https://store.steampowered.com/app/201870/"
     }
   },
@@ -9304,7 +9326,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7c9e_LUGHwo",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Rogue",
       "Steam": "https://store.steampowered.com/app/311560/"
     }
   },
@@ -9319,7 +9341,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WTBbwgsyxvg",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Syndicate",
       "Steam": "https://store.steampowered.com/app/368500/"
     }
   },
@@ -9335,7 +9357,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=xzCEdSKMkdU",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Unity",
       "Steam": "https://store.steampowered.com/app/289650/"
     }
   },
@@ -9351,7 +9373,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ssrNcwxALS4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin's%20Creed%20Valhalla",
       "Steam": "https://store.steampowered.com/app/2208920/"
     }
   },
@@ -9367,7 +9389,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Tqz6HxPunRw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin%E2%80%99s%20Creed%20Chronicles%20India",
       "Steam": "https://store.steampowered.com/app/359610/"
     }
   },
@@ -9381,9 +9403,9 @@
     ],
     "Source": "Ubisoft",
     "Classification": "AAA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=2QpUydxQDi8",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=uPSt7XqxTKw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin%E2%80%99s%20Creed%20Chronicles%20Russia",
       "Steam": "https://store.steampowered.com/app/359600/"
     }
   },
@@ -9398,7 +9420,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=O1nRrvsGD9s",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Assassin%E2%80%99s%20Creed%20IV%20Black%20Flag",
       "Steam": "https://store.steampowered.com/app/242050/"
     }
   },
@@ -9415,7 +9437,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6KiQZkmvjbI",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=BattleCore%20Arena",
       "Steam": "https://store.steampowered.com/app/2613870/"
     }
   },
@@ -9432,7 +9454,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PaxrIFlc6E4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Child%20of%20Light",
       "Steam": "https://store.steampowered.com/app/256290/"
     }
   },
@@ -9451,8 +9473,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=J6gnOVJsCsM",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%203",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Far%20Cry%203",
       "Steam": "https://store.steampowered.com/app/220240/"
     }
   },
@@ -9468,7 +9490,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=0dofacvjRkc",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%203%20Blood%20Dragon",
       "Steam": "https://store.steampowered.com/app/233270/"
     }
   },
@@ -9485,7 +9507,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=xI6uV47jKME",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%204",
       "Steam": "https://store.steampowered.com/app/298110/"
     }
   },
@@ -9504,8 +9526,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=RARURPrkBqc",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%205",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Far%20Cry%205",
       "Steam": "https://store.steampowered.com/app/552520/"
     }
   },
@@ -9521,7 +9543,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sn2pD6un7rw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%206",
       "Steam": "https://store.steampowered.com/app/2369390/"
     }
   },
@@ -9540,8 +9562,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vdz803Lf33w",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%20New%20Dawn",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Far%20Cry%20New%20Dawn",
       "Steam": "https://store.steampowered.com/app/939960/"
     }
   },
@@ -9557,7 +9579,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=LJ2iH57Fs3M",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Far%20Cry%20Primal",
       "Steam": "https://store.steampowered.com/app/371660/"
     }
   },
@@ -9573,7 +9595,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=zFUymXnQ5z8",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=For%20Honor",
       "Steam": "https://store.steampowered.com/app/304390/"
     }
   },
@@ -9589,7 +9611,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_C6p2Skz1bs",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Heroes%20of%20Might%20and%20Magic%20II",
       "Steam": "https://store.steampowered.com/app/297000/"
     }
   },
@@ -9605,7 +9627,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vdJRKWfzpuA",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Heroes%20of%20Might%20and%20Magic%20III",
       "Steam": "https://store.steampowered.com/app/297000/"
     }
   },
@@ -9621,7 +9643,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=N60HfD1UeVs",
     "StoreLinks": {
-      "Ubisoft": ""
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Hungry%20Shark%20World",
+      "Steam": "https://store.steampowered.com/search/?term=Hungry%20Shark%20World"
     }
   },
   {
@@ -9637,7 +9660,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=p38FtdSsuqQ",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Immortals%20Fenyx%20Rising",
       "Steam": "https://store.steampowered.com/app/2221920/"
     }
   },
@@ -9654,7 +9677,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=vGn3nydV6sU",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=MONOPOLY",
       "Steam": "https://store.steampowered.com/app/2929170/"
     }
   },
@@ -9671,7 +9694,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=3Y33cVYTzWI",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Monopoly%20Madness",
       "Steam": "https://store.steampowered.com/app/2383760/"
     }
   },
@@ -9689,7 +9712,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sPWW0vCNzOQ",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Oddballers",
       "Steam": "https://store.steampowered.com/app/1064070/"
     }
   },
@@ -9705,7 +9728,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=I-ra1bksSzs",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Prince%20of%20Persia%3A%20The%20Lost%20Crown",
       "Steam": "https://store.steampowered.com/app/2751000/"
     }
   },
@@ -9720,7 +9743,8 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=5S9z6DFHt6o",
     "StoreLinks": {
-      "Ubisoft": ""
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Rabbids%20Coding!",
+      "Steam": "https://store.steampowered.com/search/?term=Rabbids%20Coding!"
     }
   },
   {
@@ -9738,7 +9762,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Tyyh-E5K4zo",
     "StoreLinks": {
-      "Ubisoft": ""
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Rabbids%20Party%20of%20Legends",
+      "Steam": "https://store.steampowered.com/search/?term=Rabbids%20Party%20of%20Legends"
     }
   },
   {
@@ -9753,7 +9778,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_IQuDbycE3k",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=RAYMAN%20LEGENDS",
       "Steam": "https://store.steampowered.com/app/242550/"
     }
   },
@@ -9769,7 +9794,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PevoXzPJSJ4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Rayman%20Origins",
       "Steam": "https://store.steampowered.com/app/207490/"
     }
   },
@@ -9786,7 +9811,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=_C3csO3XBnc",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Riders%20Republic",
       "Steam": "https://store.steampowered.com/app/2290180/"
     }
   },
@@ -9802,7 +9827,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7wd5KEaOtm4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Scott%20Pilgrim%20vs%20the%20World%3A%20The%20Game",
       "Steam": "https://store.steampowered.com/app/2215260/"
     }
   },
@@ -9818,7 +9843,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=6pmjmPJ-YH0",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Skull%20and%20Bones",
       "Steam": "https://store.steampowered.com/app/2853730/"
     }
   },
@@ -9835,7 +9860,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=bkZHv-9e2ro",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=South%20Park%20-%20The%20Stick%20of%20Truth",
       "Steam": "https://store.steampowered.com/app/213670/"
     }
   },
@@ -9852,7 +9877,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MG9vFCCkRO4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=South%20Park%3A%20The%20Fractured%20But%20Whole",
       "Steam": "https://store.steampowered.com/app/488790/"
     }
   },
@@ -9868,7 +9893,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ymcpwq1ltQc",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Star%20Wars%20Outlaws",
       "Steam": "https://store.steampowered.com/app/2842040/"
     }
   },
@@ -9889,7 +9914,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=wv7eEx0GujM",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Starlink%3A%20Battle%20for%20Atlas",
       "Steam": "https://store.steampowered.com/app/950050/"
     }
   },
@@ -9906,7 +9931,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sAGXhqUcPzs",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=STEEP",
       "Steam": "https://store.steampowered.com/app/460920/"
     }
   },
@@ -9921,7 +9946,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=MXN1nmL-DQU",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=The%20Crew%202",
       "Steam": "https://store.steampowered.com/app/646910/"
     }
   },
@@ -9937,7 +9962,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=2S-A3z866YI",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=The%20Crew%20Motorfest",
       "Steam": "https://store.steampowered.com/app/2698940/"
     }
   },
@@ -9954,7 +9979,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=XZzOxEK7hXo",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=The%20Rogue%20Prince%20of%20Persia",
       "Steam": "https://store.steampowered.com/app/2717880/"
     }
   },
@@ -9971,7 +9996,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=1o__VfCAjns",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=The%20Settlers%3A%20New%20Allies",
       "Steam": "https://store.steampowered.com/app/2750080/"
     }
   },
@@ -9986,7 +10011,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=WdJub3Kz2wI",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Ghost%20Recon",
       "Steam": "https://store.steampowered.com/app/15300/"
     }
   },
@@ -10003,7 +10028,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=y-9_d3IT_yA",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Ghost%20Recon%20Breakpoint",
       "Steam": "https://store.steampowered.com/app/2231380/"
     }
   },
@@ -10020,7 +10045,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rwbrjeaEO8w",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Ghost%20Recon%20Wildlands",
       "Steam": "https://store.steampowered.com/app/460930/"
     }
   },
@@ -10036,7 +10061,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tKg6qK3BDhw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Rainbow%20Six%20Extraction",
       "Steam": "https://store.steampowered.com/app/2379390/"
     }
   },
@@ -10052,7 +10077,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Rainbow%20Six%20Siege%20X",
       "Steam": "https://store.steampowered.com/app/359550/"
     }
   },
@@ -10068,7 +10093,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=4A9iFjaKeMk",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Splinter%20Cell",
       "Steam": "https://store.steampowered.com/app/13560/"
     }
   },
@@ -10084,7 +10109,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=znF080EcIFo",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20Splinter%20Cell%20Chaos%20Theory",
       "Steam": "https://store.steampowered.com/app/13570/"
     }
   },
@@ -10103,7 +10128,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=uElsBflqgYw",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20The%20Division",
       "Steam": "https://store.steampowered.com/app/2221490/"
     }
   },
@@ -10121,7 +10146,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=sli7AbX2bEk",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Tom%20Clancy's%20The%20Division%202",
       "Steam": "https://store.steampowered.com/app/2221490/"
     }
   },
@@ -10137,7 +10162,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=3piye62BYf4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Trackmania%20Turbo",
       "Steam": "https://store.steampowered.com/app/375900/"
     }
   },
@@ -10155,7 +10180,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FhxZx6Q1Oy8",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Trials%20Fusion",
       "Steam": "https://store.steampowered.com/app/245490/"
     }
   },
@@ -10173,7 +10198,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=f8sTwDF85nA",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Trials%20of%20the%20Blood%20Dragon",
       "Steam": "https://store.steampowered.com/app/435480/"
     }
   },
@@ -10191,7 +10216,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=lzJdnxIQFGg",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Trials%20Rising",
       "Steam": "https://store.steampowered.com/app/641080/"
     }
   },
@@ -10206,7 +10231,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=tKMBkUHK9s4",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=UNO",
       "Steam": "https://store.steampowered.com/app/3238940/"
     }
   },
@@ -10223,7 +10248,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Khl02WOSfXQ",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Valiant%20Hearts%3A%20The%20Great%20War",
       "Steam": "https://store.steampowered.com/app/260230/"
     }
   },
@@ -10240,7 +10265,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=E_V-YQW3Gos",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Watch%20Dogs%3A%20Legion",
       "Steam": "https://store.steampowered.com/app/2239550/"
     }
   },
@@ -10259,8 +10284,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=DqoQG_XYF-8",
     "StoreLinks": {
-      "Ubisoft": "",
-      "Xbox Console": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=Watch_Dogs",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Watch_Dogs",
       "Steam": "https://store.steampowered.com/app/447040/"
     }
   },
@@ -10276,7 +10301,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jpsPEn4UtLk",
     "StoreLinks": {
-      "Ubisoft": "",
+      "Ubisoft": "https://store.ubi.com/br/search/?q=ZOMBI",
       "Steam": "https://store.steampowered.com/app/1922560/"
     }
   },
@@ -10289,9 +10314,9 @@
     ],
     "Source": "Xbox Console",
     "Classification": "AA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=rwbrjeaEO8w",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=4dhJGwJFJb4",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=2XKO"
     }
   },
   {
@@ -10310,8 +10335,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=rH-eZd01NEQ",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Asphalt%20Legends",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Asphalt%20Legends",
       "Steam": "https://store.steampowered.com/app/1815780/"
     }
   },
@@ -10327,7 +10352,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=-6X29LcfWsQ",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Assetto%20Corsa%20Ultimate%20Edition"
     }
   },
   {
@@ -10341,7 +10366,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=OFFSMczwd7o",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Battlefield%206%20Season%201"
     }
   },
   {
@@ -10356,7 +10381,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=okVOjEp9uLY",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Bleach%20Brave%20Souls",
       "Steam": "https://store.steampowered.com/app/1201240/"
     }
   },
@@ -10375,8 +10400,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ztjfwecrY8E",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty%3A%20Modern%20Warfare%20II",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty%3A%20Modern%20Warfare%20II",
       "Steam": "https://store.steampowered.com/app/10180/"
     }
   },
@@ -10395,8 +10420,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=i3IsLrPeZG8",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty%3A%20Modern%20Warfare%20III",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Call%20of%20Duty%3A%20Modern%20Warfare%20III",
       "Steam": "https://store.steampowered.com/app/115300/"
     }
   },
@@ -10415,8 +10440,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=PyMlV5_HRWk",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Halo%20Infinite",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Halo%20Infinite",
       "Steam": "https://store.steampowered.com/app/1240440/"
     }
   },
@@ -10432,7 +10457,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=y_6tjMvckZ0",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Highguard",
       "Steam": "https://store.steampowered.com/app/4128260/"
     }
   },
@@ -10447,7 +10472,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=9hklKfEEsxc",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Injustice%202",
       "Steam": "https://store.steampowered.com/app/627270/"
     }
   },
@@ -10464,7 +10489,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=ohClxMmNLQQ",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=It%20Takes%20Two",
       "Steam": "https://store.steampowered.com/app/1426210/"
     }
   },
@@ -10481,7 +10506,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Little%20Nightmares%20II%20Enhanced%20Edition"
     }
   },
   {
@@ -10499,8 +10524,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=X3f2rv5_6jw",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Minecraft%20Legends",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Minecraft%20Legends",
       "Steam": "https://store.steampowered.com/app/1928870/"
     }
   },
@@ -10518,8 +10543,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=7zwQPJmg-Kg",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Mortal%20Kombat%2011",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Mortal%20Kombat%2011",
       "Steam": "https://store.steampowered.com/app/976310/"
     }
   },
@@ -10536,7 +10561,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=0QOG1G5NzbY",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Moto%20Racer%204",
       "Steam": "https://store.steampowered.com/app/417430/"
     }
   },
@@ -10555,8 +10580,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qiYiddjc6cU",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox Console": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Rise%20of%20the%20Tomb%20Raider",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Rise%20of%20the%20Tomb%20Raider",
       "Steam": "https://store.steampowered.com/app/391220/"
     }
   },
@@ -10574,8 +10599,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=NKUPFtZ4S00",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Splitgate%3A%20Arena%20Reloaded",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Splitgate%3A%20Arena%20Reloaded",
       "Steam": "https://store.steampowered.com/app/2918300/"
     }
   },
@@ -10591,7 +10616,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=j0MfmxrsDg4",
     "StoreLinks": {
-      "Xbox Console": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Splosion%20Man",
       "Steam": "https://store.steampowered.com/app/105420/"
     }
   },
@@ -10610,8 +10635,8 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=FOvHOXcxw40",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=The%20First%20Descendant",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=The%20First%20Descendant",
       "Steam": "https://store.steampowered.com/app/2074920/"
     }
   },
@@ -10633,9 +10658,9 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=zF9m91y8Na0",
     "StoreLinks": {
-      "Epic": "",
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Epic": "https://store.epicgames.com/pt-BR/browse?q=Tomb%20Raider%20Definitive%20Edition",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Tomb%20Raider%20Definitive%20Edition",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Tomb%20Raider%20Definitive%20Edition",
       "Steam": "https://store.steampowered.com/app/750920/"
     }
   },
@@ -10652,7 +10677,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=lzJdnxIQFGg",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Trials%20Rising%20Gold%20Edition"
     }
   },
   {
@@ -10670,8 +10695,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=4ezuTDZO1qM",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%20II%3A%20The%20New%20Colossus",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%20II%3A%20The%20New%20Colossus",
       "Steam": "https://store.steampowered.com/app/612880/"
     }
   },
@@ -10690,8 +10715,8 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Viv8e9_-kHo",
     "StoreLinks": {
-      "Xbox Console": "",
-      "Xbox PC": "",
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%3A%20The%20Old%20Blood",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%3A%20The%20Old%20Blood",
       "Steam": "https://store.steampowered.com/app/350080/"
     }
   },
@@ -10707,7 +10732,7 @@
     "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=iOousdE3hiE",
     "StoreLinks": {
-      "Xbox Console": ""
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Zenless%20Zone%20Zero"
     }
   },
   {
@@ -10722,7 +10747,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=jpSGZsgga_I",
     "StoreLinks": {
-      "Xbox PC": ""
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Asphalt%208%3A%20Airborne"
     }
   },
   {
@@ -10736,7 +10761,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=qgvV4GE8vVA",
     "StoreLinks": {
-      "Xbox PC": "",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=DOOM%20Eternal",
       "Steam": "https://store.steampowered.com/app/782330/"
     }
   },
@@ -10752,7 +10777,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=Hs-BE-HK5fc",
     "StoreLinks": {
-      "Xbox PC": "",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Fallout%2076",
       "Steam": "https://store.steampowered.com/app/1151340/"
     }
   },
@@ -10768,7 +10793,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=st7eMfykiVE",
     "StoreLinks": {
-      "Xbox PC": ""
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Modern%20Combat%205%3A%20Blackout"
     }
   },
   {
@@ -10782,7 +10807,7 @@
     "Classification": "AA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=gdOVeJc8Xnk",
     "StoreLinks": {
-      "Xbox PC": ""
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Overkill%203"
     }
   },
   {
@@ -10797,7 +10822,7 @@
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=hmex80FBJJ8",
     "StoreLinks": {
-      "Xbox PC": "",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%3A%20Youngblood",
       "Steam": "https://store.steampowered.com/app/1056960/"
     }
   }
