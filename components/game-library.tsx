@@ -13,6 +13,7 @@ import {
 import { Header } from "./header"
 import { FilterBar } from "./filter-bar"
 import { GameCard, GameCardSkeleton } from "./game-card"
+import { FeaturedGames } from "./featured-games"
 
 const GAMES_PER_PAGE = 24
 
@@ -61,6 +62,15 @@ export function GameLibrary({ games }: GameLibraryProps) {
   )
 
   const hasMore = visibleCount < filteredGames.length
+
+  // Verifica se há filtros ativos
+  const hasActiveFilters = Boolean(
+    search ||
+    selectedGenres.length > 0 ||
+    selectedSources.length > 0 ||
+    selectedClassifications.length > 0 ||
+    selectedYears.length > 0
+  )
 
   // Reset visible count when filters change
   useEffect(() => {
@@ -207,6 +217,21 @@ export function GameLibrary({ games }: GameLibraryProps) {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
             >
+              {/* Featured Games - apenas quando não há filtros */}
+              {!hasActiveFilters && (
+                <FeaturedGames games={games} />
+              )}
+
+              {/* Título da seção de todos os jogos */}
+              {!hasActiveFilters && (
+                <div className="mb-6">
+                  <h2 className="text-2xl font-bold">Todos os Jogos</h2>
+                  <p className="text-sm text-muted-foreground mt-1">
+                    Explore toda a coleção de {games.length} jogos
+                  </p>
+                </div>
+              )}
+
               <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
                 {visibleGames.map((game, index) => (
                   <GameCard key={game.id} game={game} index={index} />

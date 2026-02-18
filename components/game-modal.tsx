@@ -2,6 +2,7 @@
 
 import { useEffect, useCallback } from "react"
 import { motion, AnimatePresence } from "framer-motion"
+import Link from "next/link"
 import type { Game } from "@/lib/types"
 import { platformIconMap } from "./platform-icons"
 
@@ -223,6 +224,29 @@ export function GameModal({ game, onClose }: GameModalProps) {
                 </div>
               </div>
             )}
+
+            {/* View Details Button */}
+            <div className="pt-4 border-t border-border">
+              <Link
+                href={`/game/${game.id}`}
+                className="w-full inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-4 py-3 text-sm font-semibold text-primary-foreground hover:bg-primary/90 transition-all group"
+              >
+                <span>Ver Mais Detalhes</span>
+                <svg
+                  className="h-4 w-4 group-hover:translate-x-1 transition-transform"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  strokeWidth={2}
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M13 7l5 5m0 0l-5 5m5-5H6"
+                  />
+                </svg>
+              </Link>
+            </div>
           </div>
         </motion.div>
       </motion.div>
