@@ -54,7 +54,7 @@ export function GameModal({ game, onClose }: GameModalProps) {
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.95, y: 20 }}
           transition={{ type: "spring", damping: 25, stiffness: 300 }}
-          className="relative w-full max-w-2xl max-h-[90vh] overflow-y-auto rounded-xl border border-border bg-card shadow-2xl shadow-primary/5"
+          className="relative w-full max-w-2xl max-h-[80vh] overflow-y-auto rounded-xl border border-border bg-card shadow-2xl shadow-primary/5"
           onClick={(e) => e.stopPropagation()}
         >
           {/* Close button */}
@@ -93,7 +93,7 @@ export function GameModal({ game, onClose }: GameModalProps) {
             <div className="absolute inset-0 bg-gradient-to-t from-card via-card/20 to-transparent" />
 
             {/* Title overlay */}
-            <div className="absolute bottom-0 left-0 right-0 p-6">
+            <div className="absolute bottom-0 left-0 right-0 p-4">
               <div className="flex items-center gap-2 mb-2">
                 <span
                   className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-bold uppercase tracking-wider ${classificationColor}`}
@@ -111,7 +111,7 @@ export function GameModal({ game, onClose }: GameModalProps) {
           </div>
 
           {/* Content */}
-          <div className="flex flex-col gap-5 p-6">
+          <div className="flex flex-col gap-3 p-5">
             {/* Platforms */}
             <div>
               <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-2">
@@ -161,30 +161,6 @@ export function GameModal({ game, onClose }: GameModalProps) {
               </p>
             </div>
 
-            {/* Trailer */}
-            {game.trailerYoutube && (
-              <div>
-                <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-2">
-                  Trailer
-                </h4>
-                <a
-                  href={game.trailerYoutube}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 rounded-lg border border-border bg-secondary px-4 py-2.5 text-sm font-medium hover:bg-secondary/80 hover:border-red-500/50 transition-all group"
-                >
-                  <svg
-                    className="h-5 w-5 text-red-500 group-hover:scale-110 transition-transform"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                  >
-                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
-                  </svg>
-                  <span>Assistir no YouTube</span>
-                </a>
-              </div>
-            )}
-
             {/* Store Links */}
             {game.storeLinks && Object.keys(game.storeLinks).length > 0 && (
               <div>
@@ -225,15 +201,32 @@ export function GameModal({ game, onClose }: GameModalProps) {
               </div>
             )}
 
-            {/* View Details Button */}
-            <div className="pt-4 border-t border-border">
+            {/* Action Buttons */}
+            <div className="pt-2 border-t border-border flex gap-2">
+              {game.trailerYoutube && (
+                <a
+                  href={game.trailerYoutube}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1 inline-flex items-center justify-center gap-2 rounded-lg border border-red-500/30 bg-red-500/10 px-3 py-2 text-sm font-medium hover:bg-red-500/20 hover:border-red-500/50 transition-all group"
+                >
+                  <svg
+                    className="h-4 w-4 text-red-500"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                  >
+                    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                  </svg>
+                  <span>Trailer</span>
+                </a>
+              )}
               <Link
                 href={`/game/${game.id}`}
-                className="w-full inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-4 py-3 text-sm font-semibold text-primary-foreground hover:bg-primary/90 transition-all group"
+                className="flex-1 inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-3 py-2 text-sm font-semibold text-primary-foreground hover:bg-primary/90 transition-all group"
               >
-                <span>Ver Mais Detalhes</span>
+                <span>Detalhes</span>
                 <svg
-                  className="h-4 w-4 group-hover:translate-x-1 transition-transform"
+                  className="h-4 w-4 group-hover:translate-x-0.5 transition-transform"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
