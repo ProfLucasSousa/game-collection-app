@@ -1726,7 +1726,10 @@
     "Genres": [
       "Shooter"
     ],
-    "Source": "EA",
+    "Source": [
+      "EA",
+      "Xbox Console"
+    ],
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=P-UciWUiIXY",
     "StoreLinks": {
@@ -1743,7 +1746,10 @@
       "Simulator",
       "Strategy"
     ],
-    "Source": "EA",
+    "Source": [
+      "EA",
+      "Xbox Console"
+    ],
     "Classification": "AAA",
     "TrailerYoutube": "https://www.youtube.com/watch?v=P9fK77eE7fs",
     "StoreLinks": {
@@ -9912,7 +9918,7 @@
     ],
     "Source": "Ubisoft",
     "Classification": "AA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=wv7eEx0GujM",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=Rm0QWwK6ZLk",
     "StoreLinks": {
       "Ubisoft": "https://store.ubi.com/br/search/?q=Starlink%3A%20Battle%20for%20Atlas",
       "Steam": "https://store.steampowered.com/app/950050/"
