@@ -10510,7 +10510,7 @@
     ],
     "Source": "Xbox Console",
     "Classification": "AA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=37_UrD8rxQc",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=AI9zBBTyX-E",
     "StoreLinks": {
       "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Little%20Nightmares%20II%20Enhanced%20Edition"
     }
@@ -10619,7 +10619,7 @@
       "Action"
     ],
     "Source": "Xbox Console",
-    "Classification": "AA",
+    "Classification": "Indie",
     "TrailerYoutube": "https://www.youtube.com/watch?v=j0MfmxrsDg4",
     "StoreLinks": {
       "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Splosion%20Man",
@@ -10848,38 +10848,7 @@
     }
   },
   {
-    "Name": "Little Nightmares II",
-    "Description": "Um jogo de horror psicológico onde você controla uma criança em um mundo sombrio e surreal. Resolver puzzles e evitar criaturas assustadoras enquanto descobre os mistérios de um lugar perturbador.",
-    "ReleaseYear": 2021,
-    "Genres": [
-      "Horror",
-      "Adventure",
-      "Puzzle"
-    ],
-    "Source": "Xbox Console",
-    "Classification": "AA",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=AI9zBBTyX-E",
-    "StoreLinks": {
-      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Little%20Nightmares%20II"
-    }
-  },
-  {
-    "Name": "Splosion Man",
-    "Description": "Um jogo de plataforma colorido e cômico onde o protagonista explode constantemente. Navegue por fases repletas de obstáculos, inimigos e desafios de timing utilizando suas explosões.",
-    "ReleaseYear": 2009,
-    "Genres": [
-      "Platform",
-      "Action"
-    ],
-    "Source": "Xbox Console",
-    "Classification": "Indie",
-    "TrailerYoutube": "https://www.youtube.com/watch?v=VMZ6gdP_R4Y",
-    "StoreLinks": {
-      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Splosion%20Man"
-    }
-  },
-  {
-    "Name": "Need For Speed (2015)",
+    "Name": "Need For Speed",
     "Description": "Um jogo de corrida street racing com foco em customização de veículos e competição online. Personalize seu carro e participe de corridas ilegais noturnas em uma cidade dinâmica.",
     "ReleaseYear": 2015,
     "Genres": [
