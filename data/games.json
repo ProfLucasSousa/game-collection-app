@@ -10846,5 +10846,99 @@
       "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Wolfenstein%3A%20Youngblood",
       "Steam": "https://store.steampowered.com/app/1056960/"
     }
+  },
+  {
+    "Name": "Little Nightmares II",
+    "Description": "Um jogo de horror psicológico onde você controla uma criança em um mundo sombrio e surreal. Resolver puzzles e evitar criaturas assustadoras enquanto descobre os mistérios de um lugar perturbador.",
+    "ReleaseYear": 2021,
+    "Genres": [
+      "Horror",
+      "Adventure",
+      "Puzzle"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "AA",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=AI9zBBTyX-E",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Little%20Nightmares%20II"
+    }
+  },
+  {
+    "Name": "Splosion Man",
+    "Description": "Um jogo de plataforma colorido e cômico onde o protagonista explode constantemente. Navegue por fases repletas de obstáculos, inimigos e desafios de timing utilizando suas explosões.",
+    "ReleaseYear": 2009,
+    "Genres": [
+      "Platform",
+      "Action"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "Indie",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=VMZ6gdP_R4Y",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Splosion%20Man"
+    }
+  },
+  {
+    "Name": "Need For Speed (2015)",
+    "Description": "Um jogo de corrida street racing com foco em customização de veículos e competição online. Personalize seu carro e participe de corridas ilegais noturnas em uma cidade dinâmica.",
+    "ReleaseYear": 2015,
+    "Genres": [
+      "Racing",
+      "Action"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "AAA",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=2FhCCBXhNr4",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Need%20For%20Speed%202015"
+    }
+  },
+  {
+    "Name": "Plants vs Zombies Garden Warfare 2",
+    "Description": "Um jogo de tiro em terceira pessoa com temática de plantas contra zumbis. Escolha entre plantas ou zumbis e participe de batalhas cooperativas e online em modos variados.",
+    "ReleaseYear": 2015,
+    "Genres": [
+      "Shooter",
+      "Action",
+      "Strategy"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "AA",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=9_0gZFfqK3w",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Plants%20vs%20Zombies%20Garden%20Warfare%202"
+    }
+  },
+  {
+    "Name": "Unravel",
+    "Description": "Um jogo de puzzle criativo onde você controla Yarny, uma criatura feita de fio de lã. Resolva enigmas e explore ambientes naturais belamente desenhados usando seu fio como ferramenta.",
+    "ReleaseYear": 2016,
+    "Genres": [
+      "Puzzle",
+      "Adventure",
+      "Platform"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "Indie",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=QpnY1G3vt_0",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Unravel"
+    }
+  },
+  {
+    "Name": "Unravel 2",
+    "Description": "A sequência que expande o conceito com foco em cooperação. Dois Yarnys trabalham juntos para resolver puzzles criativos em um mundo natural deslumbrante com mecânicas inovadoras.",
+    "ReleaseYear": 2018,
+    "Genres": [
+      "Puzzle",
+      "Adventure",
+      "Platform"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "Indie",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=j2TmLrTl6gs",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Unravel%202"
+    }
   }
 ]
