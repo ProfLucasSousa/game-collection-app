@@ -10909,5 +10909,41 @@
     "StoreLinks": {
       "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Unravel%202"
     }
+  },
+  {
+    "Name": "Back 4 Blood",
+    "Description": "Um jogo de shooter cooperativo para 4 jogadores desenvolvido pela Turtle Rock Studios. Enfrente hordas de zumbis mutantes em campanhas intensas com sistemas de progressão e customização de personagens.",
+    "ReleaseYear": 2021,
+    "Genres": [
+      "Shooter",
+      "Action",
+      "Cooperative"
+    ],
+    "Source": [
+      "Xbox Console",
+      "Xbox PC"
+    ],
+    "Classification": "AA",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=VDP53hcRkcc",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Back%204%20Blood",
+      "Xbox PC": "https://www.xbox.com/pt-BR/search?q=Back%204%20Blood"
+    }
+  },
+  {
+    "Name": "Ori and the Blind Forest: Definitive Edition",
+    "Description": "Um jogo de plataforma 2D com exploração cativante e uma história emocionante. Controle Ori, um espírito guardião, em sua jornada para restaurar a floresta através de ambientes deslumbrantes e desafios inventivos.",
+    "ReleaseYear": 2015,
+    "Genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "Source": "Xbox Console",
+    "Classification": "AA",
+    "TrailerYoutube": "https://www.youtube.com/watch?v=zU3rmggIcpc",
+    "StoreLinks": {
+      "Xbox Console": "https://www.xbox.com/pt-BR/search?q=Ori%20and%20the%20Blind%20Forest"
+    }
   }
 ]
