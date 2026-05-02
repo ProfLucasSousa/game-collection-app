@@ -12,19 +12,25 @@ interface FeaturedGamesProps {
   games: Game[]
 }
 
-// Função para gerar jogos do dia baseado na data
-function getDailyGames(games: Game[], count: number, seed: number): Game[] {
-  // Shuffle usando seed baseado na data
-  const shuffled = [...games].sort((a, b) => {
-    const hashA = hashCode(a.id + seed.toString())
-    const hashB = hashCode(b.id + seed.toString())
-    return hashA - hashB
-  })
-  
+// Gera jogos do dia com ordem estavel para a data e a secao.
+function getDailyGames(
+  games: Game[],
+  count: number,
+  dailySeed: number,
+  section: string
+): Game[] {
+  const random = createSeededRandom(hashCode(`${dailySeed}:${section}`))
+  const shuffled = [...games]
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(random() * (i + 1))
+    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+
   return shuffled.slice(0, count)
 }
 
-// Função de hash simples para consistência
+// Transforma texto em uma seed numerica consistente.
 function hashCode(str: string): number {
   let hash = 0
   for (let i = 0; i < str.length; i++) {
@@ -35,7 +41,16 @@ function hashCode(str: string): number {
   return Math.abs(hash)
 }
 
-// Função para obter seed do dia (muda à meia-noite)
+function createSeededRandom(seed: number): () => number {
+  let state = seed || 1
+
+  return () => {
+    state = (state * 1664525 + 1013904223) >>> 0
+    return state / 4294967296
+  }
+}
+
+// Obtem a seed do dia no horario local.
 function getDailySeed(): number {
   const now = new Date()
   const year = now.getFullYear()
@@ -61,7 +76,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
   // Filtrar jogos AAA
   const aaaGames = useMemo(() => {
     const filtered = games.filter((game) => game.classification === "AAA")
-    return getDailyGames(filtered, 4, dailySeed)
+    return getDailyGames(filtered, 4, dailySeed, "aaa")
   }, [games, dailySeed])
 
   // Filtrar clássicos (jogos mais antigos, antes de 2015) excluindo os já selecionados em AAA
@@ -70,7 +85,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
     const filtered = games.filter(
       (game) => game.releaseYear < 2015 && !aaaGameIds.has(game.id)
     )
-    return getDailyGames(filtered, 4, dailySeed + 1) // +1 para seed diferente
+    return getDailyGames(filtered, 4, dailySeed, "classic")
   }, [games, dailySeed, aaaGames])
 
   // Filtrar jogos de Xbox Console
@@ -83,7 +98,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
         !aaaGameIds.has(game.id) &&
         !classicGameIds.has(game.id)
     )
-    return getDailyGames(filtered, 4, dailySeed + 2)
+    return getDailyGames(filtered, 4, dailySeed, "xbox")
   }, [games, dailySeed, aaaGames, classicGames])
 
   // Filtrar jogos de PC (todas as outras fontes: Steam, Amazon, Epic, etc.)
@@ -98,7 +113,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
         !classicGameIds.has(game.id) &&
         !xboxGameIds.has(game.id)
     )
-    return getDailyGames(filtered, 4, dailySeed + 3)
+    return getDailyGames(filtered, 4, dailySeed, "pc")
   }, [games, dailySeed, aaaGames, classicGames, xboxGames])
 
   return (
