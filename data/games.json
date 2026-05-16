@@ -22,7 +22,8 @@
     "ReleaseYear": 2017,
     "Genres": [
       "Shooter",
-      "Action"
+      "Action",
+      "Local Co-op"
     ],
     "Source": "Amazon",
     "Classification": "AA",
@@ -870,7 +871,7 @@
     "Genres": [
       "Simulation",
       "Party",
-      "Co-op"
+      "Local Co-op"
     ],
     "Source": "Amazon",
     "Classification": "Indie",
@@ -1074,7 +1075,8 @@
     "Genres": [
       "Action",
       "Shooter",
-      "Arcade"
+      "Arcade",
+      "Local Co-op"
     ],
     "Source": "Amazon",
     "Classification": "AA",
@@ -1091,7 +1093,8 @@
     "Genres": [
       "Action",
       "Shooter",
-      "Arcade"
+      "Arcade",
+      "Local Co-op"
     ],
     "Source": "Amazon",
     "Classification": "AA",
@@ -1702,7 +1705,8 @@
     "ReleaseYear": 2019,
     "Genres": [
       "Shooter",
-      "Tactical"
+      "Tactical",
+      "Online Co-op"
     ],
     "Source": [
       "EA",
@@ -1879,7 +1883,9 @@
     "Genres": [
       "Shooter",
       "Strategy",
-      "Tactical"
+      "Tactical",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "EA",
     "Classification": "AA",
@@ -2192,7 +2198,9 @@
       "Indie",
       "Role-playing (RPG)",
       "Shooter",
-      "Simulator"
+      "Simulator",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": [
       "Epic",
@@ -2391,7 +2399,9 @@
     "Genres": [
       "Adventure",
       "Role-playing (RPG)",
-      "Shooter"
+      "Shooter",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": [
       "Epic",
@@ -2922,7 +2932,8 @@
     "Genres": [
       "Adventure",
       "Role-playing (RPG)",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": [
       "Epic",
@@ -4019,7 +4030,9 @@
     "Genres": [
       "Indie",
       "Platform",
-      "Puzzle"
+      "Puzzle",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Epic",
     "Classification": "Indie",
@@ -4428,7 +4441,8 @@
     "Genres": [
       "Simulation",
       "Party",
-      "Comedy"
+      "Comedy",
+      "Local Co-op"
     ],
     "Source": "Epic",
     "Classification": "Indie",
@@ -4702,7 +4716,9 @@
       "Indie",
       "Simulator",
       "Strategy",
-      "Tactical"
+      "Tactical",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": [
       "Epic",
@@ -4758,7 +4774,8 @@
     "Genres": [
       "Role-playing (RPG)",
       "Shooter",
-      "Tactical"
+      "Tactical",
+      "Online Co-op"
     ],
     "Source": "Epic",
     "Classification": "AAA",
@@ -4930,7 +4947,7 @@
     "Genres": [
       "Shooter",
       "Soulslike",
-      "Co-op"
+      "Online Co-op"
     ],
     "Source": "Epic",
     "Classification": "AA",
@@ -5055,7 +5072,8 @@
       "Adventure",
       "Indie",
       "Platform",
-      "Puzzle"
+      "Puzzle",
+      "Local Co-op"
     ],
     "Source": "Epic",
     "Classification": "Indie",
@@ -5673,7 +5691,8 @@
       "Adventure",
       "Indie",
       "Music",
-      "Puzzle"
+      "Puzzle",
+      "Local Co-op"
     ],
     "Source": "Epic",
     "Classification": "Indie",
@@ -6294,7 +6313,9 @@
     "ReleaseYear": 2011,
     "Genres": [
       "Platform",
-      "Puzzle"
+      "Puzzle",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Epic",
     "Classification": "AA",
@@ -6453,7 +6474,8 @@
     "Genres": [
       "Adventure",
       "Role-playing (RPG)",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": [
       "Epic",
@@ -7524,7 +7546,8 @@
     "ReleaseYear": 2016,
     "Genres": [
       "Indie",
-      "Simulator"
+      "Simulator",
+      "Local Co-op"
     ],
     "Source": "GOG",
     "Classification": "Indie",
@@ -8227,7 +8250,8 @@
       "Indie",
       "Shooter",
       "Simulator",
-      "Strategy"
+      "Strategy",
+      "Online Co-op"
     ],
     "Source": "Steam",
     "Classification": "Indie",
@@ -8390,7 +8414,8 @@
     "Genres": [
       "Adventure",
       "Indie",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": "Steam",
     "Classification": "Indie",
@@ -8406,7 +8431,8 @@
     "Genres": [
       "Adventure",
       "Role-playing (RPG)",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": "Steam",
     "Classification": "AA",
@@ -8650,7 +8676,8 @@
     "Description": "A Valve (os criadores de Counter-Strike, Half-Life e mais) apresenta Left 4 Dead, um jogo cooperativo de ação e terror para computador e Xbox 360, que lança até quatro jogadores em uma luta épica...",
     "ReleaseYear": 2008,
     "Genres": [
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": "Steam",
     "Classification": "AA",
@@ -8664,7 +8691,8 @@
     "Description": "Situado em um apocalipse zumbi, Left 4 Dead 2 (L4D2) é a aguardadíssima sequência do consagrado Left 4 Dead, o jogo cooperativo mais popular de 2008. Este jogo de tiro em primeira pessoa de terror...",
     "ReleaseYear": 2009,
     "Genres": [
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": "Steam",
     "Classification": "AA",
@@ -9523,7 +9551,8 @@
     "ReleaseYear": 2018,
     "Genres": [
       "Adventure",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": [
       "Ubisoft",
@@ -9559,7 +9588,8 @@
     "ReleaseYear": 2019,
     "Genres": [
       "Adventure",
-      "Shooter"
+      "Shooter",
+      "Online Co-op"
     ],
     "Source": [
       "Ubisoft",
@@ -9778,7 +9808,8 @@
     "ReleaseYear": 2013,
     "Genres": [
       "Adventure",
-      "Platform"
+      "Platform",
+      "Local Co-op"
     ],
     "Source": "Ubisoft",
     "Classification": "AA",
@@ -10028,7 +10059,8 @@
     "Genres": [
       "Adventure",
       "Shooter",
-      "Tactical"
+      "Tactical",
+      "Online Co-op"
     ],
     "Source": "Ubisoft",
     "Classification": "AAA",
@@ -10146,7 +10178,8 @@
       "Adventure",
       "Role-playing (RPG)",
       "Shooter",
-      "Tactical"
+      "Tactical",
+      "Online Co-op"
     ],
     "Source": "Ubisoft",
     "Classification": "AA",
@@ -10381,7 +10414,8 @@
     "ReleaseYear": 2016,
     "Genres": [
       "Action",
-      "Role-playing (RPG)"
+      "Role-playing (RPG)",
+      "Online Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "AA",
@@ -10397,7 +10431,8 @@
     "ReleaseYear": 2022,
     "Genres": [
       "Shooter",
-      "Action"
+      "Action",
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
@@ -10417,7 +10452,8 @@
     "ReleaseYear": 2023,
     "Genres": [
       "Shooter",
-      "Action"
+      "Action",
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
@@ -10437,7 +10473,8 @@
     "ReleaseYear": 2021,
     "Genres": [
       "Shooter",
-      "Action"
+      "Action",
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
@@ -10489,7 +10526,9 @@
     "Genres": [
       "Adventure",
       "Platform",
-      "Puzzle"
+      "Puzzle",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "Indie",
@@ -10521,7 +10560,8 @@
     "ReleaseYear": 2023,
     "Genres": [
       "Strategy",
-      "Action"
+      "Action",
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
@@ -10616,7 +10656,9 @@
     "ReleaseYear": 2009,
     "Genres": [
       "Platform",
-      "Action"
+      "Action",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "Indie",
@@ -10632,7 +10674,8 @@
     "ReleaseYear": 2024,
     "Genres": [
       "Shooter",
-      "Role-playing (RPG)"
+      "Role-playing (RPG)",
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
@@ -10747,7 +10790,9 @@
     "ReleaseYear": 2018,
     "Genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "Indie",
@@ -10837,7 +10882,8 @@
     "ReleaseYear": 2019,
     "Genres": [
       "Shooter",
-      "Action"
+      "Action",
+      "Online Co-op"
     ],
     "Source": "Xbox PC",
     "Classification": "AAA",
@@ -10869,7 +10915,9 @@
     "Genres": [
       "Shooter",
       "Action",
-      "Strategy"
+      "Strategy",
+      "Local Co-op",
+      "Online Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "AA",
@@ -10901,7 +10949,8 @@
     "Genres": [
       "Puzzle",
       "Adventure",
-      "Platform"
+      "Platform",
+      "Local Co-op"
     ],
     "Source": "Xbox Console",
     "Classification": "Indie",
@@ -10917,7 +10966,7 @@
     "Genres": [
       "Shooter",
       "Action",
-      "Cooperative"
+      "Online Co-op"
     ],
     "Source": [
       "Xbox Console",
