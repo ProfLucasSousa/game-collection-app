@@ -140,7 +140,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
               >
                 <div className="aspect-[3/4] relative overflow-hidden bg-gradient-to-br from-purple-500/20 to-pink-500/20">
                   <img
-                    src={`/covers/${game.id}.jpg`}
+                    src={game.coverUrl || ""}
                     alt={game.name}
                     className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     onError={(e) => {
@@ -201,7 +201,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
               >
                 <div className="aspect-[3/4] relative overflow-hidden bg-gradient-to-br from-amber-500/20 to-orange-500/20">
                   <img
-                    src={`/covers/${game.id}.jpg`}
+                    src={game.coverUrl || ""}
                     alt={game.name}
                     className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     onError={(e) => {
@@ -262,7 +262,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
               >
                 <div className="aspect-[3/4] relative overflow-hidden bg-gradient-to-br from-green-500/20 to-emerald-500/20">
                   <img
-                    src={`/covers/${game.id}.jpg`}
+                    src={game.coverUrl || ""}
                     alt={game.name}
                     className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     onError={(e) => {
@@ -323,7 +323,7 @@ export function FeaturedGames({ games }: FeaturedGamesProps) {
               >
                 <div className="aspect-[3/4] relative overflow-hidden bg-gradient-to-br from-blue-500/20 to-cyan-500/20">
                   <img
-                    src={`/covers/${game.id}.jpg`}
+                    src={game.coverUrl || ""}
                     alt={game.name}
                     className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     onError={(e) => {

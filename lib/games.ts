@@ -1,5 +1,7 @@
-import gamesData from "@/data/games.json"
 import type { GameRaw, Game } from "./types"
+
+const REMOTE_GAMES_API = "https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/data/games.json"
+const REMOTE_COVERS_URL = "https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/covers"
 
 function slugify(name: string): string {
   return name
@@ -8,38 +10,59 @@ function slugify(name: string): string {
     .replace(/(^-|-$)/g, "")
 }
 
-export function parseGames(): Game[] {
-  const usedIds = new Set<string>()
-  
-  return (gamesData as unknown as GameRaw[]).map((raw, index) => {
-    const sources = Array.isArray(raw.Source) ? raw.Source : [raw.Source]
-    let id = slugify(raw.Name)
+let cachedGames: Game[] | null = null
+
+export async function parseGames(): Promise<Game[]> {
+  // Retorna cache se já foi carregado
+  if (cachedGames) {
+    return cachedGames
+  }
+
+  try {
+    const response = await fetch(REMOTE_GAMES_API, { cache: "no-store" })
+    if (!response.ok) {
+      throw new Error(`Failed to fetch games: ${response.statusText}`)
+    }
+    const gamesData = await response.json()
     
-    // Se o ID já existe, adiciona um sufixo numérico
-    if (usedIds.has(id)) {
-      let counter = 2
-      while (usedIds.has(`${id}-${counter}`)) {
-        counter++
+    const usedIds = new Set<string>()
+    
+    const games = (gamesData as unknown as GameRaw[]).map((raw, index) => {
+      const sources = Array.isArray(raw.Source) ? raw.Source : [raw.Source]
+      let id = slugify(raw.Name)
+      
+      // Se o ID já existe, adiciona um sufixo numérico
+      if (usedIds.has(id)) {
+        let counter = 2
+        while (usedIds.has(`${id}-${counter}`)) {
+          counter++
+        }
+        id = `${id}-${counter}`
       }
-      id = `${id}-${counter}`
-    }
+      
+      usedIds.add(id)
+      
+      return {
+        id,
+        name: raw.Name,
+        description: raw.Description,
+        releaseYear: raw.ReleaseYear,
+        genres: raw.Genres,
+        sources,
+        classification: raw.Classification,
+        coverUrl: `${REMOTE_COVERS_URL}/${id}.jpg`,
+        screenshotUrl: null,
+        trailerYoutube: raw.TrailerYoutube,
+        storeLinks: raw.StoreLinks,
+      }
+    })
     
-    usedIds.add(id)
-    
-    return {
-      id,
-      name: raw.Name,
-      description: raw.Description,
-      releaseYear: raw.ReleaseYear,
-      genres: raw.Genres,
-      sources,
-      classification: raw.Classification,
-      coverUrl: null,
-      screenshotUrl: null,
-      trailerYoutube: raw.TrailerYoutube,
-      storeLinks: raw.StoreLinks,
-    }
-  })
+    cachedGames = games
+    return games
+  } catch (error) {
+    console.error("Error fetching games:", error)
+    throw error
+  }
 }
 
 export function getAllGenres(games: Game[]): Map<string, number> {

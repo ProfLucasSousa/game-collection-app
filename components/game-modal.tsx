@@ -12,7 +12,7 @@ interface GameModalProps {
 }
 
 export function GameModal({ game, onClose }: GameModalProps) {
-  const coverUrl = `/covers/${game.id}.jpg`
+  const coverUrl = game.coverUrl || ""
 
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {

@@ -1,8 +1,8 @@
 import { parseGames } from "@/lib/games"
 import { GameLibrary } from "@/components/game-library"
 
-export default function Page() {
-  const games = parseGames()
+export default async function Page() {
+  const games = await parseGames()
 
   return <GameLibrary games={games} />
 }

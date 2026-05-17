@@ -7,7 +7,7 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  const games = parseGames()
+  const games = await parseGames()
   return games.map((game) => ({
     id: game.id,
   }))
@@ -15,7 +15,7 @@ export async function generateStaticParams() {
 
 export default async function GamePage({ params }: PageProps) {
   const { id } = await params
-  const games = parseGames()
+  const games = await parseGames()
   const game = games.find((g) => g.id === id)
 
   if (!game) {

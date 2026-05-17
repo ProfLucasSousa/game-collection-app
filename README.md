@@ -17,7 +17,7 @@ Uma aplicação moderna e elegante para gerenciar e visualizar sua coleção de 
 - 📅 **Filtro por Ano**: Navegue pela coleção por ano de lançamento com contadores
 - 📱 **Mobile First**: Layout totalmente responsivo para desktop e mobile com sidebar recolhível
 - ♾️ **Scroll Infinito**: Carregamento progressivo de jogos para melhor performance
-- 🖼️ **Capas Locais**: 699 capas em alta qualidade baixadas via API IGDB
+- 🖼️ **Capas Remotas**: Capas em alta qualidade servidas via API remota
 - 📄 **Páginas de Detalhes**: Informações completas de cada jogo com:
   - 🌐 Descrição traduzida automaticamente para português
   - ⭐ Reviews & Avaliações (RAWG e Metacritic)
@@ -32,7 +32,7 @@ Uma aplicação moderna e elegante para gerenciar e visualizar sua coleção de 
 - 📲 **Preview Social**: Imagem rica ao compartilhar links (Open Graph + Twitter Cards)
 - ⚡ **Performance**: Otimizado com lazy loading, SSR e caching inteligente
 - 🎭 **Animações Suaves**: Transições elegantes com Framer Motion
-- 🌐 **639 Jogos**: Coleção completa com metadados e capas em alta qualidade
+- 🌐 **Coleção Dinâmica**: Dados sincronizados com repositório remoto em tempo real
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -51,11 +51,10 @@ Uma aplicação moderna e elegante para gerenciar e visualizar sua coleção de 
   - Select, Checkbox, Radio Group, etc.
 
 ### Ferramentas
-- **Sharp** - Processamento de imagens
-- **IGDB API** - Banco de dados de jogos
 - **RAWG API** - Informações detalhadas, screenshots e vídeos
 - **Google Translate API** - Tradução automática de descrições
 - **Google Sheets** - Armazenamento de erros reportados (via webhook)
+- **GitHub API** - Consumo de dados remotos (JSON e imagens)
 - **ESLint** - Linter para qualidade de código
 - **pnpm** - Gerenciador de pacotes rápido
 
@@ -124,22 +123,11 @@ http://localhost:3000
 
 ## 📦 Scripts Disponíveis
 
-### Desenvolvimento
 ```bash
 pnpm dev          # Inicia servidor de desenvolvimento
 pnpm build        # Cria build de produção
 pnpm start        # Inicia servidor de produção
 pnpm lint         # Executa linter
-```
-
-### Gerenciamento de Capas
-```bash
-pnpm download-covers    # Baixa capas da API IGDB para todos os jogos
-pnpm check-covers       # Verifica quais jogos estão sem capas
-pnpm create-placeholders # Cria placeholders para jogos sem capa
-pnpm convert-covers     # Converte imagens WEBP/AVIF para JPG
-pnpm rename-covers      # Renomeia capas para IDs corretos
-pnpm convert-png        # Converte imagens PNG para JPG
 ```
 
 ## 📁 Estrutura do Projeto
@@ -178,8 +166,6 @@ game-collection-app/
 │   ├── platform-icons.tsx   # Ícones de plataformas (Next Image)
 │   ├── report-error-dialog.tsx # Dialog para reportar erros
 │   └── theme-provider.tsx   # Provedor de tema
-├── data/
-│   └── games.json           # Base de dados (639 jogos)
 ├── hooks/                   # Custom hooks
 │   ├── use-mobile.tsx       # Hook para detecção mobile
 │   └── use-toast.ts         # Hook para notificações
@@ -188,16 +174,10 @@ game-collection-app/
 │   ├── types.ts            # TypeScript interfaces (Game, GameRaw, etc.)
 │   └── utils.ts            # Utilitários gerais (cn, etc.)
 ├── public/
-│   ├── covers/             # Capas dos jogos (699 imagens JPG, 68MB)
 │   ├── logos/              # Logos das plataformas (8 imagens)
 │   └── favicon.svg         # Favicon principal (ícone de gamepad)
 ├── scripts/                # Scripts de automação Node.js
-│   ├── check-missing-covers.js      # Verifica jogos sem capa
-│   ├── convert-covers.js            # WEBP/AVIF → JPG
-│   ├── convert-png-covers.js        # PNG → JPG com mapeamento
-│   ├── create-placeholder-covers.js # Cria placeholders
-│   ├── download-covers.js           # Baixa da IGDB com OAuth
-│   └── rename-covers.js             # Renomeia para IDs corretos
+│   └── download-covers.js  # Script legado (sem uso no fluxo atual)
 ├── styles/
 │   └── globals.css         # Estilos globais adicionais
 ├── .env.local              # Variáveis de ambiente (não commitado)
@@ -210,7 +190,13 @@ game-collection-app/
 └── package.json            # Dependências e scripts
 ```
 
-## 🗂️ Estrutura dos Dados
+## 🌐 Fonte de Dados Remota
+
+### API Game Collection
+Os dados de jogos e capas são consumidos do repositório remoto:
+- **Repositório**: [api-game-collection](https://github.com/ProfLucasSousa/api-game-collection)
+- **JSON de Jogos**: `https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/data/games.json`
+- **Capas**: `https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/covers/`
 
 ### Formato do games.json
 
@@ -407,25 +393,32 @@ Action, Adventure, RPG, Strategy, Simulation, Sports, Racing, Fighting, Platform
 
 ### Adicionar Novos Jogos
 
-1. Edite `data/games.json`:
-```json
-{
-  "Name": "Nome do Jogo",
-  "Description": "Descrição do jogo",
-  "ReleaseYear": 2024,
-  "Genres": ["Action", "Adventure"],
-  "Source": "Steam",
-  "Classification": "AAA"
-}
-```
+Para adicionar novos jogos à coleção:
 
-2. Adicione a capa em `public/covers/` com o nome slugificado:
+1. **Edite o repositório remoto**:
+   - Acesse [api-game-collection](https://github.com/ProfLucasSousa/api-game-collection)
+   - Edite o arquivo `data/games.json`
+   - Adicione uma nova entrada com a mesma estrutura:
+     ```json
+     {
+       "Name": "Nome do Jogo",
+       "Description": "Descrição do jogo",
+       "ReleaseYear": 2024,
+       "Genres": ["Action", "Adventure"],
+       "Source": "Steam",
+       "Classification": "AAA"
+     }
+     ```
+
+2. **Adicione a capa**:
+   - Salve a imagem em `covers/` com o nome slugificado
    - Exemplo: "The Witcher 3" → `the-witcher-3.jpg`
+   - Formato: JPG, 264x352px (ou maior mantendo proporção)
 
-3. Ou use o script de download:
-```bash
-pnpm download-covers
-```
+3. **Sincronize**:
+   - O app sincroniza automaticamente com o repositório remoto
+   - A mudança estará visível na próxima requisição ao servidor
+   - Para forçar atualização: limpe o cache do navegador e recarregue
 
 ### Personalizar Seção de Destaques
 
@@ -434,16 +427,6 @@ Edite `components/featured-games.tsx`:
 - Modifique critério de "clássico" (padrão: 3+ anos de lançamento)
 - Ajuste algoritmo de rotação (baseado em seed de data YYYYMMDD)
 - Mude layout do grid (padrão: 3 colunas desktop, 2 mobile)
-
-2. Adicione a capa em `public/covers/` com o nome slugificado:
-   - Exemplo: "The Witcher 3" → `the-witcher-3.jpg`
-   - Formato: JPG, 264x352px (ou maior mantendo proporção)
-
-3. Ou use o script de download automático da IGDB:
-
-```bash
-pnpm download-covers
-```
 
 ## 🎨 Temas e Cores
 
@@ -539,14 +522,13 @@ Edite `components/game-library.tsx`:
 
 ### Imagens Não Carregam
 Verifique:
-1. Arquivos existem em `public/covers/`
-2. Nomes seguem o padrão slugificado (lowercase, hífens)
-3. Formato é JPG (não WEBP, PNG ou AVIF)
-4. Use os scripts de conversão se necessário:
-```bash
-pnpm convert-covers    # WEBP/AVIF → JPG
-pnpm convert-png       # PNG → JPG
-```
+1. A capa existe no repositório remoto em `covers/[game-id].jpg`
+2. O nome segue o padrão slugificado (lowercase, hífens)
+3. O arquivo é um JPG válido e acessível
+4. Verifique se o repositório remoto está online:
+   - https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/covers/
+
+**Fallback**: Se a imagem remota não carregar, a página exibe um placeholder com gradiente colorido
 
 ### RAWG API não retorna dados
 **Problema**: Página de detalhes não carrega informações complementares.
@@ -557,7 +539,7 @@ pnpm convert-png       # PNG → JPG
 3. Check console do navegador para erros de CORS ou rate limit
 4. Teste diretamente: `/api/rawg?name=Cyberpunk 2077&type=details`
 
-**Fallback**: Se RAWG não retornar dados, a página usa apenas informações do `games.json` local.
+**Fallback**: Se RAWG não retornar dados, a página usa apenas informações do JSON remoto da API Game Collection.
 
 ### Traduções não funcionam
 **Problema**: Descrições permanecem em inglês.
@@ -589,9 +571,10 @@ pnpm convert-png       # PNG → JPG
 
 ### Filtros Não Funcionam
 1. Verifique o console para erros de TypeScript
-2. Confirme que `games.json` tem os campos corretos:
+2. Confirme que o JSON remoto tem os campos corretos:
    - `Name`, `Genres`, `Source`, `Classification`, `ReleaseYear`
-3. Limpe cache do navegador e reinicie o servidor
+3. Verifique se a API remota está acessível
+4. Limpe cache do navegador e reinicie o servidor
 
 ### Performance Lenta
 1. Reduza `GAMES_PER_PAGE` em `game-library.tsx`
@@ -620,7 +603,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- [IGDB](https://www.igdb.com/) - API de capas e dados de jogos
+- [api-game-collection](https://github.com/ProfLucasSousa/api-game-collection) - Repositório remoto com dados e capas
 - [RAWG](https://rawg.io/) - API de detalhes, screenshots e vídeos
 - [Google Translate API](https://www.npmjs.com/package/@vitalets/google-translate-api) - Traduções automáticas
 - [Radix UI](https://www.radix-ui.com/) - Componentes acessíveis

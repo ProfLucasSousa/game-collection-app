@@ -17,7 +17,7 @@ export function GameCard({ game, index }: GameCardProps) {
   const [showModal, setShowModal] = useState(false)
   const imageRef = useRef<HTMLImageElement>(null)
 
-  const coverUrl = `/covers/${game.id}.jpg`
+  const coverUrl = game.coverUrl || ""
 
   // Verificar se a imagem já está carregada (para eager loading)
   useEffect(() => {
