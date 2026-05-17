@@ -2,6 +2,10 @@ import type { GameRaw, Game } from "./types"
 
 const REMOTE_GAMES_API = "https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/data/games.json"
 const REMOTE_COVERS_URL = "https://raw.githubusercontent.com/ProfLucasSousa/api-game-collection/main/covers"
+const CACHE_DURATION_MS = 5 * 60 * 1000 // 5 minutos
+
+let cachedGames: Game[] | null = null
+let cacheTimestamp: number = 0
 
 function slugify(name: string): string {
   return name
@@ -10,16 +14,19 @@ function slugify(name: string): string {
     .replace(/(^-|-$)/g, "")
 }
 
-let cachedGames: Game[] | null = null
-
 export async function parseGames(): Promise<Game[]> {
-  // Retorna cache se já foi carregado
-  if (cachedGames) {
+  const now = Date.now()
+  
+  // Retorna cache se ainda está válido (menos de 5 minutos)
+  if (cachedGames && now - cacheTimestamp < CACHE_DURATION_MS) {
     return cachedGames
   }
 
   try {
-    const response = await fetch(REMOTE_GAMES_API, { cache: "no-store" })
+    const response = await fetch(REMOTE_GAMES_API, { 
+      cache: "no-store",
+      next: { revalidate: 0 }
+    })
     if (!response.ok) {
       throw new Error(`Failed to fetch games: ${response.statusText}`)
     }
@@ -58,6 +65,7 @@ export async function parseGames(): Promise<Game[]> {
     })
     
     cachedGames = games
+    cacheTimestamp = Date.now()
     return games
   } catch (error) {
     console.error("Error fetching games:", error)

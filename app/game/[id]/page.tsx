@@ -6,12 +6,8 @@ interface PageProps {
   params: Promise<{ id: string }>
 }
 
-export async function generateStaticParams() {
-  const games = await parseGames()
-  return games.map((game) => ({
-    id: game.id,
-  }))
-}
+// ISR: Revalidate a cada 5 minutos para pegar novos jogos
+export const revalidate = 300
 
 export default async function GamePage({ params }: PageProps) {
   const { id } = await params
